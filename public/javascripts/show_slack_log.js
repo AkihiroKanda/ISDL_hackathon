@@ -34,8 +34,12 @@ function showSlackLog(idx,usersProfile,slackLog) {
           //text追加
           var element = document.createElement('div');
           element.className = "text";
-          //elementReference.style.zIndex = "2";
-          element.innerHTML = slackLog[i][j].text;
+          //elementReference.style.zIndex = "0";
+          //  console.log(slackLog[i][j].text);
+          var str = slackLog[i][j].text;
+          str = str.replace(/\r?\n/g, '<br>');
+          element.innerHTML = str;
+
 
           var objBody = document.getElementsByTagName("body").item(0);
           objBody.appendChild(element);

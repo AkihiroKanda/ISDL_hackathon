@@ -16,10 +16,10 @@ body {
  margin-right: auto;
  margin-left : auto;
 }
-h1 {
+/*h1 {
 position: relative;
 padding-left: 25px;
-/*z-index:2;*/
+z-index:2;
 }
 
 h1:before {
@@ -42,11 +42,18 @@ width: 100%;
 border-bottom: solid 3px #FF9933;
 }
 
-
+*/
 .img {
   border-radius: 20px;
   height: 40px;
   width: 40px;
+}
+
+div#padding
+{
+    top: 0px;
+    width: 100%;
+    height: 100px;
 }
 
 /* ヘッダーの固定 */
@@ -62,10 +69,12 @@ div#header-fixed
 
 
 div#title {
-	background-color:#444;     /* 背景色(黒) */
+  font-size:50px;
+	background-color:#EEEEEE;     /* 背景色(黒) */
 	padding:10px 0 20px;       /* 上10px、下20pxをあける */
 	height:50px;              /* 縦の高さ110px */
 	width:100%;                /* 横の幅を100% */
+  border-bottom: solid 3px #516ab6;/*下線*/
 }
 
 
