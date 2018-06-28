@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<https:\/\/qiita.com\/koyopro\/items\/b4569285efc22c6397c6>\n\nこの辺が理解できたらgitはマスターじゃないでしょうか（操作方法とかじゃなくて、git運用という観点で）",
+        "ts": "1526690756.000006",
+        "attachments": [
+            {
+                "fallback": "Qiita: GitFlowをやめて本番リリースが楽になった話 - Qiita",
+                "id": 1,
+                "title": "GitFlowをやめて本番リリースが楽になった話 - Qiita",
+                "title_link": "https:\/\/qiita.com\/koyopro\/items\/b4569285efc22c6397c6",
+                "text": "## 背景 サーバーサイド開発のプロジェクトでGitFlow(的な)運用を行っていたが、本番リリースの際に困ることがあったのでgitの運用フローを変えて解消したという話。 まず問題の内容から順番に書いているので、結論(新しい運用ルー...",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png"
+            }
+        ]
+    }
+]

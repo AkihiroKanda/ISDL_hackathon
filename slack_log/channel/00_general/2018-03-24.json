@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U9UV34517",
+        "text": "<@U9UV34517>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1521892818.000033"
+    },
+    {
+        "user": "U9WB96RQW",
+        "text": "<@U9WB96RQW>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1521901253.000115"
+    },
+    {
+        "user": "U9VEE21MZ",
+        "text": "<@U9VEE21MZ>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1521910784.000143"
+    },
+    {
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1521940054.000048"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!everyone> \nM1,M2でプライベートチャンネル作ってるので、随時招待してもらってください",
+        "client_msg_id": "5c93c783-8c42-4365-9a4f-b9f43bce99b5",
+        "ts": "1521949268.000076"
+    },
+    {
+        "user": "U9VLBFM7U",
+        "text": "<@U9VLBFM7U>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1521952931.000051"
+    }
+]

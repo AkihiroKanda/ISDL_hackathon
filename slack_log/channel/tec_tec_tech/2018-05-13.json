@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "今更ながらNode.js入門しましたー\n\nJavaScriptでクライアント・サーバ両方書けるのが何がメリットなんやおもてたけど、なんか分かった希ガス\n\n<https:\/\/qiita.com\/nkjm\/items\/723990c518acfee6e473>",
+        "ts": "1526194329.000003",
+        "attachments": [
+            {
+                "fallback": "Qiita: ゼロからはじめるExpress + Node.jsを使ったアプリ開発 - Qiita",
+                "id": 1,
+                "title": "ゼロからはじめるExpress + Node.jsを使ったアプリ開発 - Qiita",
+                "title_link": "https:\/\/qiita.com\/nkjm\/items\/723990c518acfee6e473",
+                "text": "#Expressとは？ Node.jsは言わずとしれたサーバーサイドJavascriptの実行環境。 ExpressはそのNode.jsでの王道的な開発をスピードアップするためのフレームワークです。 Expressを使った開発効率...",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "わりと使いやすいで\nコールバック地獄にならなければ",
+        "ts": "1526194359.000059"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "でも、やっぱりきっちりサーバとクライアントは分離して考えたい派の人やから、Railsの方が好きだなぁ",
+        "ts": "1526194404.000037"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "逆にRailsがわかりません笑",
+        "ts": "1526194425.000029"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "ぬぬぬ",
+        "ts": "1526194432.000040"
+    }
+]

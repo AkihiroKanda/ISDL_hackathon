@@ -1,0 +1,139 @@
+[
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "\u0008HDD 2T \n<https:\/\/www.biccamera.com\/bc\/item\/3632722\/>\n補助申請これにします．\n他に買う方は\u0008\u0008今週の水曜までに連絡ください．",
+        "ts": "1526290755.000360",
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "count": 1,
+                "users": [
+                    "UA0083JS0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "今日の勉強会、これ最後？",
+        "ts": "1526293136.000024"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9VD2BKNG> \nあとスマホプログラミング（iOS，Android，クロスプラットフォーム）があります",
+        "ts": "1526293351.000526"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!channel> \nIoT班のMTGが僕のカレンダーに入ってるんですが，何かのミスですか？",
+        "ts": "1526299539.000229"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "オフィスがIoTに吸収された",
+        "ts": "1526299710.000533"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "(三木先生によって)",
+        "ts": "1526299723.000106",
+        "edited": {
+            "user": "U9XN8QQ77",
+            "ts": "1526299734.000000"
+        }
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "<@U9W9J4MP0> ",
+        "ts": "1526299773.000020"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "なるほど",
+        "ts": "1526299785.000475"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "IoTの中で班わけあるっぽいから、そこでまたわかれるかも",
+        "ts": "1526299813.000211"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "@IoT班のU4\n今回はいける時間帯やったから\u0008ええけど，MTG日時の決定は連絡してからするのが普通やと思うぞ",
+        "ts": "1526299842.000283"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "すみません\n僕がU4が行ける時間を優先して時間を決めていいという風に言ってしまっていました。",
+        "ts": "1526300234.000039"
+    },
+    {
+        "type": "message",
+        "user": "UA18JT79D",
+        "text": "申し訳ございません。\n以後気をつけます。",
+        "ts": "1526300300.000548"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "今回は1回目やし，全然いいけど，今後気つけてな\nちなみに，MTG入りましたって連絡もなかったからそっちの方がヤバ目\u0008",
+        "ts": "1526300307.000016"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "ま，気つけてください",
+        "ts": "1526300323.000128"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "他の班のみんなもね:thumbsup:",
+        "ts": "1526300333.000573",
+        "edited": {
+            "user": "U9W9J4MP0",
+            "ts": "1526300351.000000"
+        },
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 7,
+                "users": [
+                    "UA0083JS0",
+                    "U9ZFZ43DW",
+                    "UA1239MTQ",
+                    "UA18JT79D",
+                    "UA0B1QWCV",
+                    "U9ZGENNKA",
+                    "UA074SQ4S"
+                ]
+            },
+            {
+                "name": "man-bowing::skin-tone-5",
+                "count": 2,
+                "users": [
+                    "UA1239MTQ",
+                    "UA18JT79D"
+                ]
+            },
+            {
+                "name": "thanos2",
+                "count": 1,
+                "users": [
+                    "U9VD2BKNG"
+                ]
+            }
+        ]
+    }
+]

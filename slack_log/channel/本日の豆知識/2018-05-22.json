@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "おはようございます。\n\n本日、5月22日（火）のLAは八十田です。\n明日、5月23日（水）のLA佐藤です。\n\n本日の行事は以下の通りです。\n-----\n16:00 ~ 16:30　Open for Students\n-----\n\n本日の豆知識\n-----\nたくあんに100Vの電圧をかけると光る。\n-----\n\n以上です。今日も1日頑張りましょう。",
+        "ts": "1526946628.000004",
+        "reactions": [
+            {
+                "name": "ils",
+                "count": 3,
+                "users": [
+                    "UA1239MTQ",
+                    "U9W9J4MP0",
+                    "U9VQSJC4C"
+                ]
+            },
+            {
+                "name": "usonn",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            },
+            {
+                "name": "dekai",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VEE21MZ",
+        "text": "Morimoto's tips of today\n---------\nカーネルサンダースの眼鏡には\n度が入っている\n---------",
+        "ts": "1526947047.000250",
+        "reactions": [
+            {
+                "name": "sorena",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    }
+]

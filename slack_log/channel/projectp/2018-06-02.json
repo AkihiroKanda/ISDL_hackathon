@@ -1,0 +1,111 @@
+[
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9VQSJC4C>さんがチャンネルに参加しました",
+        "ts": "1527929633.000044",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9VQSJC4C>さんがチャンネルの目的を設定しました : projectpに関して情報共有を行う場",
+        "ts": "1527929634.000045",
+        "subtype": "channel_purpose",
+        "purpose": "projectpに関して情報共有を行う場"
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "<@UA073MJTU>さんがチャンネルに参加しました",
+        "ts": "1527929634.000047",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "<@UA0B1QWCV>さんがチャンネルに参加しました",
+        "ts": "1527929634.000054",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "UA074SQ4S",
+        "text": "<@UA074SQ4S>さんがチャンネルに参加しました",
+        "ts": "1527929634.000059",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "UA008K4G4",
+        "text": "<@UA008K4G4>さんがチャンネルに参加しました",
+        "ts": "1527929634.000067",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9WB96RQW",
+        "text": "<@U9WB96RQW>さんがチャンネルに参加しました",
+        "ts": "1527929635.000008",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "<@U9WMSU938>さんがチャンネルに参加しました",
+        "ts": "1527929635.000027",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<@UA1239MTQ>さんがチャンネルに参加しました",
+        "ts": "1527929635.000031",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFZ43DW",
+        "text": "<@U9ZFZ43DW>さんがチャンネルに参加しました",
+        "ts": "1527929635.000036",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "<@UA0083JS0>さんがチャンネルに参加しました",
+        "ts": "1527929635.000041",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんがチャンネルに参加しました",
+        "ts": "1527929635.000077",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "<@UAA37NWHW>さんがチャンネルに参加しました",
+        "ts": "1527929635.000085",
+        "subtype": "channel_join",
+        "inviter": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@UAA37NWHW> \nProject Pへの参加を希望している学生が決定したので，グループを作成いたしました．\nつきましては，キックオフミーティングの日程を決定したいため，\n後日，オープンフォーでお伺いいたします．\nよろしくお願いいたします．",
+        "ts": "1527930537.000078"
+    }
+]

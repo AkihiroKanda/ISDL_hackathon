@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "知的照明班MTGは15日(火)15:00〜16:00でカレンダー登録しました。\nご確認よろしくお願いします。",
+        "ts": "1526274001.000148"
+    },
+    {
+        "type": "message",
+        "user": "U9XQR125B",
+        "text": "<@U9XQR125B>さんがチャンネルに参加しました",
+        "ts": "1526277742.000155",
+        "subtype": "channel_join",
+        "inviter": "U9XHTK59Q"
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "<@U9WMSU938>さんがチャンネルに参加しました",
+        "ts": "1526279147.000199",
+        "subtype": "channel_join"
+    }
+]

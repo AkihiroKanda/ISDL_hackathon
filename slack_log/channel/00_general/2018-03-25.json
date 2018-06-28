@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U9VLY8PKL",
+        "text": "<@U9VLY8PKL>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1521967168.000085"
+    },
+    {
+        "user": "U9V4VKKPA",
+        "text": "<@U9V4VKKPA>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1522035810.000137"
+    },
+    {
+        "user": "U9VQSJC4C",
+        "text": "<@U9VQSJC4C>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1522037706.000176"
+    },
+    {
+        "user": "U9WMSU938",
+        "text": "<@U9WMSU938>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1522041586.000126"
+    }
+]

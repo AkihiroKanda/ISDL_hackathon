@@ -1,0 +1,93 @@
+[
+    {
+        "user": "UAA37NWHW",
+        "inviter": "U9XHTK59Q",
+        "text": "<@UAA37NWHW>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858358.000013"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@UAA37NWHW> ”奈良医大”というチャンネルを作成していただいていましたが、既にこのチャンネルが存在していたため、\"奈良医大\"のチャンネルはアーカイブしました。\n今後は奈良医大のプロジェクトに関するお願いや情報共有はこのチャンネルで行わせていただきます。\n\n因みに、slackではチャンネルをアーカイブするとメッセージの送信等は不可能になりますが、全文検索をかけるとアーカイブ内の会話もヒットします。",
+        "ts": "1525858587.000414",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "users": [
+                    "U9VQSJC4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "了解:ok_hand:",
+        "client_msg_id": "45A825A5-C561-4BC3-909E-D68ED398DC9D",
+        "ts": "1525858743.000120",
+        "reactions": [
+            {
+                "name": "man-bowing::skin-tone-2",
+                "users": [
+                    "U9XHTK59Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "次のミーティング予定を入れて欲しいなぁ:yum:",
+        "client_msg_id": "65184534-AE91-4788-A5CF-4FEAF2CAC825",
+        "ts": "1525858796.000286"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@UAA37NWHW> 次のミーティングですが、11日（金）18:00 ~ 18:30 に予定されています！",
+        "edited": {
+            "user": "U9XHTK59Q",
+            "ts": "1525858914.000000"
+        },
+        "ts": "1525858898.000279"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "そうだったね。忘れていた。",
+        "client_msg_id": "2A2680AE-F663-4FDB-91B4-A69DA965A910",
+        "ts": "1525859061.000140"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "よろしく願いします:smiley:",
+        "attachments": [
+            {
+                "fallback": "[May 9th, 2018 2:44 AM] mmiki: そうだったね。忘れていた。",
+                "ts": "1525859061.000140",
+                "author_id": "UAA37NWHW",
+                "author_subname": "三木光範",
+                "channel_id": "CA3CERQRK",
+                "channel_name": "project-n",
+                "is_msg_unfurl": true,
+                "text": "そうだったね。忘れていた。",
+                "author_name": "三木光範",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/UAA37NWHW",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-04-22\/350912837858_6ee9567d4d73abe5e341_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/isdl2018.slack.com\/archives\/CA3CERQRK\/p1525859061000140",
+                "is_share": true,
+                "footer": "#project-n に投稿"
+            }
+        ],
+        "ts": "1525859171.000051"
+    }
+]

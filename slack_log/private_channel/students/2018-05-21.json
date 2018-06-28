@@ -1,0 +1,168 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<@U9UV34517> これ、組み立てたことある人立ち会ってくれるの？\nはじめての人たちだけでやる感じ？",
+        "ts": "1526830160.000099",
+        "thread_ts": "1526796983.000043",
+        "edited": {
+            "user": "U9W9J4MP0",
+            "ts": "1526830174.000000"
+        },
+        "parent_user_id": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9W9J4MP0> \nM2の富岡さんがハードウェアの勉強会の担当になっているので、立ち会っていただく予定です。\nまた、M1では一応、平井と僕が自分で組み立てたことがあるので立ち会うことにしてます。",
+        "ts": "1526830554.000020",
+        "thread_ts": "1526796983.000043",
+        "subtype": "thread_broadcast",
+        "reactions": [
+            {
+                "name": "了解です",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UA125R19U>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/UA125R19U\/FAT015ZSP\/ios________________________________________.jpg|iOS 版 Slack のアップロード>) をアップロードしてコメントしました : おはようございます。\n忘れ物を配席システムの前に置いております。\n心当たりのある方はお持ち帰りください。",
+        "ts": "1526861942.000122",
+        "subtype": "file_share",
+        "username": "kkobayashi",
+        "file": {
+            "id": "FAT015ZSP",
+            "created": 1526861942,
+            "timestamp": 1526861942,
+            "name": "iOS からアップロードされた画像.jpg",
+            "title": "iOS 版 Slack のアップロード",
+            "mimetype": "image\/jpeg",
+            "image_exif_rotation": 1,
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "UA125R19U",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 5249757,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAT015ZSP\/ios________________________________________.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAT015ZSP\/download\/ios________________________________________.jpg",
+            "original_h": 3024,
+            "original_w": 4032,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT015ZSP-bd73b076c7\/ios_________________________________________64.jpg",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT015ZSP-bd73b076c7\/ios_________________________________________80.jpg",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT015ZSP-bd73b076c7\/ios_________________________________________160.jpg",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT015ZSP-bd73b076c7\/ios_________________________________________360.jpg",
+            "thumb_360_gif": "",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT015ZSP-bd73b076c7\/ios_________________________________________480.jpg",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT015ZSP-bd73b076c7\/ios_________________________________________720.jpg",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT015ZSP-bd73b076c7\/ios_________________________________________960.jpg",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT015ZSP-bd73b076c7\/ios_________________________________________1024.jpg",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/UA125R19U\/FAT015ZSP\/ios________________________________________.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAT015ZSP-2545099fdc",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GA3P5M2GN"
+            ],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcAT01GDK5",
+                "created": 1526861942,
+                "timestamp": 1526861942,
+                "user": "UA125R19U",
+                "comment": "おはようございます。\n忘れ物を配席システムの前に置いております。\n心当たりのある方はお持ち帰りください。"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@UA125R19U> 新井さんのやと思います",
+        "ts": "1526863417.000130"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "5月29日（火）18:00 ~ 18:30に学会のリハーサルをコモンスペースで三木先生に見て頂きます。\n発表者は坂東のみです。お忙しい中申し訳ございませんが、アクエリアス研究班の方はできる限りご参加頂くよう宜しくお願い致します。",
+        "ts": "1526880055.000203"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "SNSのティックの表かなんかはってやー、個人でとりにいかなあかんみたいやし。",
+        "ts": "1526899415.000145"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "2018年1月～3月分のSNS投稿数をまとめた\nスプレッドシートのリンクです．\n<https:\/\/goo.gl\/Lw3Vch>",
+        "ts": "1526902356.000170",
+        "attachments": [
+            {
+                "fallback": "Google Sheets - create and edit spreadsheets online, for free.",
+                "id": 1,
+                "title": "Google Sheets - create and edit spreadsheets online, for free.",
+                "title_link": "https:\/\/goo.gl\/Lw3Vch",
+                "text": "Create a new spreadsheet and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Sheets to edit Excel files. Free from Google."
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "6月以降の受け渡しみたいなので，ご注意下さい．",
+        "ts": "1526902482.000202"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<https:\/\/isdl2018.slack.com\/archives\/GA3P5M2GN\/p1526632260000169>\n\nこれリアクションしてない人おらんよな？\nもうこれでメンバ分けするよ？",
+        "ts": "1526903988.000154",
+        "attachments": [
+            {
+                "fallback": "[May 18th, 2018 1:31 AM] ytakaya: <!channel> \nISDLハッカソンの議事録にもありますが，チーム分けに関しては高谷，本田，嶋川で行います．\n事前に参加者を把握しておきたいので，5月21日（月）の基礎勉強会が終わるまでに参加希望者は:raising_hand:をお願いします．\n参加しないという人は:negative_squared_cross_mark: をお願いします．\nだいたい1チームあたり3〜4人を考えています．",
+                "id": 1,
+                "author_id": "U9W9J4MP0",
+                "author_name": "ytakaya",
+                "author_subname": "ytakaya",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/U9W9J4MP0",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-03-25\/335514137540_1e82a01eb4ab2156967e_48.jpg",
+                "text": "<!channel> \nISDLハッカソンの議事録にもありますが，チーム分けに関しては高谷，本田，嶋川で行います．\n事前に参加者を把握しておきたいので，5月21日（月）の基礎勉強会が終わるまでに参加希望者は:raising_hand:をお願いします．\n参加しないという人は:negative_squared_cross_mark: をお願いします．\nだいたい1チームあたり3〜4人を考えています．",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#students に投稿",
+                "ts": 1526632260.000169
+            }
+        ]
+    }
+]

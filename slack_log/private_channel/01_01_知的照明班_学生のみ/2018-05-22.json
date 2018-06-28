@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんがグループに参加しました",
+        "ts": "1526978638.000257",
+        "subtype": "group_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XQR125B",
+        "text": "<@U9XQR125B>さんがグループに参加しました",
+        "ts": "1526978639.000331",
+        "subtype": "group_join",
+        "inviter": "U9XHTK59Q"
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "<@U9V4VKKPA>さんがグループに参加しました",
+        "ts": "1526978639.000578",
+        "subtype": "group_join",
+        "inviter": "U9XHTK59Q"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "<@U9WJKLKME>さんがグループに参加しました",
+        "ts": "1526978640.000130",
+        "subtype": "group_join",
+        "inviter": "U9XHTK59Q"
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "<@U9WMSU938>さんがグループに参加しました",
+        "ts": "1526978640.000340",
+        "subtype": "group_join",
+        "inviter": "U9XHTK59Q"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "4年生は次回から指導院生とミーティングでどんな話をするかしっかり確認しておいてください。\nまた、指導院生はミーティングでしっかりやってきたことを報告できるようにしてあげてください。\nもちろん、スライドチェックみたいな形式的なことは不要です。\n次からね。",
+        "ts": "1526978749.000376",
+        "edited": {
+            "user": "U9XHTK59Q",
+            "ts": "1526978779.000000"
+        },
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 1,
+                "users": [
+                    "U9V4VKKPA"
+                ]
+            }
+        ]
+    }
+]

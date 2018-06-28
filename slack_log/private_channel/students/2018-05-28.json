@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<!channel> \nSamsung SSD SSD 970 PRO (512GB) をTYC購入します。\n<http:\/\/www.itgm.co.jp\/product\/ssd970pro\/>\n<http:\/\/kakaku.com\/item\/K0001049806\/>\nM.2 PCIe のV-NAND MC SSDです。\n6\/4くらいに締めようと思うので気になる人は連絡ください。",
+        "ts": "1527486267.000248",
+        "attachments": [
+            {
+                "fallback": "SSD 970 PRO シリーズ| Samsung SSDシリーズ",
+                "id": 1,
+                "title": "SSD 970 PRO シリーズ| Samsung SSDシリーズ",
+                "title_link": "http:\/\/www.itgm.co.jp\/product\/ssd970pro\/",
+                "text": "SSDの先を行くSSD 次世代コンピューティングに向けて加速しましょう。SSD 970 PRO シリーズの製品ページ。製品特長、仕様を掲載。"
+            },
+            {
+                "fallback": "価格.com: サムスン 970 PRO MZ-V7P512B\/IT 価格比較",
+                "id": 2,
+                "title": "サムスン 970 PRO MZ-V7P512B\/IT 価格比較",
+                "title_link": "http:\/\/kakaku.com\/item\/K0001049806\/",
+                "text": "■最安価格(税込)：39,795円　■価格.com売れ筋ランキング：92位　■満足度レビュー：5.00(1人)　■クチコミ：1件 （※5月28日時点）",
+                "thumb_url": "http:\/\/img1.kakaku.k-img.com\/images\/logo\/200x200_01.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<!here> \n4回生、あいさつしてくれるのはええことやねんけど、ミーティング中とか、先生たちと話してる時は先輩にあいさつせんでいいよ:+1:\n\n軽く会釈くらいなら、いいと思うけど",
+        "ts": "1527486411.000219",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 14,
+                "users": [
+                    "U9ZFYJDTJ",
+                    "UA042R70B",
+                    "UA074SQ4S",
+                    "UA125R19U",
+                    "UA0U3TZFV",
+                    "UA0083JS0",
+                    "UA1APD147",
+                    "UA13NUR9C",
+                    "U9ZGENNKA",
+                    "UA073MJTU",
+                    "UA0B1QWCV",
+                    "UA008K4G4",
+                    "U9ZPY616D",
+                    "U9ZFZ43DW"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "いきなり雄亮，今日ありますか？",
+        "ts": "1527494702.000368"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "今日？",
+        "ts": "1527494719.000407"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "いいけど",
+        "ts": "1527494721.000425"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "やるか",
+        "ts": "1527494723.000388"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "いきなりステーキやな！ <@U9X7JGL75>",
+        "ts": "1527494738.000391"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "`きまぐれ雄亮` な！",
+        "ts": "1527494818.000209"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "間違わんといてな",
+        "ts": "1527494825.000109"
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "text": "皆さん読んだらGoodスタンプ押しましょう～",
+        "thread_ts": "1522375158.000044",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U9XHTK59Q",
+        "root": {
+            "type": "message",
+            "user": "U9W9J4MP0",
+            "text": "<!channel> \nみなさん，プロフィール画像がまだデフォルトの方は変更お願いします．\n変更方法が不明な方は，<@U9W9J4MP0> まで聞きにきてください\nまた，可能であればでいいのでスマホアプリもインストールしておいてもらえると助かります．\n\n`iOS`\n<https:\/\/itunes.apple.com\/jp\/app\/slack\/id618783545?mt=8>\n\n`Android`\n<https:\/\/play.google.com\/store\/apps\/details?id=com.Slack&amp;hl=ja>",
+            "attachments": [
+                {
+                    "service_name": "App Store",
+                    "title": "「Slack」をApp Storeで",
+                    "title_link": "https:\/\/itunes.apple.com\/jp\/app\/slack\/id618783545?mt=8",
+                    "text": "「Slack」のレビューのチェック、カスタマー評価の比較、スクリーンショットやその他の詳細情報を見ることができます。「Slack」をダウンロードして、Apple TVでお楽しみください。",
+                    "fallback": "App Store: 「Slack」をApp Storeで",
+                    "thumb_url": "https:\/\/is4-ssl.mzstatic.com\/image\/thumb\/Purple118\/v4\/66\/bd\/27\/66bd2711-880e-175a-6497-1bdde7611b44\/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png\/1200x630bb.jpg",
+                    "from_url": "https:\/\/itunes.apple.com\/jp\/app\/slack\/id618783545?mt=8",
+                    "thumb_width": 630,
+                    "thumb_height": 630,
+                    "service_icon": "https:\/\/itunes.apple.com\/favicon.ico",
+                    "id": 1
+                },
+                {
+                    "title": "Slack - Google Play のアプリ",
+                    "title_link": "https:\/\/play.google.com\/store\/apps\/details?id=com.Slack&hl=ja",
+                    "text": "Slack を使うと、チーム内のコミュニケーションと作業を集約できるので、作業効率がグッとUPします！ベンチャー企業でも大企業でも、どんな規模の組織でも利用できます。To-Do リストを使ったり、他の必要なツールや情報を全て Slack に連携させて、チームメイトとリアルタイムに会話しながら進めれば、プロジェクト進行がよりスムーズになります。また、Slack はどのデバイスにも対応しているので、いつでもどこでも、必要な人や情報にタイムリーにアクセスできます。主な機能：• チーム内のメンバーやグループとのメッセージや通話が可能です。• 会話をトピックやプロジェクト毎に分類・整理できます。• Slack 上でドキュメントの共有・編集が可能なので、メンバーとの連携がより簡単に。• Google ドライブや Salesforce、Dropbox、Asana、Twitter、Zendesk など、これまで使っていたツールやサービスを Slack に連携させてワークフローに統合できます。• Slack での会話やファイルは自動的にインデックスされて保存されるので、後から簡単に検索できます。• 通知をカスタマイズして、大切な情報を見逃さずに確認ビジネスライフをよりシンプルに、より快適に、より有意義にすると、その効果が科学的に (？) 証明されている (？) Slack をぜひお試しください！詳しくは Slack のホームページをチェック！: <https:\/\/slack.com\/>",
+                    "fallback": "Slack - Google Play のアプリ",
+                    "image_url": "https:\/\/lh3.googleusercontent.com\/xr_oKwvk_jmHqNwnz3S_qC1tDTjl63R5WQwGT83UsSte0G0yiYuTInTC8UhblfJTSQ",
+                    "from_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.Slack&hl=ja",
+                    "image_width": 512,
+                    "image_height": 250,
+                    "image_bytes": 98507,
+                    "service_icon": "http:\/\/www.gstatic.com\/android\/market_images\/web\/favicon_v2.ico",
+                    "service_name": "play.google.com",
+                    "id": 2
+                }
+            ],
+            "thread_ts": "1522375158.000044",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U9XHTK59Q",
+                    "ts": "1522393283.000157"
+                }
+            ],
+            "unread_count": 1,
+            "ts": "1522375158.000044"
+        },
+        "ts": "1522393283.000157"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!here> \nslack絵文字作りたい方はぜひいろんなスタンプ作ってみてください！\n\n<https:\/\/qiita.com\/Will_meaning\/items\/ebfc5c02842c002acfab>\n\n<https:\/\/get.slack.help\/hc\/ja\/articles\/206870177-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B>",
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "Slackのリアクションで使うテキスト絵文字を作成する - Qiita",
+                "title_link": "https:\/\/qiita.com\/Will_meaning\/items\/ebfc5c02842c002acfab",
+                "text": "## TOPIC * テキスト絵文字とは（メリット・デメリット） * テキスト絵文字を作る * かんたん編：絵文字ジェネレーター * こだわり編：フリーフォントで簡単ロゴ作成 ＜書かないこと＞ * Slackの操作...",
+                "fallback": "Qiita: Slackのリアクションで使うテキスト絵文字を作成する - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/Will_meaning\/items\/ebfc5c02842c002acfab",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1
+            },
+            {
+                "service_name": "Slack",
+                "title": "カスタム絵文字を作成する",
+                "title_link": "https:\/\/get.slack.help\/hc\/ja\/articles\/206870177-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B",
+                "text": "カスタム絵文字機能を使って、使いたい絵文字を自分で作れるんです！  ワークスペースで使える絵文字をすべて表示するためには、絵文字ピッカーで  Slack アイコン をクリックします。   カスタム絵文字を作成する デスクトップアプリまたはウェブブラウザからの Slack のカスタム絵文字の作成は次の手順で行います。:desktop_computer: :sparkles: 左上のワークスペース名をクリックしてメニューを開きます。 「...",
+                "fallback": "Slack: カスタム絵文字を作成する",
+                "from_url": "https:\/\/get.slack.help\/hc\/ja\/articles\/206870177-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B",
+                "thumb_url": "https:\/\/p4.zdassets.com\/hc\/settings_assets\/138842\/200037786\/fJBVsbbgzvTSh0SGroCoLA-help-center-unfurl-image.png",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "service_icon": "http:\/\/p4.zdassets.com\/hc\/settings_assets\/138842\/200037786\/XFe1GLxMajx1XMdkYABLoA-favicon.png",
+                "id": 2
+            }
+        ],
+        "ts": "1522424180.000085"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "技術系チャンネル\n<#CA0059VQE|tec_tec_tech> 開設",
+        "client_msg_id": "AE7B8592-C848-4E99-AAFE-D3D8E9D05907",
+        "ts": "1522474069.000026",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9UV34517"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

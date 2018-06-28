@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!everyone> \nプロフィール画像の変更をよろしくお願いします",
+        "ts": "1522219435.000367"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<https:\/\/qiita.com\/umi_kappa\/items\/ed3ed3384d2006e60b0f>",
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "【Slack】今更だけどメンションの種類をおさらい - Qiita",
+                "title_link": "https:\/\/qiita.com\/umi_kappa\/items\/ed3ed3384d2006e60b0f",
+                "text": "# Slack みなさんご存じのSlack。グイグイ流行っているチャットアプリです。 ![slack_rgb.png](<https:\/\/qiita-image-store.s3.amazonaws.com\/0\/55103\/2a8816>...",
+                "fallback": "Qiita: 【Slack】今更だけどメンションの種類をおさらい - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/umi_kappa\/items\/ed3ed3384d2006e60b0f",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1
+            }
+        ],
+        "ts": "1522219559.000039"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "メンションの使い方はこれを見ればだいたいわかると思います！",
+        "ts": "1522219576.000230"
+    },
+    {
+        "user": "U9X7JGL75",
+        "text": "<@U9X7JGL75>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1522219878.000173"
+    }
+]

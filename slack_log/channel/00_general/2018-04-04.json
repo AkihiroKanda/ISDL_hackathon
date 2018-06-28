@@ -1,0 +1,295 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!channel> \n基礎勉強会の日程を決めたいと思いますので，全員googleカレンダのにしっかりと予定を登録しておいていただけると助かります\n就活もあると思うので，日程がわかり次第随時追加して行ってください．",
+        "ts": "1522828658.000195",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9XHTK59Q",
+                    "U9V4VKKPA",
+                    "U9WB96RQW",
+                    "U9VD2BKNG",
+                    "U9XE1JRA9",
+                    "U9X7JGL75"
+                ],
+                "count": 7
+            },
+            {
+                "name": "了解です",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9XHTK59Q",
+                    "U9WSNSQLQ",
+                    "U9VD2BKNG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "evilpepper",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9VD2BKNG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<!here> \nU4の子で\n技術大好き系学生いたら\n<#CA0059VQE|tec_tec_tech> っていうチャンネルあるし入ってほしいなー",
+        "edited": {
+            "user": "U9VD2BKNG",
+            "ts": "1522845260.000000"
+        },
+        "ts": "1522845250.000447"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!here> \n技術大好きじゃなくても，\b「開発力つけたい！」とか「何か作ってみたい！」みたいな思いを持ってる人は是非！",
+        "ts": "1522845316.000463"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "是非！",
+        "ts": "1522845329.000329"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "毎回思うけど\n村野の反応がはやい",
+        "ts": "1522845345.000547"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "すぐオンラインになる",
+        "ts": "1522845350.000016"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "絶対暇人",
+        "ts": "1522845355.000288"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "恥ずかしいです。\nかなり多忙です。",
+        "client_msg_id": "62205D56-BA6A-428A-9EE3-BB9E49257D4F",
+        "ts": "1522845368.000235"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "暇なんでしょう笑\nそして，generalは雑談極力やめよ笑",
+        "ts": "1522845374.000213",
+        "reactions": [
+            {
+                "name": "evilpepper",
+                "users": [
+                    "U9W9J4MP0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "あ、purpose今みたわ笑",
+        "ts": "1522845406.000223"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!channel> \nU4も入って来たので\b再度投稿しておきます\n<https:\/\/qiita.com\/umi_kappa\/items\/ed3ed3384d2006e60b0f>",
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "【Slack】今更だけどメンションの種類をおさらい - Qiita",
+                "title_link": "https:\/\/qiita.com\/umi_kappa\/items\/ed3ed3384d2006e60b0f",
+                "text": "# Slack みなさんご存じのSlack。グイグイ流行っているチャットアプリです。 ![slack_rgb.png](<https:\/\/qiita-image-store.s3.amazonaws.com\/0\/55103\/2a8816>...",
+                "fallback": "Qiita: 【Slack】今更だけどメンションの種類をおさらい - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/umi_kappa\/items\/ed3ed3384d2006e60b0f",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1
+            }
+        ],
+        "ts": "1522845976.000036",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9W9J4MP0",
+                    "UA125R19U",
+                    "U9ZPY616D",
+                    "U9V4VKKPA",
+                    "U9YDVG89L",
+                    "U9ZFZ43DW",
+                    "UA008K4G4",
+                    "U9WMSU938",
+                    "UA075ACH0",
+                    "U9ZGENNKA",
+                    "UA1APD147",
+                    "UA074SQ4S",
+                    "UA042R70B",
+                    "U9ZFYJDTJ"
+                ],
+                "count": 14
+            },
+            {
+                "name": "pepper",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9UV34517",
+                    "U9XQR125B"
+                ],
+                "count": 3
+            },
+            {
+                "name": "済",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9VD2BKNG",
+                    "UA1239MTQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "みたらスタンプ押してもらえると助かります",
+        "ts": "1522845996.000411"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<https:\/\/qiita.com\/Will_meaning\/items\/ebfc5c02842c002acfab>\n\n<https:\/\/get.slack.help\/hc\/ja\/articles\/206870177-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B>",
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "Slackのリアクションで使うテキスト絵文字を作成する - Qiita",
+                "title_link": "https:\/\/qiita.com\/Will_meaning\/items\/ebfc5c02842c002acfab",
+                "text": "## TOPIC * テキスト絵文字とは（メリット・デメリット） * テキスト絵文字を作る * かんたん編：絵文字ジェネレーター * こだわり編：フリーフォントで簡単ロゴ作成 ＜書かないこと＞ * Slackの操作...",
+                "fallback": "Qiita: Slackのリアクションで使うテキスト絵文字を作成する - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/Will_meaning\/items\/ebfc5c02842c002acfab",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1
+            },
+            {
+                "service_name": "Slack",
+                "title": "カスタム絵文字を作成する",
+                "title_link": "https:\/\/get.slack.help\/hc\/ja\/articles\/206870177-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B",
+                "text": "カスタム絵文字機能を使って、使いたい絵文字を自分で作れるんです！  ワークスペースで使える絵文字をすべて表示するためには、絵文字ピッカーで  Slack アイコン をクリックします。   カスタム絵文字を作成する デスクトップアプリまたはウェブブラウザからの Slack のカスタム絵文字の作成は次の手順で行います。:desktop_computer: :sparkles: 左上のワークスペース名をクリックしてメニューを開きます。 「...",
+                "fallback": "Slack: カスタム絵文字を作成する",
+                "from_url": "https:\/\/get.slack.help\/hc\/ja\/articles\/206870177-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B",
+                "thumb_url": "https:\/\/p4.zdassets.com\/hc\/settings_assets\/138842\/200037786\/fJBVsbbgzvTSh0SGroCoLA-help-center-unfurl-image.png",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "service_icon": "http:\/\/p4.zdassets.com\/hc\/settings_assets\/138842\/200037786\/XFe1GLxMajx1XMdkYABLoA-favicon.png",
+                "id": 2
+            }
+        ],
+        "ts": "1522846116.000191",
+        "reactions": [
+            {
+                "name": "pepper",
+                "users": [
+                    "U9W9J4MP0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "こちらは興味のある方のみで大丈夫です\b",
+        "ts": "1522846131.000357"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!channel> \n今日，明日と履修登録期間です．\nM1は情報工学研究実験\nM2は情報工学研究実験と論文\nU4は卒論指導（\b科目名忘れた・・・）の履修登録を忘れないように！",
+        "ts": "1522885266.000102"
+    },
+    {
+        "type": "message",
+        "user": "U9VCG5S1W",
+        "text": "<!channel> \n追加で、個別でご連絡を頂いているかもしれませんが、今年度初めてTAを務める方は、本日のTA研修会へのご参加を忘れずにお願いしますー＞12:00〜12:45＠恵道館201番教室",
+        "ts": "1522890535.000166",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9WL9BCKH",
+                    "U9VD2BKNG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "<!channel> \n基礎勉強会に関しての連絡です．\nU4は就活がない限り基本的に参加です．\n就活などで欠席する場合は勉強会の担当者に欠席の旨を連絡して下さい．\n院生は基本的に，参加は自由となります．\n担当する勉強会，興味のある勉強会やコメントしたい勉強会に参加して下さい．\nまた日程に関しましては，決まり次第報告させていただきます．\n恐らく，週一（現状，月曜日5限あたり）で開催という形になると思います．",
+        "ts": "1522903497.000015",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "UA0083JS0",
+                    "U9UV34517",
+                    "UA125R19U",
+                    "UA074SQ4S",
+                    "U9W9J4MP0",
+                    "UA042R70B",
+                    "UA075ACH0",
+                    "U9ZFZ43DW",
+                    "U9ZFYJDTJ",
+                    "UA1239MTQ"
+                ],
+                "count": 10
+            },
+            {
+                "name": "ha-i",
+                "users": [
+                    "U9VD2BKNG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!here> \nM1は必須参加で\nそうじゃないと\b開催する意味がない",
+        "ts": "1522907248.000091",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U9UV34517",
+                    "U9XE1JRA9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

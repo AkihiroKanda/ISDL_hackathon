@@ -1,0 +1,1018 @@
+[
+    {
+        "type": "message",
+        "user": "UA075ACH0",
+        "text": "<@UA075ACH0>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/UA075ACH0\/FAMTS5MFD\/ios________________________________________.jpg|ロッカー配置図(5月)>) をアップロードしてコメントしました : 本日全ゼミ後からのロッカー配置図です。\n全ゼミ後に移動を行いますので自分の場所の把握をお願いします。",
+        "ts": "1526011036.000129",
+        "subtype": "file_share",
+        "username": "ahayashi",
+        "file": {
+            "id": "FAMTS5MFD",
+            "created": 1526011036,
+            "timestamp": 1526011036,
+            "name": "iOS からアップロードされた画像.jpg",
+            "title": "ロッカー配置図(5月)",
+            "mimetype": "image\/jpeg",
+            "image_exif_rotation": 1,
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "UA075ACH0",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 5106100,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAMTS5MFD\/ios________________________________________.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAMTS5MFD\/download\/ios________________________________________.jpg",
+            "original_h": 3024,
+            "original_w": 4032,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAMTS5MFD-f42fe55d12\/ios_________________________________________64.jpg",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAMTS5MFD-f42fe55d12\/ios_________________________________________80.jpg",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAMTS5MFD-f42fe55d12\/ios_________________________________________160.jpg",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAMTS5MFD-f42fe55d12\/ios_________________________________________360.jpg",
+            "thumb_360_gif": "",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAMTS5MFD-f42fe55d12\/ios_________________________________________480.jpg",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAMTS5MFD-f42fe55d12\/ios_________________________________________720.jpg",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAMTS5MFD-f42fe55d12\/ios_________________________________________960.jpg",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAMTS5MFD-f42fe55d12\/ios_________________________________________1024.jpg",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/UA075ACH0\/FAMTS5MFD\/ios________________________________________.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAMTS5MFD-4d7960e3bc",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GA3P5M2GN"
+            ],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcAMQ057M2",
+                "created": 1526011036,
+                "timestamp": 1526011036,
+                "user": "UA075ACH0",
+                "comment": "本日全ゼミ後からのロッカー配置図です。\n全ゼミ後に移動を行いますので自分の場所の把握をお願いします。"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9WSNSQLQ",
+        "text": "補助申請でマイクロソフトのarcマウス買おうと思ってます．\n<https:\/\/houjin.biccamera.com\/product\/detail.aspx?sku=12985732>\n買う人は連絡ください．\n<!channel>",
+        "ts": "1526019229.000240",
+        "thread_ts": "1526019229.000240",
+        "attachments": [
+            {
+                "fallback": "商品詳細 | 法人専用ビックカメラ.com",
+                "id": 1,
+                "title": "商品詳細 | 法人専用ビックカメラ.com",
+                "title_link": "https:\/\/houjin.biccamera.com\/product\/detail.aspx?sku=12985732",
+                "text": "商品詳細 | <http:\/\/法人専用ビックカメラ.com|xn--lckh3d1ctd3bz476afhwqs7a6nr.com>"
+            }
+        ],
+        "edited": {
+            "user": "U9WSNSQLQ",
+            "ts": "1526024420.000000"
+        },
+        "unread_count": 8,
+        "reply_count": 8,
+        "replies": [
+            {
+                "user": "U9XHTK59Q",
+                "ts": "1526019918.000053"
+            },
+            {
+                "user": "U9WSNSQLQ",
+                "ts": "1526020086.000382"
+            },
+            {
+                "user": "U9XHTK59Q",
+                "ts": "1526020153.000042"
+            },
+            {
+                "user": "U9WSNSQLQ",
+                "ts": "1526020250.000019"
+            },
+            {
+                "user": "U9XHTK59Q",
+                "ts": "1526020270.000248"
+            },
+            {
+                "user": "U9WSNSQLQ",
+                "ts": "1526020313.000092"
+            },
+            {
+                "user": "U9XHTK59Q",
+                "ts": "1526020362.000058"
+            },
+            {
+                "user": "U9WSNSQLQ",
+                "ts": "1526020400.000279"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "津崎先生、Bluetooth版はどうですか？\n<https:\/\/www.biccamera.com\/bc\/item\/3791789\/>\n3本指にも対応した最新のやつっぽいです",
+        "ts": "1526019918.000053",
+        "thread_ts": "1526019229.000240",
+        "parent_user_id": "U9WSNSQLQ"
+    },
+    {
+        "type": "message",
+        "user": "U9WSNSQLQ",
+        "text": "そっちのがいいな",
+        "ts": "1526020086.000382",
+        "thread_ts": "1526019229.000240",
+        "parent_user_id": "U9WSNSQLQ"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "なら僕もそれで!!!",
+        "ts": "1526020153.000042",
+        "thread_ts": "1526019229.000240",
+        "parent_user_id": "U9WSNSQLQ"
+    },
+    {
+        "type": "message",
+        "user": "U9WSNSQLQ",
+        "text": "1万円以下は2個までだから申請します．\n黒でいいですか<@U9XHTK59Q>",
+        "ts": "1526020250.000019",
+        "thread_ts": "1526019229.000240",
+        "parent_user_id": "U9WSNSQLQ"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "黒意外にあった？笑",
+        "ts": "1526020270.000248",
+        "thread_ts": "1526019229.000240",
+        "parent_user_id": "U9WSNSQLQ"
+    },
+    {
+        "type": "message",
+        "user": "U9WSNSQLQ",
+        "text": "ないなぁ",
+        "ts": "1526020313.000092",
+        "thread_ts": "1526019229.000240",
+        "parent_user_id": "U9WSNSQLQ"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "うん笑\n頼みます！",
+        "ts": "1526020362.000058",
+        "thread_ts": "1526019229.000240",
+        "parent_user_id": "U9WSNSQLQ"
+    },
+    {
+        "type": "message",
+        "user": "U9WSNSQLQ",
+        "text": "OK",
+        "ts": "1526020400.000279",
+        "thread_ts": "1526019229.000240",
+        "parent_user_id": "U9WSNSQLQ"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<!channel> \n補助申請でブルーレイドライブ買う人おられますか？\n<https:\/\/www.biccamera.com\/bc\/item\/3849635\/>",
+        "ts": "1526024197.000108",
+        "attachments": [
+            {
+                "fallback": "ビックカメラ.com: ビックカメラ.com - 【Ultra HD Blu-ray対応】 LBD-PUD6U3LBK(ブラック) ポータブルブルーレイドライブ ［USB3.0・Win／Mac］ 書き込みソフト付き",
+                "id": 1,
+                "title": "ビックカメラ.com - 【Ultra HD Blu-ray対応】 LBD-PUD6U3LBK(ブラック) ポータブルブルーレイドライブ ［USB3.0・Win／Mac］ 書き込みソフト付き",
+                "title_link": "https:\/\/www.biccamera.com\/bc\/item\/3849635\/",
+                "text": "4K解像度(3840×2160ドット)のUltra HD Blu-ray(UHD BD)再生に対応したBDドライブを採用。",
+                "thumb_url": "https:\/\/image.biccamera.com\/img\/00000003849635_A01.jpg?sr.dw=320&sr.dh=320&sr.jqh=60&sr.mat=1"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "欲しい",
+        "ts": "1526024209.000032"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "どっち？？",
+        "ts": "1526024386.000260"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "川合さんメモできる？それ",
+        "ts": "1526024436.000222"
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "できます．",
+        "ts": "1526024479.000114"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "すみません",
+        "ts": "1526024485.000061"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "すみません・・・",
+        "ts": "1526024522.000517"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "いない",
+        "ts": "1526024672.000287"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "コーヘイだけ",
+        "ts": "1526024678.000377"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "オフィス班拡大は嫌だ・・・",
+        "ts": "1526024871.000376"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "「その辺は全体ゼミで聞いたのでテーマ決めに行きましょう，時間もありませんし」って誰かボスに言おう笑",
+        "ts": "1526024918.000206",
+        "edited": {
+            "user": "U9W9J4MP0",
+            "ts": "1526024948.000000"
+        }
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "これ，終わらんやろw",
+        "ts": "1526025069.000348"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "それな",
+        "ts": "1526025071.000374"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "おわらん．決めるところに時間かけたい",
+        "ts": "1526025086.000171"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "無駄時間過ぎ",
+        "ts": "1526025104.000109"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "こういうのを無くして欲しい@タスクフォース",
+        "ts": "1526025124.000351"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "冨田，岡田\nそんなにもらったならみんなに還元するべきちゃう？笑",
+        "ts": "1526025251.000450"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "新規2つは\u0008U4はあんまり持たんほうがいいと思うで．なかなか進めれない．\n\u00082つもつなら，はじめ1つもっといて，余裕出てきてから，2つ目に手を出すとかした方がいいと思う．",
+        "ts": "1526025467.000433"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "個人の頑張り屋ぞ",
+        "ts": "1526025468.000429"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "岡田はわしに「叙々苑程度でいいんですか」っていってた．わし待ってる．:grin:",
+        "ts": "1526025572.000408"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "最速は山本",
+        "ts": "1526025638.000224"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "VR学会で9月",
+        "ts": "1526025650.000133"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "EUCだけど",
+        "ts": "1526025653.000416"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "俺にも叙々苑奢って",
+        "ts": "1526025666.000143"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<@U9XCZ7FPY>",
+        "ts": "1526025674.000104"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "高谷は大阪と東京だけです笑",
+        "ts": "1526025710.000324"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "秋に発表してくれ〜\n11月くらいのやつ",
+        "ts": "1526025738.000470"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<@U9Z9J6R6K>さんがこのファイルをアップロードしました : <https:\/\/isdl2018.slack.com\/files\/U9Z9J6R6K\/FAP4VTPN3\/2018___________________________.pdf|2018研究テーマ案その２.pdf>",
+        "ts": "1526025752.000302",
+        "subtype": "file_share",
+        "username": "rtomita",
+        "file": {
+            "id": "FAP4VTPN3",
+            "created": 1526025750,
+            "timestamp": 1526025750,
+            "name": "2018研究テーマ案その２.pdf",
+            "title": "2018研究テーマ案その２.pdf",
+            "mimetype": "application\/pdf",
+            "image_exif_rotation": 0,
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U9Z9J6R6K",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 351717,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAP4VTPN3\/2018___________________________.pdf",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAP4VTPN3\/download\/2018___________________________.pdf",
+            "original_h": 0,
+            "original_w": 0,
+            "thumb_64": "",
+            "thumb_80": "",
+            "thumb_160": "",
+            "thumb_360": "",
+            "thumb_360_gif": "",
+            "thumb_360_w": 0,
+            "thumb_360_h": 0,
+            "thumb_480": "",
+            "thumb_480_w": 0,
+            "thumb_480_h": 0,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9Z9J6R6K\/FAP4VTPN3\/2018___________________________.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAP4VTPN3-220b0ad46e",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GA3P5M2GN"
+            ],
+            "ims": [],
+            "initial_comment": {},
+            "comments_count": 0,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "2，3月はM1は就活あるし，M2は研究室来ないからな〜",
+        "ts": "1526025764.000163"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "その決めかたしてたら，研究動き出すの6月ならん？",
+        "ts": "1526025785.000212",
+        "edited": {
+            "user": "U9W9J4MP0",
+            "ts": "1526025809.000000"
+        }
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "そこらへんの速さは研究班次第になるやろな",
+        "ts": "1526025833.000336"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "研究テーマが見つかりやすい班もあるやろし",
+        "ts": "1526025862.000515"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "あらいちゃん．．．かわいそう",
+        "ts": "1526025910.000308"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "すぐに各班MTGせなあかんな",
+        "ts": "1526025915.000480"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "来週目処に一回やりたいな",
+        "ts": "1526025936.000312"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "これ17:30超えるパターンか・・・",
+        "ts": "1526025961.000168"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "18：00から堂面さんたちと待ち合わせや・・・",
+        "ts": "1526025975.000047"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "班だけ決めるなら，ぱぱっと決めたい．",
+        "ts": "1526025979.000086"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "どーしたらいいのってwwww",
+        "ts": "1526026013.000196"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "うまくしきれーーー",
+        "ts": "1526026017.000197"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "エディタ！！！！",
+        "ts": "1526026317.000168"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "本田怒んぞ",
+        "ts": "1526026323.000288"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "エディタ何やったん？",
+        "ts": "1526026333.000129"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": ":uooo:",
+        "ts": "1526026336.000168"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "メモ帳？",
+        "ts": "1526026340.000177"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "メモ帳wwww",
+        "ts": "1526026352.000056"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "からのワードｗ",
+        "ts": "1526026354.000131"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "最近新しい改行コードに対応したと話題のメモ帳",
+        "ts": "1526026363.000331"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "Word・・・",
+        "ts": "1526026371.000220"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "KUSO",
+        "ts": "1526026374.000134"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "あれはエディタではない",
+        "ts": "1526026376.000051"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "文書作成ソフトや",
+        "ts": "1526026383.000463"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "タムさんと富岡が大忙しやな",
+        "ts": "1526026408.000303"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "オフィス班は指導という面では今年ものんびりできそうや笑",
+        "ts": "1526026459.000146"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "またまた俺一人説笑",
+        "ts": "1526026470.000057"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "闇は受け継がれる",
+        "ts": "1526026774.000433"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "輝度を考慮した知的照明システムをだれかやってくれてもいいけどなぁ\n\n\u0008有色環境を用いた実験を誰かやってくれてもいいけどなぁ",
+        "ts": "1526026825.000159"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "MTG時間，残り9分です",
+        "ts": "1526026879.000156"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "進捗0です",
+        "ts": "1526026891.000017"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "なんのためのアラームやねんwwww",
+        "ts": "1526026910.000089"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "「はい」じゃねーよ笑",
+        "ts": "1526026920.000267"
+    },
+    {
+        "type": "message",
+        "user": "U9WB96RQW",
+        "text": "プロジェクションマッピングでのタスクライトは外村さんと闇に葬ったはずはんですが．．．",
+        "ts": "1526027174.000060",
+        "reactions": [
+            {
+                "name": "relaxed",
+                "count": 1,
+                "users": [
+                    "U9XQR125B"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "闇より舞い戻ってきたな",
+        "ts": "1526027191.000108",
+        "reactions": [
+            {
+                "name": "scream",
+                "count": 1,
+                "users": [
+                    "U9WB96RQW"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "墓場まで持っていってないからや",
+        "ts": "1526027236.000236"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "闇は深い",
+        "ts": "1526027250.000132"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "快適班でかくなりすぎ",
+        "ts": "1526027267.000393"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "上下可動と影を参考にしよう．葬り方がわかる",
+        "ts": "1526027269.000102"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "全部快適班やな，とかいうパワーワード",
+        "ts": "1526027270.000231"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "オフィス班を思い出して笑",
+        "ts": "1526027274.000404"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "はぁ，なるほどって感じ",
+        "ts": "1526027281.000225"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "全部快適性にするんやったらこのMTGの意味w",
+        "ts": "1526027288.000249"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "壁面班がいいです．\u0008キリッ",
+        "ts": "1526027290.000092"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "壁面班は人数的にも作っていいかもな",
+        "ts": "1526027300.000122"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "オフィスは僕だけです",
+        "ts": "1526027313.000045"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "おつかれい",
+        "ts": "1526027319.000238"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "ギャーーーーーーーーー",
+        "ts": "1526027319.000271"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "いーやーだー",
+        "ts": "1526027327.000394"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "体感と壁面がごっちゃになってるからなぁ",
+        "ts": "1526027339.000268"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "やめてくれーーーーーーーー",
+        "ts": "1526027339.000497"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "壁面班はややこしい",
+        "ts": "1526027346.000278"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "調べません（キリッ）",
+        "ts": "1526027354.000241"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "何も決まってないwww",
+        "ts": "1526027369.000206"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "\u0008\u0008なんもきまってない．．．",
+        "ts": "1526027371.000439"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "まさかここで終わるとはw",
+        "ts": "1526027374.000464"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "なんやねんこのMTG",
+        "ts": "1526027389.000079"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "俺タムさん新井さん岡田で班分け考えよ",
+        "ts": "1526027400.000126"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "今度運営で言おかな「生産性のあるMTGをしたいです」って",
+        "ts": "1526027408.000197"
+    },
+    {
+        "type": "message",
+        "user": "U9VLBFM7U",
+        "text": "あと３０分使っていいから決めきってほしい",
+        "ts": "1526027408.000212"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "全然テーマ決まらんやん",
+        "ts": "1526027410.000340"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "壁面に関しては",
+        "ts": "1526027412.000024"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "それな",
+        "ts": "1526027418.000206"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "体感温度ってついたらそっちでいいと思う．",
+        "ts": "1526027437.000536"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "擬似窓は富岡村野で考えよ",
+        "ts": "1526027443.000029"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "ざっくり分けすぎやw",
+        "ts": "1526027450.000244"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "オフィス班は僕だけです",
+        "ts": "1526027460.000420"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "もう一回やるの・・・:usonn:",
+        "ts": "1526027482.000324"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "今日のワードファイル送っといてください",
+        "ts": "1526027502.000108"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "体感温度が使う壁面って，いわば壁面は道具やん．制御さえできればいいやん",
+        "ts": "1526027506.000364"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "次のMTG日時，すぐ決めなあかん",
+        "ts": "1526027513.000340"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "研究スタート遅すぎる",
+        "ts": "1526027518.000384"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "やばいぞ，これは",
+        "ts": "1526027524.000031"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<@U9XN8QQ77> どういうことや",
+        "ts": "1526027526.000100"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "協力の姿勢が大事なんやぞ",
+        "ts": "1526027535.000162"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "友達やろ",
+        "ts": "1526027539.000014"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "なまかや",
+        "ts": "1526027546.000285"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "なまか",
+        "ts": "1526027551.000230"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "同志",
+        "ts": "1526027582.000261"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "`生産性0MTG`",
+        "ts": "1526027613.000413"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "14日基礎勉強会やめてMTGや",
+        "ts": "1526027644.000434"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "今日の全体ゼミは長そうや・・・",
+        "ts": "1526027770.000420"
+    },
+    {
+        "type": "message",
+        "user": "U9WSNSQLQ",
+        "text": "<!channel> \n話しきって悪いですが，arc申請します．\n18:00にはメール出します．",
+        "ts": "1526028311.000088"
+    },
+    {
+        "type": "message",
+        "user": "U9WSNSQLQ",
+        "text": "しめます",
+        "ts": "1526029262.000467"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<!channel> \n本日の全体ゼミは *KC215* です．ご注意ください．",
+        "ts": "1526029510.000504"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "補助申請のbru-rayドライブ\n誰もいなさそうですか？\n迷ってる人とかも",
+        "ts": "1526046080.000076"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "高谷はちゃうねんな？",
+        "ts": "1526046085.000496"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "これです",
+        "ts": "1526046101.000169",
+        "thread_ts": "1526046101.000169",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[May 11th, 2018 4:36 PM] yhonda: <!channel> \n補助申請でブルーレイドライブ買う人おられますか？\n<https:\/\/www.biccamera.com\/bc\/item\/3849635\/>",
+                "author_id": "U9VD2BKNG",
+                "author_name": "Yusuke Honda",
+                "author_subname": "Yusuke Honda",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/U9VD2BKNG",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-03-24\/334951733585_0579e29ed4379bc8ebbc_48.jpg",
+                "text": "<!channel> \n補助申請でブルーレイドライブ買う人おられますか？\n<https:\/\/www.biccamera.com\/bc\/item\/3849635\/>",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#students に投稿",
+                "ts": 1526024197.000108
+            }
+        ],
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U9W9J4MP0",
+                "ts": "1526054143.000244"
+            }
+        ]
+    }
+]

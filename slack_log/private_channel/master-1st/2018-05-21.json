@@ -1,0 +1,183 @@
+[
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "基礎勉強会の件、カビゴン以外は何かしらに関わってると思うので、反応お願いします",
+        "ts": "1526831981.000005"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "すんません。バイトです。\n(一応、神田と坂東と俺の誰かがいたらどうにかなるかと思います)",
+        "ts": "1526846090.000034",
+        "thread_ts": "1526741844.000120",
+        "parent_user_id": "U9WL9BCKH"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "基礎勉強会のスライドチェックを5\/24（木）18:30～19:00に入れたので，関係者の方々はよろしくお願いします．",
+        "ts": "1526879815.000109",
+        "edited": {
+            "user": "U9WL9BCKH",
+            "ts": "1526879870.000000"
+        },
+        "reactions": [
+            {
+                "name": "ありがとう",
+                "count": 3,
+                "users": [
+                    "U9V4VKKPA",
+                    "U9VEE21MZ",
+                    "U9XCZ7FPY"
+                ]
+            },
+            {
+                "name": "man-bowing",
+                "count": 1,
+                "users": [
+                    "U9UV34517"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "30分？笑笑",
+        "ts": "1526880967.000008"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "追加分のやつは1分の発表で十分って言われました．",
+        "ts": "1526881018.000168"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "物品購入の基礎なんか何するんやー\nって聞かれたわ",
+        "ts": "1526881038.000064"
+    },
+    {
+        "type": "message",
+        "user": "U9VEE21MZ",
+        "text": "え？1分？笑",
+        "ts": "1526881048.000212"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "おまえがせいっていったんやろ笑笑",
+        "ts": "1526881080.000011"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "1分って言ってたで\nどこまで本気か知らんけど笑",
+        "ts": "1526881086.000131"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9WL9BCKH\/FASM3GHED\/dsc_0032.jpg|DSC_0032.JPG>) をアップロードしてコメントしました : M1チーフ怖い",
+        "ts": "1526895334.000329",
+        "subtype": "file_share",
+        "username": "thirai",
+        "file": {
+            "id": "FASM3GHED",
+            "created": 1526895330,
+            "timestamp": 1526895330,
+            "name": "DSC_0032.JPG",
+            "title": "DSC_0032.JPG",
+            "mimetype": "image\/jpeg",
+            "image_exif_rotation": 1,
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U9WL9BCKH",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 2541036,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FASM3GHED\/dsc_0032.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FASM3GHED\/download\/dsc_0032.jpg",
+            "original_h": 2448,
+            "original_w": 3264,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FASM3GHED-b74fe08967\/dsc_0032_64.jpg",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FASM3GHED-b74fe08967\/dsc_0032_80.jpg",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FASM3GHED-b74fe08967\/dsc_0032_160.jpg",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FASM3GHED-b74fe08967\/dsc_0032_360.jpg",
+            "thumb_360_gif": "",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FASM3GHED-b74fe08967\/dsc_0032_480.jpg",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FASM3GHED-b74fe08967\/dsc_0032_720.jpg",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FASM3GHED-b74fe08967\/dsc_0032_960.jpg",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FASM3GHED-b74fe08967\/dsc_0032_1024.jpg",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9WL9BCKH\/FASM3GHED\/dsc_0032.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FASM3GHED-edd663367c",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "G9UQTU6KS"
+            ],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcATBQN205",
+                "created": 1526895330,
+                "timestamp": 1526895330,
+                "user": "U9WL9BCKH",
+                "comment": "M1チーフ怖い"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "疲れてる",
+        "ts": "1526895373.000419"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<!channel> \n28日(月)の基礎勉強会19:30〜\n修士学生でミーティングをするそうです\n\n来れる人はリアクションお願いします〜\n来れない人は至急ご連絡をお願いします。",
+        "ts": "1526904268.000357",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 2,
+                "users": [
+                    "U9VQSJC4C",
+                    "U9V4VKKPA"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "masterの方で大丈夫です\nお願いしますー",
+        "ts": "1526904755.000137"
+    }
+]

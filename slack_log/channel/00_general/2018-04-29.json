@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U9ZFYJDTJ>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9ZFYJDTJ\/FAF8YRMS8\/2018___4___________________________.pdf|2018年4月月例スケジュール.pdf>) をアップロードしてコメントしました : 5月1日（火）の4月月例のスケジュールに関しまして，以下に送付させていただきます.\n\nまた，スケジュールは，レジュメの冊子とともにGoogleドライブにもあげさせていただきます．",
+        "file": {
+            "id": "FAF8YRMS8",
+            "created": 1525060197,
+            "timestamp": 1525060197,
+            "name": "2018年4月月例スケジュール.pdf",
+            "title": "2018年4月月例スケジュール.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U9ZFYJDTJ",
+            "editable": false,
+            "size": 21201,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAF8YRMS8\/2018___4___________________________.pdf?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAF8YRMS8\/download\/2018___4___________________________.pdf?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF8YRMS8-8f0853cfe0\/2018___4____________________________thumb_pdf.png?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_pdf_w": 1286,
+            "thumb_pdf_h": 909,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9ZFYJDTJ\/FAF8YRMS8\/2018___4___________________________.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAF8YRMS8-1ad4badf62",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "FcAGH3FRUP",
+                "created": 1525060197,
+                "timestamp": 1525060197,
+                "user": "U9ZFYJDTJ",
+                "is_intro": true,
+                "comment": "5月1日（火）の4月月例のスケジュールに関しまして，以下に送付させていただきます.\n\nまた，スケジュールは，レジュメの冊子とともにGoogleドライブにもあげさせていただきます．"
+            },
+            "reactions": [
+                {
+                    "name": "100",
+                    "users": [
+                        "U9W9J4MP0"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U9ZFYJDTJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "anakamoto",
+        "bot_id": null,
+        "ts": "1525060198.000112"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFYJDTJ",
+        "text": "<!channel> 4月月例発表会では，1人あたり30分の発表です．\n時間配分は，発表時間が10分，学生からの質疑応答が15分，三木先生からのコメントが3分，槇原先生からのコメントが2分とします．また，学生からの質疑応答が15分以内であった場合，三木先生のコメントに移らさせていただきます．\n質疑応答の時間を過ぎた場合は，ベルを鳴らさせていただきます．本件に関しまして，三木先生の許可はいただいております．",
+        "edited": {
+            "user": "U9ZFYJDTJ",
+            "ts": "1525071417.000000"
+        },
+        "ts": "1525066418.000153",
+        "reactions": [
+            {
+                "name": "了解です",
+                "users": [
+                    "U9W9J4MP0",
+                    "UA0083JS0",
+                    "UA073MJTU",
+                    "U9VCG5S1W"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ubuntu",
+                "users": [
+                    "UA1239MTQ",
+                    "U9XQR125B"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

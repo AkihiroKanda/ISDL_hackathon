@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UA125R19U>さんがチャンネルに参加しました",
+        "ts": "1526880463.000186",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "投票告知しました。",
+        "ts": "1526881362.000056"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "告知しました。",
+        "ts": "1526881394.000018",
+        "thread_ts": "1526702292.000067",
+        "parent_user_id": "U9W9J4MP0",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "準備できたので取りに来て下さい。",
+        "ts": "1526899082.000004",
+        "thread_ts": "1526040479.000282",
+        "parent_user_id": "U9X7JGL75"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "承知しました。\n後日受け取りに参ります。",
+        "ts": "1526905316.000337",
+        "thread_ts": "1526040479.000282",
+        "parent_user_id": "U9X7JGL75"
+    }
+]

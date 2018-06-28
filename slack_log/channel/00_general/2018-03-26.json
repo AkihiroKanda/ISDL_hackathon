@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U9VCG5S1W",
+        "text": "<@U9VCG5S1W>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1522073561.000366"
+    },
+    {
+        "user": "U9WGY7V50",
+        "text": "<@U9WGY7V50>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1522125216.000085"
+    },
+    {
+        "user": "U9XCZ7FPY",
+        "text": "<@U9XCZ7FPY>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1522127838.000034"
+    }
+]

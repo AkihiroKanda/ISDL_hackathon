@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<https:\/\/k-tai.watch.impress.co.jp\/docs\/news\/1123603.html>\n\nこれはでかすぎる...",
+        "ts": "1527174102.000191",
+        "attachments": [
+            {
+                "fallback": "ケータイ Watch: Google Payで「Suica」「WAON」が利用可能に",
+                "id": 1,
+                "title": "Google Payで「Suica」「WAON」が利用可能に",
+                "title_link": "https:\/\/k-tai.watch.impress.co.jp\/docs\/news\/1123603.html",
+                "text": "　グーグルは、決済サービスの「Google Pay」で、新たにSuicaとWAONが利用できるようになったと発表した。これまでnanacoと楽天Edyに対応しており、今回で4種類のサービスをGoogle Payで管理できるようになる。対応機種はAndroid 5.0以上でおサイフケータイ（FeliCa）対応のスマートフォン。",
+                "image_url": "https:\/\/k-tai.watch.impress.co.jp\/img\/ktw\/list\/1123\/603\/06_o.jpg",
+                "ts": 1527130500
+            }
+        ],
+        "reactions": [
+            {
+                "name": "dekai",
+                "count": 1,
+                "users": [
+                    "UA1239MTQ"
+                ]
+            }
+        ]
+    }
+]

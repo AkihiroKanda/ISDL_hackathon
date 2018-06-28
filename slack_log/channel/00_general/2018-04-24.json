@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!channel> \n本日，三木先生よりLAのメールに関して\n，いくつか指摘があったので周知を兼ねてまとめておきます．\nU4の皆さん，確認よろしくお願いします\n```\n1. 表題の中の「香知館」と\bいう文字列を削除\n2. 「研究室における課題」を廃止し，「本日の豆知識」を採用する\n3. 「不備等ございましたら，ご指摘よろしくお願い致します」および「失礼致します」を削除\n```",
+        "ts": "1524638464.000115",
+        "reactions": [
+            {
+                "name": "了解です",
+                "users": [
+                    "U9W9J4MP0",
+                    "UA125R19U",
+                    "UA075ACH0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "wakarimasita",
+                "users": [
+                    "UA1239MTQ",
+                    "UA074SQ4S",
+                    "UA0B1QWCV",
+                    "U9ZFZ43DW",
+                    "U9ZPY616D",
+                    "U9ZFYJDTJ",
+                    "UA042R70B",
+                    "U9VD2BKNG",
+                    "U9ZGENNKA",
+                    "U9VQSJC4C",
+                    "UA008K4G4"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "今後，研究室全体に周知しておくべき事柄等があれば，学年問わず皆さん\bこのgeneralチャンネルで周知してもらえると\bありがたいです",
+        "ts": "1524638535.000330",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9VD2BKNG",
+                    "U9WSNSQLQ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

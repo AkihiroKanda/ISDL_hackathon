@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "user": "U9XE1JRA9",
+        "text": "<@U9XE1JRA9>さんがチャンネルに参加しました",
+        "ts": "1526643330.000267",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "<@U9XN8QQ77>さんがチャンネルに参加しました",
+        "ts": "1526643331.000093",
+        "subtype": "channel_join",
+        "inviter": "U9XE1JRA9"
+    },
+    {
+        "type": "message",
+        "user": "UA13NUR9C",
+        "text": "<@UA13NUR9C>さんがチャンネルに参加しました",
+        "ts": "1526643331.000116",
+        "subtype": "channel_join",
+        "inviter": "U9XE1JRA9"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFYJDTJ",
+        "text": "<@U9ZFYJDTJ>さんがチャンネルに参加しました",
+        "ts": "1526643331.000292",
+        "subtype": "channel_join",
+        "inviter": "U9XE1JRA9"
+    },
+    {
+        "type": "message",
+        "user": "UA042R70B",
+        "text": "<@UA042R70B>さんがチャンネルに参加しました",
+        "ts": "1526643331.000470",
+        "subtype": "channel_join",
+        "inviter": "U9XE1JRA9"
+    },
+    {
+        "type": "message",
+        "user": "U9XE1JRA9",
+        "text": "<@U9XE1JRA9>さんがチャンネル名を「02_00_00壁面照明班」から「02_04_壁面照明班」に変更しました。",
+        "ts": "1526644476.000175",
+        "subtype": "channel_name",
+        "name": "02_04_壁面照明班",
+        "old_name": "02_00_00壁面照明班"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "っｍ",
+        "ts": "1526646161.000033"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "user": "UA074SQ4S",
+        "text": "安全点検はじまりました。\n部屋を回ると思いますので、よろしくお願いいたします",
+        "ts": "1527566177.000211",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9VQSJC4C>さんがメッセージをこのチャンネルにピン留めしました。",
+        "ts": "1527567482.000090",
+        "attachments": [
+            {
+                "fallback": "[May 25th, 2018 2:40 PM] smurano: <!channel> \nプロジェクトPのメンバーを募集します．\n参加希望者は、:man-raising-hand:をお願いします．\n募集期限は5月31日（木）23:59までとします．\n初回ミーティングは参加するか悩んでる人の参加も可とします．\n少しでも興味がある人はリアクションをお願いします．",
+                "author_id": "U9VQSJC4C",
+                "author_name": "村野翔太",
+                "author_subname": "村野翔太",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/U9VQSJC4C",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-03-30\/338800782501_36ef8c8c77c2e612eb20_48.png",
+                "text": "<!channel> \nプロジェクトPのメンバーを募集します．\n参加希望者は、:man-raising-hand:をお願いします．\n募集期限は5月31日（木）23:59までとします．\n初回ミーティングは参加するか悩んでる人の参加も可とします．\n少しでも興味がある人はリアクションをお願いします．",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "ts": 1527226817.000012
+            }
+        ],
+        "subtype": "pinned_item",
+        "item_type": "G"
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "安全点検準備のKC119に関して，\nU4の準備不足により，多大なご迷惑をおかけしてしまい申し訳ございませんでした．\nお忙しい中お手伝いしていただき誠にありがとうございました．\n以後，周知不足などをなくすよう努めていきます．",
+        "ts": "1527569139.000022",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "count": 1,
+                "users": [
+                    "U9UV34517"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "安全点検無事終わりました．\nご協力ありがとうございました．",
+        "ts": "1527569161.000175",
+        "reactions": [
+            {
+                "name": "ありがとう",
+                "count": 1,
+                "users": [
+                    "U9UV34517"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9ZFZ43DW",
+        "text": "<!channel> \n4.5月月例に出ることができなく，院進学することが決まりましたので\n本件について，三木先生に既に相談し\nM1さんの中間報告である7月月例に自身の研究テーマで発表させていただきます．\n皆さまには御迷惑をおかけすることになると思いますが，よろしくお願い致します．",
+        "ts": "1527584019.000450",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 3,
+                "users": [
+                    "U9UV34517",
+                    "U9VD2BKNG",
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    }
+]

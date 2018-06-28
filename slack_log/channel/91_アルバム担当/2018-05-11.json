@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "user": "U9WB96RQW",
+        "text": "<@U9WB96RQW>さんがチャンネル名を「album」から「91_アルバム担当」に変更しました。",
+        "ts": "1526042522.000245",
+        "subtype": "channel_name",
+        "name": "91_アルバム担当",
+        "old_name": "album"
+    }
+]

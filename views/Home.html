@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="/stylesheets/homeStyle.css">
+<title>SLACK log</title>
+
+</head>
+
+<body>
+<div id="container">
+  <div id="va-accordion" class="va-container">
+    <div class="va-nav"> <span class="va-nav-prev">Previous</span> <span class="va-nav-next">Next</span> </div>
+    <div class="va-wrapper">
+      <div class="va-slice va-slice-1">
+        <h3 class="va-title">PROJECT</h3>
+        <div class="va-content">
+          <p>Mr.TOMIOKA</p>
+          <ul>
+            <li id="project-kick"><a href="#">project-kick</a></li>
+            <li id="project-n"><a href="#">project-n</a></li>
+            <li id="projectp"><a href="#">projectp</a></li>
+            <li id="科研"><a href="#">科研</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-2">
+        <h3 class="va-title">Laboratory revolution</h3>
+        <div class="va-content">
+          <p>U4</p>
+          <ul>
+            <li id="研究室大改革"><a href="#">研究室大改革</a></li>
+            <li id="ライトニングトーク"><a href="#">ライトニングトーク</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-3">
+        <h3 class="va-title">Contact matters</h3>
+        <div class="va-content">
+          <p>Mr.TAKAYA</p>
+          <ul>
+            <li id="00_general"><a href="#">00_general</a></li>
+            <li id="random"><a href="#">random</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-4">
+        <h3 class="va-title">ROOM</h3>
+        <div class="va-content">
+          <p>Reservation</p>
+          <ul>
+            <li id="kc103"><a href="#">kc103</a></li>
+            <li id="kc111"><a href="#">kc111</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-5">
+        <h3 class="va-title">PROFESSOR MIKI</h3>
+        <div class="va-content">
+          <ul>
+            <li id="conference-info"><a href="#">conference-info</a></li>
+            <li id="prof-part-time-job"><a href="#">prof-part-time-job</a></li>
+            <li id="professor-impulse"><a href="#">professor-impulse</a></li>
+            <li id="professor-to-do"><a href="#">professor-to-do</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-6">
+        <h3 class="va-title">management</h3>
+        <div class="va-content">
+          <p>F.R.I.D.A.Y</p>
+          <ul>
+            <li id="欠席連絡"><a href="#">欠席連絡</a></li>
+            <li id="tyc_transactions"><a href="#">tyc_transactions</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-7">
+        <h3 class="va-title">AQUARIUS</h3>
+        <div class="va-content">
+          <p>prof.MIKI</p>
+          <ul>
+            <li id="アクエリアス"><a href="#">アクエリアス</a></li>
+            <li id="01_00_知的照明班"><a href="#">01_00_知的照明班</a></li>
+            <li id="02_00_快適性班"><a href="#">02_00_快適性班</a></li>
+            <li id="02_00_センシング班"><a href="#">02_00_センシング班</a></li>
+            <li id="02_01_体感温度班"><a href="#">02_01_体感温度班</a></li>
+            <li id="02_03_複合環境班"><a href="#">02_03_複合環境班</a></li>
+            <li id="02_04_壁面照明班"><a href="#">02_04_壁面照明班</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-8">
+        <h3 class="va-title">LA</h3>
+        <div class="va-content">
+          <p>U4</p>
+          <ul>
+            <li id="本日の豆知識"><a href="#">本日の豆知識</a></li>
+            <li id="bot-aola"><a href="#">bot-aola</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-9">
+        <h3 class="va-title">Responsible</h3>
+        <div class="va-content">
+          <ul>
+            <li id="91_アルバム担当"><a href="#">91_アルバム担当</a></li>
+            <li id="97_ネットワーク委員会"><a href="#">97_ネットワーク委員会</a></li>
+            <li id="98_ファシリティー担当"><a href="#">98_ファシリティー担当</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="va-slice va-slice-10">
+        <h3 class="va-title">study group</h3>
+        <div class="va-content">
+          <ul>
+            <li id="design-pattern"><a href="#">design-pattern</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--googleのCDN（ネットワーク経由でコンテンツを提供するサービス）よりjqueryをロード-->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="./javascripts/button_click_monitor.js"></script>
+
+  <!--ダウンロードしたファイル-->
+  <script type="text/javascript" src="/javascripts/home/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/javascripts/home/jquery.mousewheel.js"></script>
+  <script type="text/javascript" src="/javascripts/home/jquery.vaccordion.js"></script>
+  <script type="text/javascript" src="/javascripts/home/carsol.js"></script>
+  <!--javascript追記-->
+  <script type="text/javascript">
+   $(function() {
+    $('#va-accordion').vaccordion();
+   });
+  </script>
+</body>
+</html>

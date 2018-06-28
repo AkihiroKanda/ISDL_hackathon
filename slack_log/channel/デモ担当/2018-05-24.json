@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "<!channel> 5月25日（金）17:30〜18:00にデモ担当全体ミーティングを設定しました。よろしくお願いします。",
+        "ts": "1527140244.000195",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 7,
+                "users": [
+                    "U9UV34517",
+                    "UA1239MTQ",
+                    "UA074SQ4S",
+                    "U9ZFZ43DW",
+                    "U9ZGENNKA",
+                    "U9XQR125B",
+                    "U9WL9BCKH"
+                ]
+            }
+        ]
+    }
+]

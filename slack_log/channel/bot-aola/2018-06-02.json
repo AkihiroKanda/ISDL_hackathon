@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "text": "あおらbotです．\n\n現在のKC104の温度，湿度に関して報告致します．\n\n-----\n時間 : 12時\n温度 : 26 ℃\n湿度 : 55％\n-----\n\n以上です．",
+        "ts": "1527908403.000065",
+        "subtype": "bot_message",
+        "bot_id": "BAJB0RWL8",
+        "username": "あおらbot"
+    },
+    {
+        "type": "message",
+        "text": "あおらbotです．\n\n現在のKC104の温度，湿度に関して報告致します．\n\n-----\n時間 : 16時\n温度 : 25 ℃\n湿度 : 52％\n-----\n\n以上です．",
+        "ts": "1527922802.000105",
+        "subtype": "bot_message",
+        "bot_id": "BAJB0RWL8",
+        "username": "あおらbot"
+    }
+]

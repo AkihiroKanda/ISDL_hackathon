@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "text": "<@U9YDVG89L> used `\/polly`!",
+        "ts": "1527775987.000260",
+        "attachments": [
+            {
+                "color": "35A8E0",
+                "fallback": "使用しているスマートフォンのOSを教えてください",
+                "callback_id": "jNaQHxRTE22uzbpHP",
+                "id": 1,
+                "title": "使用しているスマートフォンのOSを教えてください",
+                "text": "",
+                "actions": [
+                    {
+                        "name": "one",
+                        "text": "iOS",
+                        "type": "button",
+                        "value": "0"
+                    },
+                    {
+                        "name": "two",
+                        "text": "Android",
+                        "type": "button",
+                        "value": "1"
+                    },
+                    {
+                        "name": "three",
+                        "text": "その他",
+                        "type": "button",
+                        "value": "2"
+                    }
+                ]
+            },
+            {
+                "fallback": "使用しているスマートフォンのOSを教えてください",
+                "callback_id": "jNaQHxRTE22uzbpHP",
+                "id": 2,
+                "text": "",
+                "fields": [
+                    {
+                        "title": "iOS",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 68% (26)\n<@U9VQSJC4C>, <@UA13NUR9C>, <@U9VLY8PKL>, <@U9VLBFM7U>, <@UA1APD147>, +21 more",
+                        "short": false
+                    },
+                    {
+                        "title": "Android",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇▇▇` 32% (12)\n<@U9ZGENNKA>, <@U9ZPY616D>, <@U9XHTK59Q>, <@UA1239MTQ>, <@U9XCZ7FPY>, +7 more",
+                        "short": false
+                    },
+                    {
+                        "title": "その他",
+                        "value": "`⁢` 0%",
+                        "short": false
+                    },
+                    {
+                        "title": "Total votes",
+                        "value": "38",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "name": "add_comments",
+                        "text": "Add a Comment",
+                        "type": "button",
+                        "value": "5LnFLT2aAN5kipLiD"
+                    },
+                    {
+                        "name": "view_all_responses_in_channel",
+                        "text": "View All Responses",
+                        "type": "button",
+                        "value": "5LnFLT2aAN5kipLiD"
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            }
+        ],
+        "subtype": "bot_message",
+        "bot_id": "BA08Q2929",
+        "username": "Polly",
+        "icons": {}
+    },
+    {
+        "type": "message",
+        "user": "U9YDVG89L",
+        "text": "本田くんと僕で開発しているISDL用スマートフォンアプリを明日中に配布しようと考えています．\nただ，AndroidとiOSで配布方法が異なるため皆さんのスマートフォンのOSを教えていただきたいと思います．\nお手数ですが↑のアンケートに答えていただくようお願いします．",
+        "ts": "1527775994.000336"
+    }
+]

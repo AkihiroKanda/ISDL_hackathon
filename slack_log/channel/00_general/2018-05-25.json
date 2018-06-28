@@ -1,0 +1,228 @@
+[
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "大学院進学の教授推薦状の締切は本日17時までです。すでに提出した学生は確認のため、返事を下さい。",
+        "ts": "1527218218.000132",
+        "thread_ts": "1527218218.000132",
+        "unread_count": 3,
+        "reply_count": 3,
+        "replies": [
+            {
+                "user": "UA1239MTQ",
+                "ts": "1527218308.000250"
+            },
+            {
+                "user": "U9ZFZ43DW",
+                "ts": "1527218322.000057"
+            },
+            {
+                "user": "UA0083JS0",
+                "ts": "1527218332.000214"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "提出致しました。",
+        "ts": "1527218308.000250",
+        "thread_ts": "1527218218.000132",
+        "parent_user_id": "UAA37NWHW"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFZ43DW",
+        "text": "提出致しました．",
+        "ts": "1527218322.000057",
+        "thread_ts": "1527218218.000132",
+        "parent_user_id": "UAA37NWHW"
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "提出致しました。",
+        "ts": "1527218332.000214",
+        "thread_ts": "1527218218.000132",
+        "parent_user_id": "UAA37NWHW"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "プロジェクトPの統括として参加させていただきます。\nこのような成長する機会をいただきありがとうございます。\nこれまでの経験を生かし、プロジェクトメンバーを統括できるように努めます。\nまた後日、プロジェクトPの参加希望者を募り、ミーティングをひらかせていただきます。\nよろしくお願いいたします。",
+        "ts": "1527226121.000235",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[May 24th, 2018 11:32 PM] mmiki: 本日、三菱地所株式会社の副社長と会い、大手町パークビルの新オフィスの役員応接室に擬似窓を導入することを決めました。本物の窓の外に見えるのが、隣のビルなので、そこに擬似窓を入れて、皇居が見える窓と同じく風景が見えるようにします。窓の大きさは50インチ液晶ディスプレイ８台分の大きさです。また、窓の無い応接室もあるので、そこにも導入したいと思っています。そこは50インチ２台でいいかなと思います。なお、外部カメラ無し方式で進めたいと思います。これはプロジェクトＰ（パークビル）と名付けます。参加希望者を募ります。",
+                "author_id": "UAA37NWHW",
+                "author_name": "三木光範",
+                "author_subname": "三木光範",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/UAA37NWHW",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-04-22\/350912837858_6ee9567d4d73abe5e341_48.jpg",
+                "text": "本日、三菱地所株式会社の副社長と会い、大手町パークビルの新オフィスの役員応接室に擬似窓を導入することを決めました。本物の窓の外に見えるのが、隣のビルなので、そこに擬似窓を入れて、皇居が見える窓と同じく風景が見えるようにします。窓の大きさは50インチ液晶ディスプレイ８台分の大きさです。また、窓の無い応接室もあるので、そこにも導入したいと思っています。そこは50インチ２台でいいかなと思います。なお、外部カメラ無し方式で進めたいと思います。これはプロジェクトＰ（パークビル）と名付けます。参加希望者を募ります。",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#00_general に投稿",
+                "ts": 1527172324.000687
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<@U9W9J4MP0>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9W9J4MP0\/FAX7FQR0F\/isdl_______________________________.png|ISDLハッカソン_チーム分け.png>) をアップロードしてコメントしました : ISDLハッカソンのチーム分けできました．\nオレンジ色の人がマネージャとして動いてください．\nサポートに関しては基本的には各班担当メンターに任せているので相談等はメンターにお願いします．\n本日以降，6\/30の発表に向けて皆さん頑張ってください！",
+        "ts": "1527240065.000495",
+        "subtype": "file_share",
+        "username": "ytakaya",
+        "file": {
+            "id": "FAX7FQR0F",
+            "created": 1527240062,
+            "timestamp": 1527240062,
+            "name": "ISDLハッカソン_チーム分け.png",
+            "title": "ISDLハッカソン_チーム分け.png",
+            "mimetype": "image\/png",
+            "image_exif_rotation": 1,
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U9W9J4MP0",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 67610,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAX7FQR0F\/isdl_______________________________.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAX7FQR0F\/download\/isdl_______________________________.png",
+            "original_h": 262,
+            "original_w": 1422,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7FQR0F-38852bee6f\/isdl________________________________64.png",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7FQR0F-38852bee6f\/isdl________________________________80.png",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7FQR0F-38852bee6f\/isdl________________________________160.png",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7FQR0F-38852bee6f\/isdl________________________________360.png",
+            "thumb_360_gif": "",
+            "thumb_360_w": 360,
+            "thumb_360_h": 66,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7FQR0F-38852bee6f\/isdl________________________________480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 88,
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7FQR0F-38852bee6f\/isdl________________________________720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 133,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7FQR0F-38852bee6f\/isdl________________________________960.png",
+            "thumb_960_w": 960,
+            "thumb_960_h": 177,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7FQR0F-38852bee6f\/isdl________________________________1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 189,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9W9J4MP0\/FAX7FQR0F\/isdl_______________________________.png",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAX7FQR0F-2fe07947f6",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": true,
+            "public_url_shared": false,
+            "channels": [
+                "C9VJ93TN1"
+            ],
+            "groups": [],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcAW34CE9H",
+                "created": 1527240062,
+                "timestamp": 1527240062,
+                "user": "U9W9J4MP0",
+                "comment": "ISDLハッカソンのチーム分けできました．\nオレンジ色の人がマネージャとして動いてください．\nサポートに関しては基本的には各班担当メンターに任せているので相談等はメンターにお願いします．\n本日以降，6\/30の発表に向けて皆さん頑張ってください！"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<@U9W9J4MP0>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9W9J4MP0\/FAX2WTRRC\/isdl___________________________________________________.pdf|ISDLハッカソンキックオフミーティング.pdf>) をアップロードしてコメントしました : キックオフミーティングの議事録も再度上げておきます．審査基準やテーマ等が書いてあるので確認お願いします！",
+        "ts": "1527240111.000175",
+        "subtype": "file_share",
+        "username": "ytakaya",
+        "file": {
+            "id": "FAX2WTRRC",
+            "created": 1527240109,
+            "timestamp": 1527240109,
+            "name": "ISDLハッカソンキックオフミーティング.pdf",
+            "title": "ISDLハッカソンキックオフミーティング.pdf",
+            "mimetype": "application\/pdf",
+            "image_exif_rotation": 0,
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U9W9J4MP0",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 54027,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAX2WTRRC\/isdl___________________________________________________.pdf",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAX2WTRRC\/download\/isdl___________________________________________________.pdf",
+            "original_h": 0,
+            "original_w": 0,
+            "thumb_64": "",
+            "thumb_80": "",
+            "thumb_160": "",
+            "thumb_360": "",
+            "thumb_360_gif": "",
+            "thumb_360_w": 0,
+            "thumb_360_h": 0,
+            "thumb_480": "",
+            "thumb_480_w": 0,
+            "thumb_480_h": 0,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9W9J4MP0\/FAX2WTRRC\/isdl___________________________________________________.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAX2WTRRC-95a75c3521",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": true,
+            "public_url_shared": false,
+            "channels": [
+                "C9VJ93TN1"
+            ],
+            "groups": [],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcAW34QYHH",
+                "created": 1527240109,
+                "timestamp": 1527240109,
+                "user": "U9W9J4MP0",
+                "comment": "キックオフミーティングの議事録も再度上げておきます．審査基準やテーマ等が書いてあるので確認お願いします！"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!channel>",
+        "ts": "1527240116.000120"
+    }
+]

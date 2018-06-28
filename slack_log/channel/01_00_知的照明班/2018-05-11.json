@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネルに参加しました",
+        "ts": "1526034851.000317",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネル名を「01_知的照明班」から「01_00_知的照明班」に変更しました。",
+        "ts": "1526034910.000295",
+        "subtype": "channel_name",
+        "name": "01_00_知的照明班",
+        "old_name": "01_知的照明班"
+    },
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "<@UA0B1QWCV>さんがチャンネルに参加しました",
+        "ts": "1526035708.000264",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA074SQ4S",
+        "text": "<@UA074SQ4S>さんがチャンネルに参加しました",
+        "ts": "1526036675.000174",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "<@UA073MJTU>さんがチャンネルに参加しました",
+        "ts": "1526037362.000032",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "<@U9WJKLKME>さんがチャンネルに参加しました",
+        "ts": "1526039595.000269",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんがチャンネルに参加しました",
+        "ts": "1526042433.000435",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "知的照明班MTGを来週14日(月）19:30〜20:30か15日の15:30〜16:00を予定しています。なお，三木先生の確認ができていないため仮としてカレンダーに登録しています。",
+        "ts": "1526044935.000256"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<@UA1239MTQ>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/UA1239MTQ\/FAPVD4BF0\/isdl_____________________.txt|ISDLハッカソン設備>) をアップロードしてコメントしました : 以上の内容を#sutudentsに流そうと思いますが問題がありましたら指摘をお願いします．",
+        "ts": "1526276523.000009",
+        "subtype": "file_share",
+        "username": "hyoneda",
+        "file": {
+            "id": "FAPVD4BF0",
+            "created": 1526276522,
+            "timestamp": 1526276522,
+            "name": "ISDL_____________________.txt",
+            "title": "ISDLハッカソン設備",
+            "mimetype": "text\/plain",
+            "image_exif_rotation": 0,
+            "filetype": "text",
+            "pretty_type": "プレーンテキスト",
+            "user": "UA1239MTQ",
+            "mode": "snippet",
+            "editable": true,
+            "is_external": false,
+            "external_type": "",
+            "size": 544,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAPVD4BF0\/isdl_____________________.txt",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAPVD4BF0\/download\/isdl_____________________.txt",
+            "original_h": 0,
+            "original_w": 0,
+            "thumb_64": "",
+            "thumb_80": "",
+            "thumb_160": "",
+            "thumb_360": "",
+            "thumb_360_gif": "",
+            "thumb_360_w": 0,
+            "thumb_360_h": 0,
+            "thumb_480": "",
+            "thumb_480_w": 0,
+            "thumb_480_h": 0,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/UA1239MTQ\/FAPVD4BF0\/isdl_____________________.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAPVD4BF0-5d6e97b1bb",
+            "edit_link": "https:\/\/isdl2018.slack.com\/files\/UA1239MTQ\/FAPVD4BF0\/isdl_____________________.txt\/edit",
+            "preview": "6月30日（土）のISDLハッカソン発表会は\r\nラーネッド記念図書館のオープンスペースで行います．\r\n発表当日に発表者が使用可能な機材を以下のようにお知らせします．\r\n括弧内の数値は数量です．\r\n最大で3入力系統（HDMI，VGA，手元カメラ）の同時投影が可能です．\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>6月30日（土）のISDLハッカソン発表会は<\/pre><\/div>\n<div><pre>ラーネッド記念図書館のオープンスペースで行います．<\/pre><\/div>\n<div><pre>発表当日に発表者が使用可能な機材を以下のようにお知らせします．<\/pre><\/div>\n<div><pre>括弧内の数値は数量です．<\/pre><\/div>\n<div><pre>最大で3入力系統（HDMI，VGA，手元カメラ）の同時投影が可能です．<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 13,
+            "lines_more": 8,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GAN5HL064"
+            ],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcAQ4JPLHM",
+                "created": 1526276522,
+                "timestamp": 1526276522,
+                "user": "UA1239MTQ",
+                "comment": "以上の内容を#sutudentsに流そうと思いますが問題がありましたら指摘をお願いします．"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "使用可能な機材は以下の通りです\n\nでおｋ",
+        "ts": "1526288394.000541",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 1,
+                "users": [
+                    "UA1239MTQ"
+                ]
+            }
+        ]
+    }
+]

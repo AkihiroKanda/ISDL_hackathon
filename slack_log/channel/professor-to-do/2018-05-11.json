@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "user": "UA074SQ4S",
+        "text": "<@UA074SQ4S>さんがチャンネルに参加しました",
+        "ts": "1526004923.000030",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんがチャンネルに参加しました",
+        "ts": "1526026736.000239",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "<@U9WMSU938>さんがチャンネルに参加しました",
+        "ts": "1526034296.000309",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZPY616D",
+        "text": "<@U9ZPY616D>さんがチャンネルに参加しました",
+        "ts": "1526035898.000349",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA1APD147",
+        "text": "<@UA1APD147>さんがチャンネルに参加しました",
+        "ts": "1526035900.000276",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "<@U9ZGENNKA>さんがチャンネルに参加しました",
+        "ts": "1526036136.000002",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんがチャンネルに参加しました",
+        "ts": "1526038438.000166",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "<@U9X7JGL75>さんがチャンネルに参加しました",
+        "ts": "1526039417.000400",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XCZ7FPY",
+        "text": "<@U9XCZ7FPY>さんがチャンネルに参加しました",
+        "ts": "1526039579.000343",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "<@U9WJKLKME>さんがチャンネルに参加しました",
+        "ts": "1526039965.000276",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "【リマインダ】SOEPA業務\nSOEPAの報告書業務に関するリマインダを送らせていただきます。\n以下のご用意をお願いします。\n・4月例会の写真\n・4月23日特別専門部会の写真\n\nお忙しい中申し訳ありませんが、\nよろしくお願い致します。",
+        "ts": "1526040479.000282",
+        "thread_ts": "1526040479.000282",
+        "unread_count": 2,
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "UAA37NWHW",
+                "ts": "1526899082.000004"
+            },
+            {
+                "user": "U9X7JGL75",
+                "ts": "1526905316.000337"
+            }
+        ]
+    }
+]

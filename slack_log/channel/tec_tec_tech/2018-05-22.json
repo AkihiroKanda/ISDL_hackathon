@@ -1,0 +1,149 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<https:\/\/peaks.cc\/iOS_architecture>",
+        "ts": "1526954711.000159",
+        "attachments": [
+            {
+                "fallback": "それ知りたい！が本になる、技術書クラウドファンディング｜PEAKS（ピークス）: 関 義隆, 松館 大輝, 史 翔新, 田中 賢治, 鈴木 大貴, 杉上 洋平 - iOSの設計パターンを入門から徹底解説「iOSアプリ設計パターン入門」執筆プロジェクト！",
+                "id": 1,
+                "title": "関 義隆, 松館 大輝, 史 翔新, 田中 賢治, 鈴木 大貴, 杉上 洋平 - iOSの設計パターンを入門から徹底解説「iOSアプリ設計パターン入門」執筆プロジェクト！",
+                "title_link": "https:\/\/peaks.cc\/iOS_architecture",
+                "text": "アーキテクチャ設計のすべてを濃縮！ すべてのiOSアプリ開発者が待ち望んでいた、アプリケーション・アーキテクチャ解説本の執筆プロジェクト！ 近年ますます大規模＆複雑化しているiOSアプリ開発において、今求められているのは「アプリをどう設計するか」 「アーキテクチャをどのように設計すれば、将来に渡って安心してメンテナンスできるアプリを実現できるか」への解です。 本書は、古典的MVCから最新のFlux\/Reduxまで、現代のiOSアプリで使われているアーキテクチャをまるごと詳解します。 また、第一線の開発者による導入事例も紹介します。 今からアプリ開発を始める方にとっての聖典に、ベテラン開発者にとっての補完書となることでしょう。 ぜひ皆さんの応援でプロジェクトを成立させてください！",
+                "image_url": "https:\/\/s3-ap-northeast-1.amazonaws.com\/peaks-images\/project006_twittercard.jpg"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "ほんまにいいんかこれは",
+        "ts": "1526962029.000245"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "android版持ってるけど良かったで",
+        "ts": "1526962081.000010"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "ほほう",
+        "ts": "1526962210.000118"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "ハッカソンのときって絶対動くもん作らなあかんやん？\n\nやからさ、今度のspajam\ngit-flowの\nmaster、develop、featureだけ版でやろうと思うねんけどさ、ほかにいいのある？",
+        "ts": "1526962658.000066"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9W9J4MP0> ",
+        "ts": "1526962662.000080"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "いつもどやってる？",
+        "ts": "1526962683.000038"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "いつもそれでやってるよ",
+        "ts": "1526962876.000071"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "うっすうす",
+        "ts": "1526962887.000012"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "ただ、ハッカソンやとmasterとdevelopに分ける必要はなさげ",
+        "ts": "1526962896.000214"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "ぶっちゃけちゃんと疎結合にしないとコンフリクトしまくるで",
+        "ts": "1526962919.000251"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "たしかに余分な時間は取られるけど、\nmasterは絶対動くもんにしときたい感があるんよな",
+        "ts": "1526962944.000088"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "あと、俺と本田以外の3人がちゃんと使ってくれることが前提",
+        "ts": "1526962956.000048"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "こまめなpush",
+        "ts": "1526962964.000193"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "一人でも使ってくれない人いたら終わり",
+        "ts": "1526962976.000165"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "むむむ",
+        "ts": "1526963013.000140"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "developマージとmasterマージのときにちゃんと確認すれば大丈夫かと",
+        "ts": "1526963026.000105",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[May 22nd, 2018 1:22 PM] yhonda: たしかに余分な時間は取られるけど、\nmasterは絶対動くもんにしときたい感があるんよな",
+                "author_id": "U9VD2BKNG",
+                "author_name": "Yusuke Honda",
+                "author_subname": "Yusuke Honda",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/U9VD2BKNG",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-03-24\/334951733585_0579e29ed4379bc8ebbc_48.jpg",
+                "text": "たしかに余分な時間は取られるけど、\nmasterは絶対動くもんにしときたい感があるんよな",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#tec_tec_tech に投稿",
+                "ts": 1526962944.000088
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "嶋川さん、TYC電子化のやつ真っ赤やったやろ？笑",
+        "ts": "1526963065.000213"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "28話すか",
+        "ts": "1526963089.000123"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "せやな",
+        "ts": "1526963189.000211"
+    }
+]

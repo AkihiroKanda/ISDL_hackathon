@@ -1,0 +1,353 @@
+[
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UA125R19U>さんがグループに参加しました",
+        "ts": "1526863004.000163",
+        "subtype": "group_join"
+    },
+    {
+        "type": "message",
+        "user": "UA0U3TZFV",
+        "text": "<@UA0U3TZFV>さんがグループに参加しました",
+        "ts": "1526863005.000096",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA075ACH0",
+        "text": "<@UA075ACH0>さんがグループに参加しました",
+        "ts": "1526863005.000102",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA13NUR9C",
+        "text": "<@UA13NUR9C>さんがグループに参加しました",
+        "ts": "1526863005.000114",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9YDVG89L",
+        "text": "<@U9YDVG89L>さんがグループに参加しました",
+        "ts": "1526863005.000122",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UA125R19U>さんがチャンネルの目的を設定しました: 研究室大改革ミーティグで取り上げる議題の募集",
+        "ts": "1526863005.000123",
+        "subtype": "group_purpose",
+        "purpose": "研究室大改革ミーティグで取り上げる議題の募集"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFZ43DW",
+        "text": "<@U9ZFZ43DW>さんがグループに参加しました",
+        "ts": "1526863005.000129",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9XB925SM",
+        "text": "<@U9XB925SM>さんがグループに参加しました",
+        "ts": "1526863005.000134",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<@U9W9J4MP0>さんがグループに参加しました",
+        "ts": "1526863005.000143",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9WSNSQLQ",
+        "text": "<@U9WSNSQLQ>さんがグループに参加しました",
+        "ts": "1526863006.000011",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "<@UA0083JS0>さんがグループに参加しました",
+        "ts": "1526863006.000019",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA18JT79D",
+        "text": "<@UA18JT79D>さんがグループに参加しました",
+        "ts": "1526863006.000027",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9VLBFM7U",
+        "text": "<@U9VLBFM7U>さんがグループに参加しました",
+        "ts": "1526863006.000035",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "<@U9ZGENNKA>さんがグループに参加しました",
+        "ts": "1526863006.000103",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA008K4G4",
+        "text": "<@UA008K4G4>さんがグループに参加しました",
+        "ts": "1526863006.000110",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "<@UA0B1QWCV>さんがグループに参加しました",
+        "ts": "1526863006.000119",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9XCZ7FPY",
+        "text": "<@U9XCZ7FPY>さんがグループに参加しました",
+        "ts": "1526863006.000126",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA042R70B",
+        "text": "<@UA042R70B>さんがグループに参加しました",
+        "ts": "1526863006.000133",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "<@U9WMSU938>さんがグループに参加しました",
+        "ts": "1526863006.000138",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFYJDTJ",
+        "text": "<@U9ZFYJDTJ>さんがグループに参加しました",
+        "ts": "1526863006.000146",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9XE1JRA9",
+        "text": "<@U9XE1JRA9>さんがグループに参加しました",
+        "ts": "1526863006.000164",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "<@UA073MJTU>さんがグループに参加しました",
+        "ts": "1526863006.000175",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<@UA1239MTQ>さんがグループに参加しました",
+        "ts": "1526863006.000181",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<@U9Z9J6R6K>さんがグループに参加しました",
+        "ts": "1526863006.000188",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9XQR125B",
+        "text": "<@U9XQR125B>さんがグループに参加しました",
+        "ts": "1526863006.000200",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9WGY7V50",
+        "text": "<@U9WGY7V50>さんがグループに参加しました",
+        "ts": "1526863007.000042",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9WB96RQW",
+        "text": "<@U9WB96RQW>さんがグループに参加しました",
+        "ts": "1526863007.000098",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9VQSJC4C>さんがグループに参加しました",
+        "ts": "1526863007.000108",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA074SQ4S",
+        "text": "<@UA074SQ4S>さんがグループに参加しました",
+        "ts": "1526863007.000113",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA1APD147",
+        "text": "<@UA1APD147>さんがグループに参加しました",
+        "ts": "1526863007.000119",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9ZPY616D",
+        "text": "<@U9ZPY616D>さんがグループに参加しました",
+        "ts": "1526863008.000020",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "<@U9WJKLKME>さんがグループに参加しました",
+        "ts": "1526863008.000028",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9VLY8PKL",
+        "text": "<@U9VLY8PKL>さんがグループに参加しました",
+        "ts": "1526863008.000036",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9UV34517>さんがグループに参加しました",
+        "ts": "1526863008.000042",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "<@U9XN8QQ77>さんがグループに参加しました",
+        "ts": "1526863008.000052",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9VEE21MZ",
+        "text": "<@U9VEE21MZ>さんがグループに参加しました",
+        "ts": "1526863008.000123",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "<@U9V4VKKPA>さんがグループに参加しました",
+        "ts": "1526863008.000128",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがグループに参加しました",
+        "ts": "1526863008.000141",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "<@U9X7JGL75>さんがグループに参加しました",
+        "ts": "1526863008.000147",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんがグループに参加しました",
+        "ts": "1526863008.000152",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんがグループに参加しました",
+        "ts": "1526863008.000158",
+        "subtype": "group_join",
+        "inviter": "UA125R19U"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "研究室大改革ミーティグで取り上げる議題（不満点や提案など）を募集しております．言いにくい方がおられましたら，タスクフォースメンバー（小林，板谷，米田，藤井）まで個人的に言っていただいても構いません．宜しくお願い致します．",
+        "ts": "1526863033.000028"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!here> \n研究室大改革の議事録だけど，MTGに参加してない人たちでも，一読すれば内容がわかるような議事録にして欲しいです．可能な限りMTG内容についての質問が出ないようにお願いします",
+        "ts": "1526888031.000129",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 4,
+                "users": [
+                    "UA125R19U",
+                    "UA1239MTQ",
+                    "UA008K4G4",
+                    "UA18JT79D"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "クリップボードを希望者に配布します。各学年での希望数を運営委員に報告して下さい。カラーは各学年で変えます。",
+        "ts": "1525071708.000055"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "公共文具を揃えたいと思います。はさみ、カッター、糊、ホチキス、ホチキス針、カッティングマット、セロハンテープなど、必要品名、アスクルでの品番、個数を運営委員会に提出して下さい。ただし、要求された物をすべて購入するわけではありません。また、過去に例のないものでも、必要性が明らかになれば購入します。",
+        "ts": "1525071938.000290",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "users": [
+                    "U9W9J4MP0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "<!channel> ミーティング担当からです．4月月例に関しましてGoogleドライブにスケジュールと冊子をアップロード致しました．ペーパーレス化に伴い月例の冊子は印刷いたしませんので各自ダウンロードのほどよろしくお願い致します．\n--------------\n<https:\/\/goo.gl\/YGmSw5>\n--------------",
+        "attachments": [
+            {
+                "title": "Meet Google Drive – One place for all your files",
+                "title_link": "https:\/\/goo.gl\/YGmSw5",
+                "text": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.",
+                "fallback": "Meet Google Drive – One place for all your files",
+                "from_url": "https:\/\/goo.gl\/YGmSw5",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 1,
+                "original_url": "https:\/\/goo.gl\/YGmSw5"
+            }
+        ],
+        "ts": "1525082750.000263",
+        "reactions": [
+            {
+                "name": "了解です",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9WSNSQLQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wakarimasita",
+                "users": [
+                    "U9ZFZ43DW",
+                    "U9ZGENNKA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

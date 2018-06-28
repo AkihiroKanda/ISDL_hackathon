@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<https:\/\/developers-jp.googleblog.com\/2018\/05\/use-android-jetpack-to-accelerate-your.html>",
+        "ts": "1528011590.000025",
+        "attachments": [
+            {
+                "fallback": "Google Developers Japan: Android Jetpack を使用してアプリの開発を加速",
+                "id": 1,
+                "title": "Android Jetpack を使用してアプリの開発を加速",
+                "title_link": "https:\/\/developers-jp.googleblog.com\/2018\/05\/use-android-jetpack-to-accelerate-your.html",
+                "text": "Google I\/O 2018 で Android Jetpack を発表しました。サポート ライブラリと Architecture Components を統合し、新たな機能を追加します。",
+                "thumb_url": "http:\/\/4.bp.blogspot.com\/-fWEPzhrhdqk\/WKbYSrN1_8I\/AAAAAAAATXE\/m2-ZgsirkMYKc_YhcehEb0iUdyGtLs8KACK4B\/s1600\/lockup_google_developers_horizontal_knockout_wht.png"
+            }
+        ]
+    }
+]

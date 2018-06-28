@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<@U9W9J4MP0>さんがチャンネルに参加しました",
+        "ts": "1526305367.000038",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA075ACH0",
+        "text": "<@UA075ACH0>さんがチャンネルに参加しました",
+        "ts": "1526305422.000515",
+        "subtype": "channel_join",
+        "inviter": "UA18JT79D"
+    },
+    {
+        "type": "message",
+        "user": "UA18JT79D",
+        "text": "MTG、5月21日(月)16:30〜17:30に設定しました。よろしくお願い致します。",
+        "ts": "1526305567.000847",
+        "edited": {
+            "user": "UA18JT79D",
+            "ts": "1526354650.000000"
+        },
+        "reactions": [
+            {
+                "name": "了解です",
+                "count": 5,
+                "users": [
+                    "U9W9J4MP0",
+                    "U9ZPY616D",
+                    "U9ZGENNKA",
+                    "UA1239MTQ",
+                    "UA1APD147"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "ちなみに何を話すMTGの予定？",
+        "ts": "1526305683.000195"
+    },
+    {
+        "type": "message",
+        "user": "UA18JT79D",
+        "text": "テーマ決めだと思っております。",
+        "ts": "1526305946.000785"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "なるほど，りょーかい！",
+        "ts": "1526306007.000002"
+    }
+]

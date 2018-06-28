@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!channel> \ngmail転送用のチャンネル <#CAJS4UY9F|forwarding-mail> を作成しました．\n<mailto:mail_forward@mikilab.doshisha.ac.jp|mail_forward@mikilab.doshisha.ac.jp> へ送信されたメールは当チャンネルに自動転送されます．\nみなさん活用ください．",
+        "ts": "1525773148.000445"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "高谷くん、ありがとう。",
+        "client_msg_id": "FC5642D7-8157-48D3-AB18-AD413A4AE8E2",
+        "ts": "1525788756.000537",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U9W9J4MP0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

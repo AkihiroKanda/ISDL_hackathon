@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "希望役職：エンジニア\n希望担当領域：バックエンド\nやってみたいこと：web，IoT",
+        "ts": "1527068053.000386",
+        "thread_ts": "1526947286.000286",
+        "parent_user_id": "U9W9J4MP0",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "希望役職：エンジニア\n希望担当領域：バックエンド\nやってみたいこと：web",
+        "ts": "1527070876.000248",
+        "thread_ts": "1526947286.000286",
+        "parent_user_id": "U9W9J4MP0",
+        "reactions": [
+            {
+                "name": "了解です",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    }
+]

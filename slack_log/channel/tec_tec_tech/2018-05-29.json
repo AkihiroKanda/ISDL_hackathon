@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<https:\/\/bouncy.news\/15859>",
+        "ts": "1527520232.000028",
+        "attachments": [
+            {
+                "fallback": "bouncy \/ バウンシー: 完全ワイヤレスイヤホン×バッテリー搭載iPhoneケースを組み合わせた「AmpPack」 - bouncy \/ バウンシー",
+                "id": 1,
+                "title": "完全ワイヤレスイヤホン×バッテリー搭載iPhoneケースを組み合わせた「AmpPack」 - bouncy \/ バウンシー",
+                "title_link": "https:\/\/bouncy.news\/15859",
+                "text": "充電用の収納ケースと同梱されることが多い完全ワイヤレスイヤホン。毎回ケースにいれないとバッテリーがすぐになくなってしまい、紛失のリスクも生じる。そんな完全ワイヤレスイヤホンとバッテリー搭載iPhoneケースをセットにした「AmpPack」が登場している。 買える？ 「AmpPack」はKickstarterでプロジェクトを実施中。149ドル（約1.6万円）からの出資プランで、イヤホン＋iPhone用バッテリーケースのセットを入手できる。日本向けには20ドル（約2,200円）の送料も必要だ。 iPhone用バッテリーケースは、iPhone 6以降の端末に対応。製品の出荷予定は2018年10月ごろとなっている。 もっと詳しく",
+                "thumb_url": "https:\/\/bouncy.news\/wp-content\/uploads\/2018\/05\/AmpPack-1.jpg",
+                "ts": 1527485455
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up",
+                "count": 1,
+                "users": [
+                    "U9VD2BKNG"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "素晴らしい",
+        "ts": "1527520237.000289"
+    }
+]

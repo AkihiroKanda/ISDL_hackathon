@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "ジースタイラス行った人、明日にでもお礼メッセージ入れとくんやで",
+        "ts": "1527693717.000365",
+        "thread_ts": "1527693717.000365",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U9VEE21MZ",
+                "ts": "1527694961.000898"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "一言で大丈夫やから",
+        "ts": "1527693722.000832"
+    },
+    {
+        "type": "message",
+        "user": "U9VEE21MZ",
+        "text": "承知致しました！",
+        "ts": "1527694961.000898",
+        "thread_ts": "1527693717.000365",
+        "subtype": "thread_broadcast"
+    }
+]

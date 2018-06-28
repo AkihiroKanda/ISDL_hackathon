@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UAA37NWHW> \nクリップボード11枚の購入をお願い致します",
+        "ts": "1527577494.000066"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "縦がいい？横がいい？",
+        "ts": "1527579223.000021",
+        "thread_ts": "1527579223.000021",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[May 29th, 2018 4:04 PM] kkobayashi: <@UAA37NWHW> \nクリップボード11枚の購入をお願い致します",
+                "author_id": "UA125R19U",
+                "author_name": "kobayashi",
+                "author_subname": "kobayashi",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/UA125R19U",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341666470902_1914066720251c8607ba_48.png",
+                "text": "<@UAA37NWHW> \nクリップボード11枚の購入をお願い致します",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#professor-to-do に投稿",
+                "ts": 1527577494.000066
+            }
+        ],
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UA125R19U",
+                "ts": "1527580286.000085"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "縦でお願いします．",
+        "ts": "1527580286.000085",
+        "thread_ts": "1527579223.000021",
+        "subtype": "thread_broadcast"
+    }
+]

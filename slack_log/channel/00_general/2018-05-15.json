@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "蛍光灯を廃棄する際は、まとめて縛り、廃棄という札をつけてください。",
+        "ts": "1526354745.000143"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UAA37NWHW> \n承知致しました。登校してすぐに処理いたします。",
+        "ts": "1526354875.000202"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": ":yoro:",
+        "ts": "1526356629.000158"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "アルバイト募集します。\n日時：5月31日（木）11：30～18：50\n場所：同志社大学東京オフィス\n<http:\/\/tokyo-office.doshisha.ac.jp\/access\/map.html>\n（東京都中央区京橋2丁目7番19号 京橋イーストビル3階）\n（東京駅から徒歩8分）\n内容：知的オフィス環境推進協議会の総会手伝い（会場設営、受付、会場係など）\n報酬：7000円、交通費：2万円（交通手段は問わない）合計2万7千円現金渡し\n（この機会に東京で遊んできてください）\n応募：本チャンネルに応募すること。先着順1名。当日は遅刻しないこと。",
+        "ts": "1526370005.000476",
+        "thread_ts": "1526370005.000476",
+        "attachments": [
+            {
+                "fallback": "アクセスマップ｜同志社大学 東京オフィス",
+                "id": 1,
+                "title": "アクセスマップ｜同志社大学 東京オフィス",
+                "title_link": "http:\/\/tokyo-office.doshisha.ac.jp\/access\/map.html",
+                "text": "同志社大学。京都市内と京都府南部にキャンパス。大学紹介、教育、研究活動、入試情報、公開講座など。"
+            }
+        ],
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UA0083JS0",
+                "ts": "1526543141.000237"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "<@U9V4VKKPA>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9V4VKKPA\/FAQ0MQDU5\/ios________________________________________.jpg|iOS 版 Slack のアップロード>) をアップロードしてコメントしました : 2019年3月31日まで残留申請しました。\nまた、夏季休暇では申請が必要になるかもしれないとのことでしたが、今のところはこれで研究室に泊まって頂いて構いません。",
+        "ts": "1526370623.000080",
+        "subtype": "file_share",
+        "username": "rmorimoto",
+        "file": {
+            "id": "FAQ0MQDU5",
+            "created": 1526370623,
+            "timestamp": 1526370623,
+            "name": "iOS からアップロードされた画像.jpg",
+            "title": "iOS 版 Slack のアップロード",
+            "mimetype": "image\/jpeg",
+            "image_exif_rotation": 1,
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U9V4VKKPA",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 6331191,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAQ0MQDU5\/ios________________________________________.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAQ0MQDU5\/download\/ios________________________________________.jpg",
+            "original_h": 3024,
+            "original_w": 4032,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAQ0MQDU5-4cf758651d\/ios_________________________________________64.jpg",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAQ0MQDU5-4cf758651d\/ios_________________________________________80.jpg",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAQ0MQDU5-4cf758651d\/ios_________________________________________160.jpg",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAQ0MQDU5-4cf758651d\/ios_________________________________________360.jpg",
+            "thumb_360_gif": "",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAQ0MQDU5-4cf758651d\/ios_________________________________________480.jpg",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAQ0MQDU5-4cf758651d\/ios_________________________________________720.jpg",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAQ0MQDU5-4cf758651d\/ios_________________________________________960.jpg",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAQ0MQDU5-4cf758651d\/ios_________________________________________1024.jpg",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9V4VKKPA\/FAQ0MQDU5\/ios________________________________________.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAQ0MQDU5-1660519d75",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": true,
+            "public_url_shared": false,
+            "channels": [
+                "C9VJ93TN1"
+            ],
+            "groups": [],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcAQNV7TSA",
+                "created": 1526370623,
+                "timestamp": 1526370623,
+                "user": "U9V4VKKPA",
+                "comment": "2019年3月31日まで残留申請しました。\nまた、夏季休暇では申請が必要になるかもしれないとのことでしたが、今のところはこれで研究室に泊まって頂いて構いません。"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    }
+]

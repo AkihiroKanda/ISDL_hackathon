@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "<@UA0083JS0>さんがチャンネルに参加しました",
+        "ts": "1526644396.000108",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "<@UAA37NWHW>さんがチャンネルに参加しました",
+        "ts": "1526644397.000002",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<@U9Z9J6R6K>さんがチャンネルに参加しました",
+        "ts": "1526644397.000028",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "U9XCZ7FPY",
+        "text": "<@U9XCZ7FPY>さんがチャンネルに参加しました",
+        "ts": "1526644397.000231",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UA125R19U>さんがチャンネルに参加しました",
+        "ts": "1526644397.000410",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    }
+]

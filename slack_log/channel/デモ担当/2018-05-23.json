@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "<!channel> 5月25日（金）18:00〜18:30は他のミーティングが入っていたため，5月25日（金）17:30〜18:00に変更したいのですが，ご都合の悪い方はいらっしゃいますか？",
+        "ts": "1527047501.000112",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-5",
+                "count": 9,
+                "users": [
+                    "UA1239MTQ",
+                    "UA074SQ4S",
+                    "U9WL9BCKH",
+                    "U9XE1JRA9",
+                    "U9ZGENNKA",
+                    "U9UV34517",
+                    "UA073MJTU",
+                    "U9XQR125B",
+                    "UA18JT79D"
+                ]
+            }
+        ]
+    }
+]

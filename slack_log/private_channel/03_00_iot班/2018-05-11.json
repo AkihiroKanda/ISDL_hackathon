@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネルに参加しました",
+        "ts": "1526035540.000204",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<@UA1239MTQ>さんがチャンネルに参加しました",
+        "ts": "1526035681.000144",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZPY616D",
+        "text": "<@U9ZPY616D>さんがチャンネルに参加しました",
+        "ts": "1526035834.000381",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "<@U9ZGENNKA>さんがチャンネルに参加しました",
+        "ts": "1526036004.000209",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネル名を「03_00_センシング班」から「03_00_iot班」に変更しました。",
+        "ts": "1526036098.000370",
+        "subtype": "channel_name",
+        "name": "03_00_iot班",
+        "old_name": "03_00_センシング班"
+    },
+    {
+        "type": "message",
+        "user": "UA18JT79D",
+        "text": "<@UA18JT79D>さんがチャンネルに参加しました",
+        "ts": "1526037770.000060",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA18JT79D",
+        "text": "ミーティングの日程を決めたいと思いますが，カレンダーを見る限り，月曜基礎勉強会後か金曜全体ゼミ後しか無理そうです．\nみなさんどうでしょうか？",
+        "ts": "1526037910.000422",
+        "edited": {
+            "user": "UA18JT79D",
+            "ts": "1526142937.000000"
+        },
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "count": 4,
+                "users": [
+                    "U9ZPY616D",
+                    "UA1239MTQ",
+                    "U9ZGENNKA",
+                    "UA1APD147"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "<@U9WJKLKME>さんがチャンネルに参加しました",
+        "ts": "1526039674.000172",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9VLBFM7U",
+        "text": "<@U9VLBFM7U>さんがチャンネルに参加しました",
+        "ts": "1526045904.000539",
+        "subtype": "channel_join"
+    }
+]

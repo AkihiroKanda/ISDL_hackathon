@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<https:\/\/www.publickey1.jp\/blog\/18\/slackbotslackblock_kit_builder.html>",
+        "ts": "1527048715.000147",
+        "attachments": [
+            {
+                "fallback": "Slack、BotやSlackアプリなどのメッセージ表示をリッチ化する「Block Kit Builder」発表",
+                "id": 1,
+                "title": "Slack、BotやSlackアプリなどのメッセージ表示をリッチ化する「Block Kit Builder」発表",
+                "title_link": "https:\/\/www.publickey1.jp\/blog\/18\/slackbotslackblock_kit_builder.html",
+                "text": "チャットサービス「Slack」を提供するSlackは、米サンフランシスコで同社にとって初めてのデベロッパーカンファレンス「Spec」を開催。SlackへのBotによる書き込みや連係アプリケーションからのメッセージの表示をリッチ化するフレーム...",
+                "image_url": "https:\/\/www.publickey1.jp\/2018\/slackspec08.gif"
+            }
+        ]
+    }
+]

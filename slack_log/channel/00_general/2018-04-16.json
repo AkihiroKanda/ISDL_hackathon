@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "遅くなってしまい申し訳ございません．\n基礎勉強会の資料・スライド・課題提出場所をgoogledrive上に作成致しましたので，復習したい方や欠席した方は各自参考にして下さい．\n基礎勉強会の担当の人は基礎勉強会終了後，資料・スライド・課題提出場所を作成し，当日使用した資料・スライドをドライブに挙げるようにお願い致します．\n\n基礎勉強会の資料・スライド・課題提出場所\n-----\n<https:\/\/goo.gl\/jTJVdx>\n-----",
+        "attachments": [
+            {
+                "title": "Meet Google Drive – One place for all your files",
+                "title_link": "https:\/\/goo.gl\/jTJVdx",
+                "text": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.",
+                "fallback": "Meet Google Drive – One place for all your files",
+                "from_url": "https:\/\/goo.gl\/jTJVdx",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 1
+            }
+        ],
+        "ts": "1523896806.000307",
+        "reactions": [
+            {
+                "name": "ありがとう",
+                "users": [
+                    "U9UV34517",
+                    "U9W9J4MP0",
+                    "U9VD2BKNG"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

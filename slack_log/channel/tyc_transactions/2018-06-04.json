@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<!here> \n`TYC送金先選択` および `所持TYC一覧画面` で表示される名前が今までランダムでしたが、 `email` を基にソートするように変更しました。\n\n:warning:日本語ふりがなによるソートではないので、注意してください。",
+        "ts": "1528091050.000053"
+    },
+    {
+        "type": "message",
+        "text": "  研究室の皆様\n\n  TYC管理秘書のF.R.I.D.A.Yです。\n\n  下記のTYC取引が行われたことをお知らせ致します。\n\n  -----\n  [取引内容]\n  送り主： 三木先生\n  送り先： 本田 雄亮\n  金額　： 100 TYC\n  -----\n\n  以上です。\n",
+        "ts": "1528108182.000469",
+        "subtype": "bot_message",
+        "bot_id": "BAJTEDG8J",
+        "username": "F.R.I.D.A.Y"
+    },
+    {
+        "type": "message",
+        "text": "  研究室の皆様\n\n  TYC管理秘書のF.R.I.D.A.Yです。\n\n  下記のTYC取引が行われたことをお知らせ致します。\n\n  -----\n  [取引内容]\n  送り主： 本田 雄亮\n  送り先： 三木先生\n  金額　： 100 TYC\n  -----\n\n  以上です。\n",
+        "ts": "1528108231.000339",
+        "subtype": "bot_message",
+        "bot_id": "BAJTEDG8J",
+        "username": "F.R.I.D.A.Y"
+    },
+    {
+        "type": "message",
+        "text": "  研究室の皆様\n\n  TYC管理秘書のF.R.I.D.A.Yです。\n\n  下記のTYC取引が行われたことをお知らせ致します。\n\n  -----\n  [取引内容]\n  送り主： 三木先生\n  送り先： 本田 雄亮\n  金額　： 20000 TYC\n  -----\n\n  以上です。\n",
+        "ts": "1528108518.000462",
+        "subtype": "bot_message",
+        "bot_id": "BAJTEDG8J",
+        "username": "F.R.I.D.A.Y"
+    },
+    {
+        "type": "message",
+        "text": "  研究室の皆様\n\n  TYC管理秘書のF.R.I.D.A.Yです。\n\n  下記のTYC取引が行われたことをお知らせ致します。\n\n  -----\n  [取引内容]\n  送り主： 三木先生\n  送り先： 嶋川 司\n  金額　： 20000 TYC\n  -----\n\n  以上です。\n",
+        "ts": "1528108543.000079",
+        "subtype": "bot_message",
+        "bot_id": "BAJTEDG8J",
+        "username": "F.R.I.D.A.Y"
+    },
+    {
+        "type": "message",
+        "text": "  研究室の皆様\n\n  TYC管理秘書のF.R.I.D.A.Yです。\n\n  下記のTYC取引が行われたことをお知らせ致します。\n\n  -----\n  [取引内容]\n  送り主： 富岡 亮登\n  送り先： 村野 翔太\n  金額　： 1500 TYC\n  -----\n\n  以上です。\n",
+        "ts": "1528110742.000022",
+        "subtype": "bot_message",
+        "bot_id": "BAJTEDG8J",
+        "username": "F.R.I.D.A.Y"
+    }
+]

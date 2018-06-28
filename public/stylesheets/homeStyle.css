@@ -1,0 +1,173 @@
+/*ページ設定部分（style.cssなどで設定していれば削除する）*/
+* {
+ margin: 0;
+ padding: 0;
+}
+body {
+ background: #EEFFFF;
+ font-family: Arial;
+ width:1000px;
+ margin-right: auto;
+ margin-left : auto;
+}
+a {
+ color: #333;
+ text-decoration: none;
+}
+a:hover {
+ color: #ff0000;
+ text-decoration: underline;
+}
+/*ここまでページ設定部分*/
+
+
+/*ここからVertical Sliding Accordionの設定*/
+
+.va-slice-1 {
+ background: #000 url(/images/home/KICK.jpg) no-repeat center center;
+}
+.va-slice-2 {
+ background: #000 url(/images/home/大改革.jpg) no-repeat center center;
+}
+.va-slice-3 {
+ background: #000 url(/images/home/TAKAYA.jpg) no-repeat center center;
+}
+.va-slice-4 {
+ background: #000 url(/images/home/コモン.jpg) no-repeat center center;
+}
+.va-slice-5 {
+ background: #000 url(/images/home/MIKI.png) no-repeat center center;
+}
+.va-slice-6 {
+ background: #000 url(/images/home/嶋川さん.jpg) no-repeat center center;
+}
+.va-slice-7 {
+ background: #000 url(/images/home/アクエリアス.jpg) no-repeat center center;
+}
+.va-slice-8 {
+ background: #000 url(/images/home/アオラ.jpg) no-repeat center center;
+}
+.va-slice-9 {
+ background: #000 url(/images/home/担当.jpg) no-repeat center center;
+}
+.va-slice-10 {
+ background: #000 url(/images/home/本田さん.jpg) no-repeat center center;
+}
+.va-slice-color-1 {
+ background-color: #97c5eb;
+}
+.va-slice-color-2 {
+ background-color: #68ace5;
+}
+.va-slice-color-3 {
+ background-color: #0072cf;
+}
+.va-slice-color-4 {
+ background-color: #0039a6;
+}
+.va-slice-color-5 {
+ background-color: #00338e;
+}
+.va-slice-color-6 {
+ background-color: #002c76;
+}
+.va-slice-color-7 {
+ background-color: #002144;
+}
+
+/*va-titleの表示について*/
+.va-title {
+ font-family: 'Open Sans Condensed', sans-serif;
+ text-transform: uppercase;
+ font-size: 60px;
+ margin-left: 20px;
+ color: #fff;
+ text-shadow: 0px 0px 1px white;
+}
+.va-content {
+ display: none;
+ margin-left: 25px;
+}
+.va-slice h3 {
+ font-size: 60px;
+ color: rgb(0,0,0);
+}
+/*pの表示について*/
+.va-slice p {
+ font-size: 22px;
+ font-style: italic;
+ color: #fff;
+}
+/*<li><a>の表示について*/
+.va-slice ul li a {
+ color: #000;
+ background: #fff;
+ padding: 3px 6px;
+ font-size: 14px;
+ font-family: 'PT Sans', sans-serif;
+ text-transform: uppercase;
+}
+/*<li><a>に触れた際に色が変化する*/
+.va-slice ul li a:hover {
+ background: #000;
+ color: #FFF;
+ text-shadow: none;
+}
+/**/
+.va-nav span {
+ width: 40px;
+ height: 25px;
+ background: transparent url(/images/home/prev.png) no-repeat center center;
+ position: absolute;
+ top: -35px;
+ left: 50%;
+ margin-left: -20px;
+ text-indent: -9000px;
+ opacity: 0.7;
+ cursor: pointer;
+ display: none;
+ z-index: 100;
+}
+.va-nav span.va-nav-next {
+ background-image: url(/images/home/next.png);
+ top: auto;
+ bottom: -35px;
+}
+.va-nav span:hover {
+ opacity: 1.0;
+}
+
+.more ul {
+ text-transform: uppercase;
+ font-size: 13px;
+ padding: 50px 0px 30px 0px;
+ height: 30px;
+ clear: both;
+ width: 1000px;
+ margin: 10px auto 0 auto;
+ color: #000;
+ list-style: none;
+}
+.more ul li {
+ float: left;
+ margin: 0px 2px;
+}
+.more ul li.selected a, .more ul li.selected a:hover {
+ background: #000;
+ color: #000;
+ text-shadow: none;
+}
+.more ul li a {
+ text-shadow: 1px 1px 1px #fff;
+ color: #555;
+ background: #f7f7f7;
+ padding: 3px 6px;
+ -moz-box-shadow: 1px 1px 2px #aaa;
+ -webkit-box-shadow: 1px 1px 2px #aaa;
+ box-shadow: 1px 1px 2px #aaa;
+}
+.more ul li a:hover {
+ background: #000;
+ color: #fff;
+ text-shadow: none;
+}

@@ -1,0 +1,226 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@UA0B1QWCV>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/UA0B1QWCV\/FAHA52UBZ\/ios________________________________________.jpg|iOS 版 Slack のアップロード>) をアップロードしてコメントしました : ドリンクメニューがバーカウンターにしかないので写真を上げさせていただきます。",
+        "file": {
+            "id": "FAHA52UBZ",
+            "created": 1525164967,
+            "timestamp": 1525164967,
+            "name": "iOS からアップロードされた画像.jpg",
+            "title": "iOS 版 Slack のアップロード",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "UA0B1QWCV",
+            "editable": false,
+            "size": 7601949,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAHA52UBZ\/ios________________________________________.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAHA52UBZ\/download\/ios________________________________________.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________64.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________80.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________360.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________480.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________160.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________720.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________800.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_800_w": 800,
+            "thumb_800_h": 1067,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________960.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAHA52UBZ-2936631bd5\/ios_________________________________________1024.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3024,
+            "original_h": 4032,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/UA0B1QWCV\/FAHA52UBZ\/ios________________________________________.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAHA52UBZ-60efb823f1",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "FcAFHM9S6L",
+                "created": 1525164967,
+                "timestamp": 1525164967,
+                "user": "UA0B1QWCV",
+                "is_intro": true,
+                "comment": "ドリンクメニューがバーカウンターにしかないので写真を上げさせていただきます。"
+            },
+            "reactions": [
+                {
+                    "name": "了解です",
+                    "users": [
+                        "U9W9J4MP0"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "UA0B1QWCV",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "syasoda",
+        "bot_id": null,
+        "upload_reply_to": "AF3A48E7-F33F-40B7-AAA1-DC6F41427A68",
+        "ts": "1525164973.000265"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "コンピュータ補助申請を受け付けます。昨年度と同様です。私と正木羊子さんにメールで申請して下さい。期限は6月末です。本年度を含めて3年間在席する学生は限度額3万円、2年の学生は2万円、1年の学生は1万円です。メディアショップで正木羊子さんが発注します。個人的に購入した物に補助はできません。また、高額な製品の一部補助もできません。卒業時、終了時に返却してもらいます。ただし、TYCで貸与継続も可能です。不明の点があれば聞きに来て下さい。",
+        "ts": "1525175544.000187"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "TYCでの研究機器や書籍などの購入も随時受け付けます。正木羊子さんが月に1～2階の頻度でまとめて購入手続きします。同じ製品を何度も注文するのは手間ですので、学生同士で数をまとめて下さい。",
+        "ts": "1525175676.000028"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "コンピュータ補助申請においても、他の学生と同じ製品があれば、その旨、私と正木羊子さんに連絡してください。同じ製品をまとめないと、発注手続きが遅れます。また、少額の製品を多く購入することも発注の手間がかかりますので、避けて下さい。同一学生が同一時期に購入希望を出す場合、数量が4以上は手数料を取りたいと思います。正木羊子さんの給与が大学から出ている訳ではありません。",
+        "ts": "1525175980.000039"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "興味ある人は受講して下さい。<http:\/\/www.shiga-u.ac.jp\/2018\/04\/27\/56472\/>",
+        "client_msg_id": "C3490E7B-6122-40F8-A6CC-B5CF1FAF8DD5",
+        "ts": "1525179279.000193"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "復旧は急ぎませんが、ＫＣ－１０４の擬似窓、フリーズしています。",
+        "ts": "1525227289.000197"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "承知いたしました。\nご連絡ありがとうございます。\n現在、研究室にいる学生で復旧できないか連絡してみます。\nもし、復旧できなかった場合は、次回私が研究室に行く5月5日に復旧いたします。",
+        "attachments": [
+            {
+                "fallback": "[May 2nd, 2018 11:14 AM] mmiki: 復旧は急ぎませんが、ＫＣ－１０４の擬似窓、フリーズしています。",
+                "ts": "1525227289.000197",
+                "author_id": "UAA37NWHW",
+                "author_subname": "三木光範",
+                "channel_id": "C9VJ93TN1",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "復旧は急ぎませんが、ＫＣ－１０４の擬似窓、フリーズしています。",
+                "author_name": "三木光範",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/UAA37NWHW",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-04-22\/350912837858_6ee9567d4d73abe5e341_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/isdl2018.slack.com\/archives\/C9VJ93TN1\/p1525227289000197",
+                "is_share": true,
+                "footer": "#general に投稿"
+            }
+        ],
+        "thread_ts": "1525229080.000192",
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "U9VD2BKNG",
+                "ts": "1525230417.000200"
+            },
+            {
+                "user": "U9VD2BKNG",
+                "ts": "1525230430.000205"
+            },
+            {
+                "user": "U9VQSJC4C",
+                "ts": "1525233525.000053"
+            },
+            {
+                "user": "U9VQSJC4C",
+                "ts": "1525233648.000413"
+            }
+        ],
+        "unread_count": 4,
+        "ts": "1525229080.000192"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "どうやったら直るん？",
+        "thread_ts": "1525229080.000192",
+        "parent_user_id": "U9VQSJC4C",
+        "ts": "1525230417.000200"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "簡単ならやっておくが",
+        "thread_ts": "1525229080.000192",
+        "parent_user_id": "U9VQSJC4C",
+        "ts": "1525230430.000205"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "対応は急ぎませんが、電気バケツの蓋が電子レンジの上に残っています。",
+        "ts": "1525230559.000179"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@UAA37NWHW> \nご連絡ありがとうございます。\nファシリティ担当で洗濯をしたさいにしまい忘れていました。\n申し訳ありません。\n以後しまい忘れがないよう、注意致します。",
+        "thread_ts": "1525230764.000028",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UAA37NWHW",
+                "ts": "1525232951.000050"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1525230764.000028"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": ":yoro:",
+        "thread_ts": "1525230764.000028",
+        "parent_user_id": "U9VD2BKNG",
+        "ts": "1525232951.000050"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "ありがとうございます。",
+        "client_msg_id": "1999CAE7-6F73-4400-A7F4-3406FF05FF94",
+        "thread_ts": "1525229080.000192",
+        "parent_user_id": "U9VQSJC4C",
+        "ts": "1525233525.000053"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "今日研究室行く予定じゃなかったんですが、パソコンの充電器を忘れて取りに行かないといけないので、その時に直します。",
+        "client_msg_id": "9A5B2437-EA23-442B-9ED6-B2FF4EF730DC",
+        "thread_ts": "1525229080.000192",
+        "parent_user_id": "U9VQSJC4C",
+        "ts": "1525233648.000413"
+    }
+]

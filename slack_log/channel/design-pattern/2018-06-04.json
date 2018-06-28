@@ -1,0 +1,135 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<@U9W9J4MP0>さんがチャンネルに参加しました",
+        "ts": "1528096575.000065",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<@U9W9J4MP0>さんがチャンネルの目的を設定しました : デザインパターンの勉強会です",
+        "ts": "1528096575.000203",
+        "subtype": "channel_purpose",
+        "purpose": "デザインパターンの勉強会です"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネルに参加しました",
+        "ts": "1528096575.000348",
+        "subtype": "channel_join",
+        "inviter": "U9W9J4MP0"
+    },
+    {
+        "type": "message",
+        "user": "U9ZPY616D",
+        "text": "<@U9ZPY616D>さんがチャンネルに参加しました",
+        "ts": "1528096576.000062",
+        "subtype": "channel_join",
+        "inviter": "U9W9J4MP0"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "<@U9XN8QQ77>さんがチャンネルに参加しました",
+        "ts": "1528096658.000064",
+        "subtype": "channel_join",
+        "inviter": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9UV34517>さんがチャンネルに参加しました",
+        "ts": "1528096658.000089",
+        "subtype": "channel_join",
+        "inviter": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんがチャンネルに参加しました",
+        "ts": "1528096658.000241",
+        "subtype": "channel_join",
+        "inviter": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "<@U9WJKLKME>さんがチャンネルに参加しました",
+        "ts": "1528096658.000265",
+        "subtype": "channel_join",
+        "inviter": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "<@U9X7JGL75>さんがチャンネルに参加しました",
+        "ts": "1528096658.000292",
+        "subtype": "channel_join",
+        "inviter": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9VQSJC4C>さんがチャンネルに参加しました",
+        "ts": "1528096658.000321",
+        "subtype": "channel_join",
+        "inviter": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "<@UA073MJTU>さんがチャンネルに参加しました",
+        "ts": "1528096659.000029",
+        "subtype": "channel_join",
+        "inviter": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "U9XB925SM",
+        "text": "<@U9XB925SM>さんがチャンネルに参加しました",
+        "ts": "1528096659.000050",
+        "subtype": "channel_join",
+        "inviter": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "```\n- 毎週月曜or金曜に開催\n- 毎回2つのデザインパターンを勉強\n- 進め方はもくもく方式，各自教材等は自分で用意すること（参考webページとかでもいいよ）\n```",
+        "ts": "1528096767.000181"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "今のところ金曜日に予定入れてます\nほんまに自由参加です",
+        "ts": "1528096793.000466"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "今週は `Iterator` と `Adapter` です",
+        "ts": "1528096835.000385",
+        "edited": {
+            "user": "U9W9J4MP0",
+            "ts": "1528096846.000000"
+        }
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<http:\/\/www.techscore.com\/tech\/DesignPattern\/index.html\/>\n↑ `GoF` を参考にしてる資料の方がいいと思いますー",
+        "ts": "1528096934.000376",
+        "attachments": [
+            {
+                "fallback": "TECHSCORE: デザインパターン",
+                "id": 1,
+                "title": "デザインパターン",
+                "title_link": "http:\/\/www.techscore.com\/tech\/DesignPattern\/index.html\/",
+                "text": "Java,データベース,SQL,XML,Rubyなどの情報を発信。Webアプリ開発エンジニアのための技術情報サイト[TECHSCORE]",
+                "image_url": "http:\/\/www.techscore.com\/common\/img\/logo.gif"
+            }
+        ]
+    }
+]

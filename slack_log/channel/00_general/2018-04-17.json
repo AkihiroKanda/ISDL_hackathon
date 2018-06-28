@@ -1,0 +1,117 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U9XE1JRA9>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9XE1JRA9\/FA92B6DE3\/__________________________________________.zip|多目的スペース照明調光方法.zip>) をアップロードしてコメントしました : 多目的スペースで作業をする皆様へ．照明を調光する操作方法をまとめました．照度センサは返却しましたが，制御PCのUI上から知的照明システムは操作可能で，各席の在離席状態・目標照度の変更は可能です．わからないことがあれば新井まで連絡お願い致します．",
+        "file": {
+            "id": "FA92B6DE3",
+            "created": 1523950552,
+            "timestamp": 1523950552,
+            "name": "多目的スペース照明調光方法.zip",
+            "title": "多目的スペース照明調光方法.zip",
+            "mimetype": "application\/zip",
+            "filetype": "zip",
+            "pretty_type": "Zip",
+            "user": "U9XE1JRA9",
+            "editable": false,
+            "size": 554385,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA92B6DE3\/__________________________________________.zip?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA92B6DE3\/download\/__________________________________________.zip?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9XE1JRA9\/FA92B6DE3\/__________________________________________.zip",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FA92B6DE3-85f4a75363",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "FcA7E84U2D",
+                "created": 1523950552,
+                "timestamp": 1523950552,
+                "user": "U9XE1JRA9",
+                "is_intro": true,
+                "comment": "多目的スペースで作業をする皆様へ．照明を調光する操作方法をまとめました．照度センサは返却しましたが，制御PCのUI上から知的照明システムは操作可能で，各席の在離席状態・目標照度の変更は可能です．わからないことがあれば新井まで連絡お願い致します．"
+            },
+            "num_stars": 1,
+            "reactions": [
+                {
+                    "name": "ビーコン",
+                    "users": [
+                        "U9X7JGL75",
+                        "U9V4VKKPA",
+                        "U9VD2BKNG"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U9XE1JRA9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "yarai",
+        "bot_id": null,
+        "ts": "1523950553.000056"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U9VD2BKNG",
+        "item_type": "F",
+        "text": "<@U9VD2BKNG> pinned <@U9XE1JRA9>’s Zip <https:\/\/isdl2018.slack.com\/files\/U9XE1JRA9\/FA92B6DE3\/__________________________________________.zip|多目的スペース照明調光方法.zip> to this channel.",
+        "item": {
+            "id": "FA92B6DE3",
+            "created": 1523950552,
+            "timestamp": 1523950552,
+            "name": "多目的スペース照明調光方法.zip",
+            "title": "多目的スペース照明調光方法.zip",
+            "mimetype": "application\/zip",
+            "filetype": "zip",
+            "pretty_type": "Zip",
+            "user": "U9XE1JRA9",
+            "editable": false,
+            "size": 554385,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA92B6DE3\/__________________________________________.zip?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA92B6DE3\/download\/__________________________________________.zip?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9XE1JRA9\/FA92B6DE3\/__________________________________________.zip",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FA92B6DE3-85f4a75363",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "FcA7E84U2D",
+                "created": 1523950552,
+                "timestamp": 1523950552,
+                "user": "U9XE1JRA9",
+                "is_intro": true,
+                "comment": "多目的スペースで作業をする皆様へ．照明を調光する操作方法をまとめました．照度センサは返却しましたが，制御PCのUI上から知的照明システムは操作可能で，各席の在離席状態・目標照度の変更は可能です．わからないことがあれば新井まで連絡お願い致します．"
+            },
+            "num_stars": 1,
+            "reactions": [
+                {
+                    "name": "ビーコン",
+                    "users": [
+                        "U9X7JGL75",
+                        "U9V4VKKPA",
+                        "U9VD2BKNG"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "ts": "1523950585.000241"
+    }
+]

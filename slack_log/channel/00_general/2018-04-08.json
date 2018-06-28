@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U9V4VKKPA>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9V4VKKPA\/FA32Z4BFC\/_____________________.pdf|基礎勉強会日程.pdf>) をアップロードしてコメントしました : 基礎勉強会の開催日程についてです．\n基本的には毎週月曜日の18:30から開催予定です．\n基礎勉強会はテーマ1つにつき15分程度を予定しています．\nU4，M1は特に理由がない限りは絶対参加となります．\nM2さんは，勉強したい，コメントしたい勉強会があれば，ご参加よろしくお願い致します．",
+        "file": {
+            "id": "FA32Z4BFC",
+            "created": 1523174748,
+            "timestamp": 1523174748,
+            "name": "基礎勉強会日程.pdf",
+            "title": "基礎勉強会日程.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U9V4VKKPA",
+            "editable": false,
+            "size": 85850,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA32Z4BFC\/_____________________.pdf?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA32Z4BFC\/download\/_____________________.pdf?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FA32Z4BFC-317db1b216\/______________________thumb_pdf.png?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_pdf_w": 909,
+            "thumb_pdf_h": 1286,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9V4VKKPA\/FA32Z4BFC\/_____________________.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FA32Z4BFC-2fd448b73f",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "FcA3V1E58E",
+                "created": 1523174748,
+                "timestamp": 1523174748,
+                "user": "U9V4VKKPA",
+                "is_intro": true,
+                "comment": "基礎勉強会の開催日程についてです．\n基本的には毎週月曜日の18:30から開催予定です．\n基礎勉強会はテーマ1つにつき15分程度を予定しています．\nU4，M1は特に理由がない限りは絶対参加となります．\nM2さんは，勉強したい，コメントしたい勉強会があれば，ご参加よろしくお願い致します．"
+            },
+            "num_stars": 1,
+            "reactions": [
+                {
+                    "name": "ok_hand",
+                    "users": [
+                        "U9W9J4MP0",
+                        "UA075ACH0",
+                        "U9WMSU938",
+                        "U9ZFZ43DW",
+                        "UA042R70B",
+                        "U9VCG5S1W",
+                        "UA0U3TZFV",
+                        "UA18JT79D",
+                        "U9UV34517",
+                        "UA125R19U"
+                    ],
+                    "count": 10
+                }
+            ]
+        },
+        "user": "U9V4VKKPA",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "rmorimoto",
+        "bot_id": null,
+        "ts": "1523174749.000007"
+    }
+]

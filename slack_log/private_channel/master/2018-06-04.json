@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<!here> \nFire TV 持ってる人いますか？",
+        "ts": "1528097592.000454"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9VD2BKNG> \n借用書を僕が書いて、コモンスペースに設置していたのですが、三木先生のクレジットが登録されており、誰でも有料の映画が見れてしまうということで、現在は三木先生は持っているはずです。",
+        "ts": "1528099475.000069",
+        "thread_ts": "1528099475.000069",
+        "unread_count": 4,
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "U9VD2BKNG",
+                "ts": "1528104302.000418"
+            },
+            {
+                "user": "U9VD2BKNG",
+                "ts": "1528104306.000391"
+            },
+            {
+                "user": "U9UV34517",
+                "ts": "1528104384.000380"
+            },
+            {
+                "user": "U9VD2BKNG",
+                "ts": "1528104447.000016"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "android開発できるか知ってる？",
+        "ts": "1528104302.000418",
+        "thread_ts": "1528099475.000069",
+        "parent_user_id": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9UV34517>",
+        "ts": "1528104306.000391",
+        "thread_ts": "1528099475.000069",
+        "parent_user_id": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "すみません，わかりません…",
+        "ts": "1528104384.000380",
+        "thread_ts": "1528099475.000069",
+        "parent_user_id": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "うっす",
+        "ts": "1528104447.000016",
+        "thread_ts": "1528099475.000069",
+        "parent_user_id": "U9UV34517"
+    }
+]

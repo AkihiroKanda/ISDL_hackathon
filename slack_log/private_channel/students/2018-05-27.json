@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U9YDVG89L",
+        "text": "俺がメンターのグループも、\nもしチャンネルとかLINEグループ作るなら\n俺も追加してやってください！\nできる限り協力させてもらいます！",
+        "ts": "1527347455.000074"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<@UA1239MTQ> <@UA125R19U> <@U9ZFYJDTJ> \nミーティング担当さん，5\/30の全ゼミの予定を6\/8に移しておいてください．お願いします",
+        "ts": "1527348517.000002",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 3,
+                "users": [
+                    "UA125R19U",
+                    "UA1239MTQ",
+                    "U9ZFYJDTJ"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "メンタ以外に聞くのも全然いいから（メンタなんてあってないようなもんやから）\nとりあえず、どうすれば最短で最高のものが作れるかだけ\nみんなで考えて動くようにしてください",
+        "ts": "1527348903.000117"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "TYC電子化に関して、\nまだ僕に今もってるTYC額を教えてない人は明日教えてください。",
+        "ts": "1527425010.000019",
+        "edited": {
+            "user": "U9VD2BKNG",
+            "ts": "1527425019.000000"
+        },
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 5,
+                "users": [
+                    "U9X7JGL75",
+                    "U9VQSJC4C",
+                    "U9WJKLKME",
+                    "U9XQR125B",
+                    "U9XHTK59Q"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "割り込んでいいで",
+        "ts": "1527240797.000143"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "たぶんw",
+        "ts": "1527240814.000294",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 1,
+                "users": [
+                    "UA125R19U"
+                ]
+            }
+        ]
+    }
+]

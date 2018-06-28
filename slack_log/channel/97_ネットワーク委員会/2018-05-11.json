@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "user": "U9YDVG89L",
+        "text": "<@U9YDVG89L>がチャンネルの目的を消去しました",
+        "ts": "1526035999.000395",
+        "subtype": "channel_purpose"
+    },
+    {
+        "type": "message",
+        "user": "U9YDVG89L",
+        "text": "<@U9YDVG89L>さんがチャンネル名を「ネットワーク委員会」から「97_ネットワーク委員会」に変更しました。",
+        "ts": "1526036000.000006",
+        "subtype": "channel_name",
+        "name": "97_ネットワーク委員会",
+        "old_name": "ネットワーク委員会"
+    },
+    {
+        "type": "message",
+        "user": "U9YDVG89L",
+        "text": "<@U9YDVG89L> がチャンネルのトピックを消去しました",
+        "ts": "1526036000.000031",
+        "subtype": "channel_topic"
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネルに参加しました",
+        "ts": "1527868046.000371",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネルの目的を設定しました : TYC取引が行われたさいにF.R.I.D.A.Yが教えてくれます。 総流通量に変動があったさいにも通知してくれます。 （F.R.I.D.A.Yはアイアンマンの秘書AIです。）",
+        "ts": "1527868047.000265",
+        "subtype": "channel_purpose",
+        "purpose": "TYC取引が行われたさいにF.R.I.D.A.Yが教えてくれます。 総流通量に変動があったさいにも通知してくれます。 （F.R.I.D.A.Yはアイアンマンの秘書AIです。）"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネルの目的を設定しました : TYC取引が行われたさいにF.R.I.D.A.Yが教えてくれます。\n総流通量に変動があったさいにも通知してくれます。\n（F.R.I.D.A.Yはアイアンマンの秘書AIです。）",
+        "ts": "1527868067.000524",
+        "subtype": "channel_purpose",
+        "purpose": "TYC取引が行われたさいにF.R.I.D.A.Yが教えてくれます。\n総流通量に変動があったさいにも通知してくれます。\n（F.R.I.D.A.Yはアイアンマンの秘書AIです。）"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "このチャンネルに次のインテグレーションを追加しました : <https:\/\/isdl2018.slack.com\/services\/BAJTEDG8J|F.R.I.D.A.Y>",
+        "ts": "1527868188.000311",
+        "subtype": "bot_add",
+        "bot_id": "BAJTEDG8J"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "このチャンネルで以下のインテグレーションが有効になりました : <https:\/\/isdl2018.slack.com\/services\/BAJTEDG8J|F.R.I.D.A.Y>",
+        "ts": "1527868769.000431",
+        "subtype": "bot_enable",
+        "bot_id": "BAJTEDG8J"
+    },
+    {
+        "type": "message",
+        "user": "U9XE1JRA9",
+        "text": "<@U9XE1JRA9>さんがチャンネルに参加しました",
+        "ts": "1527869744.000676",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9WB96RQW",
+        "text": "<@U9WB96RQW>さんがチャンネルに参加しました",
+        "ts": "1527869752.000049",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "<@UA0083JS0>さんがチャンネルに参加しました",
+        "ts": "1527870364.000715",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "<@UA0B1QWCV>さんがチャンネルに参加しました",
+        "ts": "1527871600.000384",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<@UA1239MTQ>さんがチャンネルに参加しました",
+        "ts": "1527872088.000692",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "<@U9V4VKKPA>さんがチャンネルに参加しました",
+        "ts": "1527888746.000325",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA042R70B",
+        "text": "<@UA042R70B>さんがチャンネルに参加しました",
+        "ts": "1527892440.000069",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZPY616D",
+        "text": "<@U9ZPY616D>さんがチャンネルに参加しました",
+        "ts": "1527892972.000185",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA0U3TZFV",
+        "text": "<@UA0U3TZFV>さんがチャンネルに参加しました",
+        "ts": "1527896165.000214",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<@U9Z9J6R6K>さんがチャンネルに参加しました",
+        "ts": "1527897190.000023",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFYJDTJ",
+        "text": "<@U9ZFYJDTJ>さんがチャンネルに参加しました",
+        "ts": "1527898886.000165",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9VQSJC4C>さんがチャンネルに参加しました",
+        "ts": "1527903157.000077",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "<@U9ZGENNKA>さんがチャンネルに参加しました",
+        "ts": "1527906905.000061",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA074SQ4S",
+        "text": "<@UA074SQ4S>さんがチャンネルに参加しました",
+        "ts": "1527908192.000034",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんがチャンネルに参加しました",
+        "ts": "1527908710.000020",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9UV34517>さんがチャンネルに参加しました",
+        "ts": "1527912928.000112",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9VLY8PKL",
+        "text": "<@U9VLY8PKL>さんがチャンネルに参加しました",
+        "ts": "1527913625.000010",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA008K4G4",
+        "text": "<@UA008K4G4>さんがチャンネルに参加しました",
+        "ts": "1527916798.000032",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "<@U9XN8QQ77>さんがチャンネルに参加しました",
+        "ts": "1527926453.000099",
+        "subtype": "channel_join"
+    }
+]

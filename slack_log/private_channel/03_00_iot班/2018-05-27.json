@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "<@U9WMSU938>さんがグループに参加しました",
+        "ts": "1527394847.000033",
+        "subtype": "group_join",
+        "inviter": "UA18JT79D"
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "来週のMTGに関して、全員の予定が空いている日が無いため、MTGを行うことができないのですが、どうすればよいでしょうか",
+        "ts": "1527397824.000025"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "全員が絶対参加できなくてもいいよ。\n4回生が出来るだけ参加できる日を優先して下さい。",
+        "ts": "1527398284.000109"
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "わかりました。ありがとうございます",
+        "ts": "1527398321.000057"
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "急になりますが、次回のMTGを明日、5月28日（月）13時から行いたいと思います。予定の合わない方も多いですがよろしくお願いします。",
+        "ts": "1527400711.000035",
+        "edited": {
+            "user": "U9ZGENNKA",
+            "ts": "1527400846.000000"
+        },
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 1,
+                "users": [
+                    "U9WMSU938"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "明日のMTGですが、13時から奨学金のMTGを15分間入れたいので、15分だけ時間をずらしていただけますか？",
+        "ts": "1527411953.000091",
+        "thread_ts": "1527411953.000091",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U9ZGENNKA",
+                "ts": "1527421790.000027"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "僕は実家に帰るので不参加で",
+        "ts": "1527412221.000023",
+        "reactions": [
+            {
+                "name": "了解です",
+                "count": 2,
+                "users": [
+                    "U9WJKLKME",
+                    "U9ZGENNKA"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "わかりました。明日のMTGは13:15から14:00までにしたいと思います。",
+        "ts": "1527421790.000027",
+        "thread_ts": "1527411953.000091",
+        "subtype": "thread_broadcast"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9UV34517>さんがチャンネルに参加しました",
+        "ts": "1526693604.000091",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "<@U9X7JGL75>さんがチャンネルに参加しました",
+        "ts": "1526693605.000042",
+        "subtype": "channel_join",
+        "inviter": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9UV34517>さんがチャンネルの目的を設定しました : 快適性班の複合環境班です．",
+        "ts": "1526693605.000054",
+        "subtype": "channel_purpose",
+        "purpose": "快適性班の複合環境班です．"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんがチャンネルに参加しました",
+        "ts": "1526693605.000093",
+        "subtype": "channel_join",
+        "inviter": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "UA008K4G4",
+        "text": "<@UA008K4G4>さんがチャンネルに参加しました",
+        "ts": "1526693605.000097",
+        "subtype": "channel_join",
+        "inviter": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<@UA1239MTQ>さんがチャンネルに参加しました",
+        "ts": "1526693605.000106",
+        "subtype": "channel_join",
+        "inviter": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "<@UAA37NWHW>さんがチャンネルに参加しました",
+        "ts": "1526693605.000117",
+        "subtype": "channel_join",
+        "inviter": "U9UV34517"
+    }
+]

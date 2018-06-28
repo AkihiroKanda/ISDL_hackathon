@@ -1,0 +1,156 @@
+[
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "ALCに参加予定の人は必須ですが、ほかの人もEasyChairに登録はしておいてもいいかもしれないので連絡しておきます。学会情報(特に国際学会)を色々見ることができます。\n登録の仕方も載っているので、照明学会のページを添付しときます。\n<https:\/\/www.ieij.or.jp\/event\/2018\/2018ALC.html>",
+        "ts": "1526034568.000156",
+        "is_starred": true
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネル名を「general」から「00_general」に変更しました。",
+        "ts": "1526035164.000226",
+        "subtype": "channel_name",
+        "name": "00_general",
+        "old_name": "general"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがこのファイルをアップロードしました : <https:\/\/isdl2018.slack.com\/files\/U9VD2BKNG\/FAN2RMGTD\/____________________________2018-05-11_19.39.35.png|スクリーンショット 2018-05-11 19.39.35.png>",
+        "ts": "1526035192.000419",
+        "subtype": "file_share",
+        "username": "yhonda",
+        "file": {
+            "id": "FAN2RMGTD",
+            "created": 1526035191,
+            "timestamp": 1526035191,
+            "name": "スクリーンショット 2018-05-11 19.39.35.png",
+            "title": "スクリーンショット 2018-05-11 19.39.35.png",
+            "mimetype": "image\/png",
+            "image_exif_rotation": 1,
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U9VD2BKNG",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 30791,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAN2RMGTD\/____________________________2018-05-11_19.39.35.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAN2RMGTD\/download\/____________________________2018-05-11_19.39.35.png",
+            "original_h": 290,
+            "original_w": 340,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAN2RMGTD-8f24132843\/____________________________2018-05-11_19.39.35_64.png",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAN2RMGTD-8f24132843\/____________________________2018-05-11_19.39.35_80.png",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAN2RMGTD-8f24132843\/____________________________2018-05-11_19.39.35_160.png",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAN2RMGTD-8f24132843\/____________________________2018-05-11_19.39.35_360.png",
+            "thumb_360_gif": "",
+            "thumb_360_w": 340,
+            "thumb_360_h": 290,
+            "thumb_480": "",
+            "thumb_480_w": 0,
+            "thumb_480_h": 0,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9VD2BKNG\/FAN2RMGTD\/____________________________2018-05-11_19.39.35.png",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAN2RMGTD-68d6ab6c41",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": true,
+            "public_url_shared": false,
+            "channels": [
+                "C9VJ93TN1"
+            ],
+            "groups": [],
+            "ims": [],
+            "initial_comment": {},
+            "comments_count": 0,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "今日の全ゼミで議題にあがりました、\nSlackのチャンネル命名規則に関してですが、\n上記スクショのように、\n「01_02_」という数字をふることにしました。\n\n具体的には、\n`最初の数字が大きな班分け（知的照明班、快適性班、センシング班）ごとの連番`\n`次の数字が各班内のさらにその中の班分け`\nです。",
+        "ts": "1526035360.000277",
+        "edited": {
+            "user": "U9VD2BKNG",
+            "ts": "1526035374.000000"
+        }
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "例えば、知的照明班は「01_00_知的照明班」で、\n知的照明班内のさらに小規模な班分け（a班、b班）に関しては、\n「01_01_a班」、「01_02_b班」となります。",
+        "ts": "1526035435.000324"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "なお、generalに関しては、特別なチャンネルなので、「00」をふっています。",
+        "ts": "1526035465.000009"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "とりあえず、\n`01_00_知的照明班`\n`02_00_快適性班`\n`03_00_センシング班`\nは作成したので、各該当者入って下さい。",
+        "ts": "1526035602.000257"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "各種担当のチャンネルには、こちらで指定する数字を先頭につけてください。\n\n割り当て↓\n99_チーフ担当\n98_ファシリティ担当\n97_ネットワーク担当\n96_ミーティング担当\n95_広報担当\n94_イベント担当\n93_OB担当",
+        "ts": "1526035982.000439",
+        "edited": {
+            "user": "U9VD2BKNG",
+            "ts": "1526036360.000000"
+        }
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "92_知的財産担当\n91_アルバム担当\n90_メディア担当\n89_ホームページ担当",
+        "ts": "1526036021.000007",
+        "edited": {
+            "user": "U9VD2BKNG",
+            "ts": "1526036297.000000"
+        }
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "他に忘れている担当あれば、ゆってください",
+        "ts": "1526036134.000274",
+        "reactions": [
+            {
+                "name": "了解です",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<!channel>",
+        "ts": "1526036145.000257"
+    }
+]

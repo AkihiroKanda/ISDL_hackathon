@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "UA1APD147",
+        "text": "<@UA1APD147>さんがチャンネルに参加しました",
+        "ts": "1526035882.000076",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZPY616D",
+        "text": "<@U9ZPY616D>さんがチャンネルに参加しました",
+        "ts": "1526035886.000041",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "<@UA073MJTU>さんがチャンネルに参加しました",
+        "ts": "1526037491.000273",
+        "subtype": "channel_join"
+    }
+]

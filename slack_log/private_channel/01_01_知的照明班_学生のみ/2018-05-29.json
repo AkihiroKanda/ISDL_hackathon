@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "user": "U9XQR125B",
+        "text": "<http:\/\/oceanphotonics.com\/product\/oceanoptics_000576.html>",
+        "ts": "1527591543.000126",
+        "attachments": [
+            {
+                "fallback": "マルチスペクトルセンサ PixelSensor｜製品情報｜Ocean Photonics オーシャンフォトニクス株式会社",
+                "id": 1,
+                "title": "マルチスペクトルセンサ PixelSensor｜製品情報｜Ocean Photonics オーシャンフォトニクス株式会社",
+                "title_link": "http:\/\/oceanphotonics.com\/product\/oceanoptics_000576.html",
+                "text": "Ocean Optics（オーシャンオプティクス）社製PixelSensor マルチスペクトルセンサは、選択された波長バンドのフィルタを持つ8個のフォトダイオードを9 x 9 mmのパッケージに内蔵した他に類を見ない非常に小型なオプティカルデバイスです。複数の部品で構成される測定装置の代用として、またOEM用途でユーザ独自の装置の小型化を実現します。この小型なマルチスペクトルセンサは、色測定\/比色分析のみならず、体外診断用医薬品（IVD）や生化学分析のアプリケーションにも最適です。"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XQR125B",
+        "text": "スペクトル測定センサ",
+        "ts": "1527591553.000369"
+    },
+    {
+        "type": "message",
+        "user": "U9XQR125B",
+        "text": "あれ？このグループにU4入ってないのか。",
+        "ts": "1527591645.000445"
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "そのようですね．．．\nMTG終了後，U4を招待しておきます．",
+        "ts": "1527591877.000346"
+    },
+    {
+        "type": "message",
+        "user": "U9XQR125B",
+        "text": "おねがいします。\nやり方がわからんかった笑",
+        "ts": "1527591895.000327"
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "チャンネルの上の方にある「他のユーザを招待する」からできるんですが，通知が怖いので後でにします笑",
+        "ts": "1527591951.000008"
+    },
+    {
+        "type": "message",
+        "user": "U9XQR125B",
+        "text": "たしかに",
+        "ts": "1527591969.000215"
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "<@UA073MJTU>さんがグループに参加しました",
+        "ts": "1527592736.000345",
+        "subtype": "group_join",
+        "inviter": "U9V4VKKPA"
+    },
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "<@UA0B1QWCV>さんがグループに参加しました",
+        "ts": "1527592737.000030",
+        "subtype": "group_join",
+        "inviter": "U9V4VKKPA"
+    }
+]

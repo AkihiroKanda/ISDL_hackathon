@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "もう発表の仕方があまり良くなかったのはわかったから\n全員でゆってやるなよ笑",
+        "ts": "1526707073.000069"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "コメントを変えるんや",
+        "ts": "1526707081.000103",
+        "reactions": [
+            {
+                "name": "sorena",
+                "count": 3,
+                "users": [
+                    "U9XQR125B",
+                    "U9VEE21MZ",
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "褒めるんや",
+        "ts": "1526707179.000085"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "褒めて伸ばすんや",
+        "ts": "1526707187.000043",
+        "reactions": [
+            {
+                "name": "pepper",
+                "count": 1,
+                "users": [
+                    "U9XQR125B"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "PWAに関しては俺と本田めちゃ興味あるから，質疑譲って @M1",
+        "ts": "1526707577.000071"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!here>",
+        "ts": "1526707580.000078"
+    },
+    {
+        "type": "message",
+        "user": "U9VEE21MZ",
+        "text": "<@U9W9J4MP0> 承知いたしました",
+        "ts": "1526707611.000020"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "なんで今日M1こんなに積極的なん？",
+        "ts": "1526707627.000025"
+    },
+    {
+        "type": "message",
+        "user": "U9XB925SM",
+        "text": "<@U9W9J4MP0> 別に積極的でもよくない？（笑）",
+        "ts": "1526707657.000041"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "いや，予想外すぎてさw",
+        "ts": "1526707673.000060"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "PWA質問したかったらしてええしな笑",
+        "ts": "1526707676.000011"
+    },
+    {
+        "type": "message",
+        "user": "U9VEE21MZ",
+        "text": "M1になったので、4月月例辺りからは積極的に質問するよう心掛けています",
+        "ts": "1526707804.000111"
+    },
+    {
+        "type": "message",
+        "user": "U9XB925SM",
+        "text": "<!channel> \n去年、間先生に頼んで技術書を購入した人へ\n本の所在が不明なものが多いので、誰がどこで管理しているのか調べています。\nもしも所持している方がいれば、下記のスプレッドシートの備考の項目に保管者と保管場所を記入してください\n\n<https:\/\/docs.google.com\/spreadsheets\/d\/1eQ2jZbtjMbB-sfPfC2gfkqoUC6Z5L9DywameyPjtQYQ\/edit#gid=0>",
+        "ts": "1526715558.000035",
+        "edited": {
+            "user": "U9XB925SM",
+            "ts": "1526883068.000000"
+        }
+    }
+]

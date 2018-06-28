@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "Fit2018の情報をメールで配信しました。",
+        "ts": "1526292000.000064",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "count": 4,
+                "users": [
+                    "U9W9J4MP0",
+                    "U9UV34517",
+                    "U9XHTK59Q",
+                    "U9XQR125B"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "ネットワーク委員会からです．\nコモンスペースWi-FiのSSIDを以下のように変更しました．\nご注意ください．\n\n---\n変更前：air-kc104\n変更後：air-kc103\n---",
+        "ts": "1526297181.000031",
+        "reactions": [
+            {
+                "name": "usonn",
+                "count": 1,
+                "users": [
+                    "U9VD2BKNG"
+                ]
+            }
+        ]
+    }
+]

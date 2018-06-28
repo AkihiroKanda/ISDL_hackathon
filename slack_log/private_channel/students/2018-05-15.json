@@ -1,0 +1,260 @@
+[
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "ネットワーク委員会です．\n\nKC104のネットワーク構成をアップデートしました．\n以後はスマートフォン等の接続も可能です．\n\n基本的にはこれまでの設定で問題無いはずですが\n何か問題がありましたら米田・八十田までお願いします．",
+        "ts": "1526318949.000758",
+        "reactions": [
+            {
+                "name": "uooo",
+                "count": 1,
+                "users": [
+                    "U9VD2BKNG"
+                ]
+            },
+            {
+                "name": "dekai",
+                "count": 2,
+                "users": [
+                    "U9VD2BKNG",
+                    "U9UV34517"
+                ]
+            },
+            {
+                "name": "ありがとう",
+                "count": 1,
+                "users": [
+                    "U9VD2BKNG"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "補助申請でSonyのワイヤレスイヤホン（WI -SP600N）を買います。\n他に買う方は、5\/16の23:59までに連絡してください。\n<https:\/\/goo.gl\/PjikYd>",
+        "ts": "1526364789.000064",
+        "attachments": [
+            {
+                "fallback": "商品詳細 | 法人専用ビックカメラ.com",
+                "id": 1,
+                "title": "商品詳細 | 法人専用ビックカメラ.com",
+                "title_link": "https:\/\/goo.gl\/PjikYd",
+                "text": "商品詳細 | <http:\/\/法人専用ビックカメラ.com|xn--lckh3d1ctd3bz476afhwqs7a6nr.com>"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "count": 2,
+                "users": [
+                    "U9VEE21MZ",
+                    "U9X7JGL75"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<!channel> KC-103のAPを操作された方、air-kc103のpwを周知してください。\nMTG中にネットワークが使えなくて困っています。。。",
+        "ts": "1526365186.000044"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "project443だと思います．",
+        "ts": "1526365280.000345",
+        "thread_ts": "1526365280.000345",
+        "unread_count": 6,
+        "reply_count": 6,
+        "replies": [
+            {
+                "user": "U9XHTK59Q",
+                "ts": "1526365669.000046"
+            },
+            {
+                "user": "U9VQSJC4C",
+                "ts": "1526366073.000315"
+            },
+            {
+                "user": "U9XHTK59Q",
+                "ts": "1526366102.000264"
+            },
+            {
+                "user": "U9VQSJC4C",
+                "ts": "1526366257.000324"
+            },
+            {
+                "user": "U9WL9BCKH",
+                "ts": "1526366330.000212"
+            },
+            {
+                "user": "U9XHTK59Q",
+                "ts": "1526366703.000159"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "構成変えたのは村野？\nproject443 だめやで。",
+        "ts": "1526365669.000046",
+        "thread_ts": "1526365280.000345",
+        "parent_user_id": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "はい．昨日は接続できていたんですが，今，確認したところ接続ができないので，原因を探しています．",
+        "ts": "1526366073.000315",
+        "thread_ts": "1526365280.000345",
+        "parent_user_id": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "なるほどね。\nair-kc104の中継機はなくなったの？",
+        "ts": "1526366102.000264",
+        "thread_ts": "1526365280.000345",
+        "parent_user_id": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "今，中継機の調子が悪いので使用していないです．",
+        "ts": "1526366257.000324",
+        "thread_ts": "1526365280.000345",
+        "parent_user_id": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "僕は繋げることができたのですが，もう一度試していただいてもいいですか？",
+        "ts": "1526366330.000212",
+        "thread_ts": "1526365280.000345",
+        "parent_user_id": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9XHTK59Q\/FAPV7ET5K\/untitled.png|Untitled.png>) をアップロードしてコメントしました : <@U9WL9BCKH> <@U9VQSJC4C> 平井のPCでいけるのならもしかしたら個体差があるのかも。",
+        "ts": "1526366626.000413",
+        "subtype": "file_share",
+        "username": "rtomioka",
+        "file": {
+            "id": "FAPV7ET5K",
+            "created": 1526366625,
+            "timestamp": 1526366625,
+            "name": "Untitled.png",
+            "title": "Untitled.png",
+            "mimetype": "image\/png",
+            "image_exif_rotation": 1,
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U9XHTK59Q",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 183076,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAPV7ET5K\/untitled.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAPV7ET5K\/download\/untitled.png",
+            "original_h": 649,
+            "original_w": 378,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAPV7ET5K-a0054bd693\/untitled_64.png",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAPV7ET5K-a0054bd693\/untitled_80.png",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAPV7ET5K-a0054bd693\/untitled_160.png",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAPV7ET5K-a0054bd693\/untitled_360.png",
+            "thumb_360_gif": "",
+            "thumb_360_w": 210,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAPV7ET5K-a0054bd693\/untitled_480.png",
+            "thumb_480_w": 280,
+            "thumb_480_h": 480,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9XHTK59Q\/FAPV7ET5K\/untitled.png",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAPV7ET5K-7e736647a0",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GA3P5M2GN"
+            ],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcAPJG8SN8",
+                "created": 1526366625,
+                "timestamp": 1526366625,
+                "user": "U9XHTK59Q",
+                "comment": "<@U9WL9BCKH> <@U9VQSJC4C> 平井のPCでいけるのならもしかしたら個体差があるのかも。"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "だめやねー",
+        "ts": "1526366703.000159",
+        "thread_ts": "1526365280.000345",
+        "parent_user_id": "U9VQSJC4C"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "とても接続が不安定なので，設定をやり直してみます．\nそれでも無理であればミーティング終わりに初期化を行いたいと思います．\nご迷惑をお掛けしてすみません．",
+        "ts": "1526366759.000203",
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "count": 1,
+                "users": [
+                    "U9XHTK59Q"
+                ]
+            },
+            {
+                "name": "ありがとう",
+                "count": 2,
+                "users": [
+                    "U9V4VKKPA",
+                    "U9XHTK59Q"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "TSUTAYAサーバ復旧致しました。",
+        "ts": "1526370392.000290",
+        "reactions": [
+            {
+                "name": "dekai",
+                "count": 2,
+                "users": [
+                    "U9W9J4MP0",
+                    "U9VD2BKNG"
+                ]
+            }
+        ]
+    }
+]

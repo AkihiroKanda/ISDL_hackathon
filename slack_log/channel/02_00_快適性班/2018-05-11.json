@@ -1,0 +1,264 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネルに参加しました",
+        "ts": "1526035527.000461",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<@UA1239MTQ>さんがチャンネルに参加しました",
+        "ts": "1526035675.000004",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9UV34517>さんがチャンネルに参加しました",
+        "ts": "1526035681.000040",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "<@UA0B1QWCV>さんがチャンネルに参加しました",
+        "ts": "1526035699.000195",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<@U9Z9J6R6K>さんがチャンネルに参加しました",
+        "ts": "1526036265.000300",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "<@U9XN8QQ77>さんがチャンネルに参加しました",
+        "ts": "1526036468.000189",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA074SQ4S",
+        "text": "<@UA074SQ4S>さんがチャンネルに参加しました",
+        "ts": "1526036670.000182",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA042R70B",
+        "text": "<@UA042R70B>さんがチャンネルに参加しました",
+        "ts": "1526036678.000098",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFYJDTJ",
+        "text": "<@U9ZFYJDTJ>さんがチャンネルに参加しました",
+        "ts": "1526036696.000206",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XCZ7FPY",
+        "text": "<@U9XCZ7FPY>さんがチャンネルに参加しました",
+        "ts": "1526042389.000049",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんがチャンネルに参加しました",
+        "ts": "1526042448.000197",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9XE1JRA9",
+        "text": "<@U9XE1JRA9>さんがチャンネルに参加しました",
+        "ts": "1526042469.000519",
+        "subtype": "channel_join",
+        "inviter": "U9XN8QQ77"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9VQSJC4C>さんがチャンネルに参加しました",
+        "ts": "1526042469.000543",
+        "subtype": "channel_join",
+        "inviter": "U9XN8QQ77"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんがチャンネルに参加しました",
+        "ts": "1526042469.000569",
+        "subtype": "channel_join",
+        "inviter": "U9XN8QQ77"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "<@U9X7JGL75>さんがチャンネルに参加しました",
+        "ts": "1526042470.000015",
+        "subtype": "channel_join",
+        "inviter": "U9XN8QQ77"
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "<@UA0083JS0>さんがチャンネルに参加しました",
+        "ts": "1526042707.000420",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "UA073MJTU",
+        "text": "<@UA073MJTU>さんがチャンネルに参加しました",
+        "ts": "1526042801.000530",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "UA13NUR9C",
+        "text": "<@UA13NUR9C>さんがチャンネルに参加しました",
+        "ts": "1526042802.000206",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "U9ZFZ43DW",
+        "text": "<@U9ZFZ43DW>さんがチャンネルに参加しました",
+        "ts": "1526042802.000240",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "UA1APD147",
+        "text": "<@UA1APD147>さんがチャンネルに参加しました",
+        "ts": "1526042802.000468",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "UA008K4G4",
+        "text": "<@UA008K4G4>さんがチャンネルに参加しました",
+        "ts": "1526042802.000490",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UA125R19U>さんがチャンネルに参加しました",
+        "ts": "1526042803.000143",
+        "subtype": "channel_join",
+        "inviter": "UA0083JS0"
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "MTGは，5月22日(火)19:30〜を予定しております．\nなお，三木先生の確認はまだ出来ていないため，仮でカレンダーに登録しております．",
+        "ts": "1526043273.000040",
+        "reactions": [
+            {
+                "name": "ありがとう",
+                "count": 1,
+                "users": [
+                    "U9UV34517"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "4回生の希望です．\n\n壁面照明：中本，布部，木原，川合\n疑似窓：佐藤，久留，藤井，八十田，前田(奈良医の研究のみ興味あり)\n体感温度：小林，関田\n生体情報：米田，(小林)",
+        "ts": "1526043302.000284"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "複合はないらしい",
+        "ts": "1526043385.000346",
+        "reactions": [
+            {
+                "name": "meme",
+                "count": 1,
+                "users": [
+                    "U9UV34517"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "ので、それぞれで1回、こんなテーマあるとか説明しといてください",
+        "ts": "1526043418.000594"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9XN8QQ77> \n音環境や複合環境？に関しても必要でしょうか？",
+        "ts": "1526043513.000102"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "複合やりたくないわけではいけど、やりたいテーマとしてはってことらしい",
+        "ts": "1526043542.000047"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "わかりました\nでは、またいくつか提案させていただきます。",
+        "ts": "1526043587.000075"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "<@U9UV34517> は全部の副担当ね",
+        "ts": "1526043614.000751"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "ひぃ",
+        "ts": "1526043624.000576",
+        "reactions": [
+            {
+                "name": "ありがとう",
+                "count": 2,
+                "users": [
+                    "U9X7JGL75",
+                    "U9Z9J6R6K"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "1人カレンダー登録してなかったらしいので、日程決め直し…",
+        "ts": "1526043652.000175",
+        "reactions": [
+            {
+                "name": "gabi-nn",
+                "count": 2,
+                "users": [
+                    "U9UV34517",
+                    "U9WL9BCKH"
+                ]
+            }
+        ]
+    }
+]

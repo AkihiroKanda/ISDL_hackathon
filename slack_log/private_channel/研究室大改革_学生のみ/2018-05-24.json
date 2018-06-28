@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "本日の23:59までのアンケートです。\n院生の方は投票をよろしくお願い致します。",
+        "ts": "1527153237.000220",
+        "thread_ts": "1526981157.000457",
+        "subtype": "thread_broadcast"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@UA125R19U> \n今週の三木ゼミ，院生は自由参加って認識であってますか？",
+        "ts": "1527154231.000075",
+        "thread_ts": "1527154231.000075",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UA125R19U",
+                "ts": "1527156526.000186"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "その認識であっています。",
+        "ts": "1527156526.000186",
+        "thread_ts": "1527154231.000075",
+        "parent_user_id": "U9UV34517",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 1,
+                "users": [
+                    "U9UV34517"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U9VCG5S1W>さんがこのファイルをアップロードしました : <https:\/\/isdl2018.slack.com\/files\/U9VCG5S1W\/FA5H73VHN\/_______________20180413.pdf|テーマ紹介20180413.pdf>",
+        "file": {
+            "id": "FA5H73VHN",
+            "created": 1523611112,
+            "timestamp": 1523611112,
+            "name": "テーマ紹介20180413.pdf",
+            "title": "テーマ紹介20180413.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U9VCG5S1W",
+            "editable": false,
+            "size": 64949,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA5H73VHN\/_______________20180413.pdf?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA5H73VHN\/download\/_______________20180413.pdf?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FA5H73VHN-3c05a121dc\/_______________20180413_thumb_pdf.png?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_pdf_w": 909,
+            "thumb_pdf_h": 1286,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9VCG5S1W\/FA5H73VHN\/_______________20180413.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FA5H73VHN-85a5ec19dc",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U9VCG5S1W",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "emakihara",
+        "bot_id": null,
+        "ts": "1523611114.000002"
+    },
+    {
+        "type": "message",
+        "user": "U9VCG5S1W",
+        "text": "すみませんあとで加筆すると思いますが、改めてテーマ案のまとめです",
+        "ts": "1523611135.000360"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U9VCG5S1W>さんがこのファイルをアップロードしました : <https:\/\/isdl2018.slack.com\/files\/U9VCG5S1W\/FA7BY6BNK\/_______________2018_______.pdf|テーマ紹介2018_槇原.pdf>",
+        "file": {
+            "id": "FA7BY6BNK",
+            "created": 1523620798,
+            "timestamp": 1523620798,
+            "name": "テーマ紹介2018_槇原.pdf",
+            "title": "テーマ紹介2018_槇原.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U9VCG5S1W",
+            "editable": false,
+            "size": 71348,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA7BY6BNK\/_______________2018_______.pdf?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA7BY6BNK\/download\/_______________2018_______.pdf?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FA7BY6BNK-3239c267b8\/_______________2018________thumb_pdf.png?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_pdf_w": 909,
+            "thumb_pdf_h": 1286,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9VCG5S1W\/FA7BY6BNK\/_______________2018_______.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FA7BY6BNK-7441ee751c",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U9VCG5S1W",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "emakihara",
+        "bot_id": null,
+        "ts": "1523620800.000042"
+    },
+    {
+        "type": "message",
+        "user": "U9VCG5S1W",
+        "text": "お疲れ様です。テーマ案の最終盤です。案なので必ずこれやるというわけではなく、アイディアや質問等あればお気軽にご質問くださいm(__)m",
+        "ts": "1523620804.000288",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UA0U3TZFV",
+                    "U9UV34517",
+                    "U9VD2BKNG",
+                    "U9WB96RQW"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

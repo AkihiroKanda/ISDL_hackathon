@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがチャンネルに参加しました",
+        "ts": "1526034864.000105",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんがそのチャンネルをアーカイブしました",
+        "ts": "1526035479.000242",
+        "subtype": "channel_archive"
+    }
+]

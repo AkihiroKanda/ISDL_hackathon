@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "@U4でパソコンの組み立てをしたいといってくれた人\n\n部品がまだ全部は届いてないので，確定はできないのですが\nパソコンの組み立てを今は28日（月）の基礎勉強会終わりにしようかと考えています．\nおそらく問題ないかと思われますが，部品が25日（金）の時点で届いてない場合は延期のご連絡をさせていただきます．\n現状で，希望したのにこの日来れないって人が入れば連絡してください\nいける方はリアクションお願いします．",
+        "ts": "1526796983.000043",
+        "thread_ts": "1526796983.000043",
+        "unread_count": 4,
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "UA18JT79D",
+                "ts": "1526822208.000082"
+            },
+            {
+                "user": "U9UV34517",
+                "ts": "1526823883.000069"
+            },
+            {
+                "user": "U9W9J4MP0",
+                "ts": "1526830160.000099"
+            },
+            {
+                "user": "U9UV34517",
+                "ts": "1526830554.000020"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "count": 1,
+                "users": [
+                    "UA074SQ4S"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9WMSU938> hbd",
+        "ts": "1526800500.000051"
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "ありがとうございます:heart::heart::heart:",
+        "ts": "1526801553.000012",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[May 20th, 2018 4:15 PM] yhonda: <@U9WMSU938> hbd",
+                "author_id": "U9VD2BKNG",
+                "author_name": "Yusuke Honda",
+                "author_subname": "Yusuke Honda",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/U9VD2BKNG",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-03-24\/334951733585_0579e29ed4379bc8ebbc_48.jpg",
+                "text": "<@U9WMSU938> hbd",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#students に投稿",
+                "ts": 1526800500.000051
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "count": 3,
+                "users": [
+                    "U9W9J4MP0",
+                    "U9XN8QQ77",
+                    "U9WSNSQLQ"
+                ]
+            },
+            {
+                "name": "kannbenn",
+                "count": 1,
+                "users": [
+                    "U9VD2BKNG"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA18JT79D",
+        "text": "28日から教育実習のために，行けない可能性が高いです．申し訳ございません．",
+        "ts": "1526822208.000082",
+        "thread_ts": "1526796983.000043",
+        "parent_user_id": "U9UV34517"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@UA18JT79D> \nでは、御手数ですがみんな来れる日程で一回調整して、報告してください",
+        "ts": "1526823883.000069",
+        "thread_ts": "1526796983.000043",
+        "parent_user_id": "U9UV34517",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 1,
+                "users": [
+                    "UA18JT79D"
+                ]
+            }
+        ]
+    }
+]

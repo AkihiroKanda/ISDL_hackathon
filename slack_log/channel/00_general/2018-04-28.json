@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "<!channel> \n前回の運営委員会で決定いたしました，四月月例の開始時刻の変更連絡です\n```\n変更前\n5月1日 10：00〜\n\n変更後\n5月1日 13：00〜\n```",
+        "ts": "1524902301.000057"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U9WSNSQLQ>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9WSNSQLQ\/FAF6QJWSZ\/dsc_0057.jpg|DSC_0057.JPG>) をアップロードしてコメントしました : <@UA073MJTU>  <@UA042R70B> \n月曜日のLAさんへ\n\n今日、本田と冨田と津崎でLAが掃除で使ってる雑巾を洗濯しました。\n今、kc103のベランダで乾かしています。\n月曜日に取り込んで掃除で使ってください。",
+        "file": {
+            "id": "FAF6QJWSZ",
+            "created": 1524903008,
+            "timestamp": 1524903008,
+            "name": "DSC_0057.JPG",
+            "title": "DSC_0057.JPG",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U9WSNSQLQ",
+            "editable": false,
+            "size": 9578715,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAF6QJWSZ\/dsc_0057.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAF6QJWSZ\/download\/dsc_0057.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_64.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_80.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_360.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_480.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_160.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_720.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_720_w": 720,
+            "thumb_720_h": 405,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_800.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_800_w": 800,
+            "thumb_800_h": 450,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_960.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_960_w": 960,
+            "thumb_960_h": 540,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAF6QJWSZ-244ab0d041\/dsc_0057_1024.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 576,
+            "image_exif_rotation": 1,
+            "original_w": 5504,
+            "original_h": 3096,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9WSNSQLQ\/FAF6QJWSZ\/dsc_0057.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAF6QJWSZ-9c216d8350",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "FcAEG1FA2V",
+                "created": 1524903008,
+                "timestamp": 1524903008,
+                "user": "U9WSNSQLQ",
+                "is_intro": true,
+                "comment": "<@UA073MJTU>  <@UA042R70B> \n月曜日のLAさんへ\n\n今日、本田と冨田と津崎でLAが掃除で使ってる雑巾を洗濯しました。\n今、kc103のベランダで乾かしています。\n月曜日に取り込んで掃除で使ってください。"
+            },
+            "reactions": [
+                {
+                    "name": "ありがとう",
+                    "users": [
+                        "U9VD2BKNG"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "dekai",
+                    "users": [
+                        "U9VD2BKNG"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "manji",
+                    "users": [
+                        "U9VD2BKNG"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "man-bowing",
+                    "users": [
+                        "UA0U3TZFV",
+                        "U9XCZ7FPY",
+                        "UA125R19U",
+                        "UA042R70B",
+                        "U9ZFZ43DW",
+                        "U9VEE21MZ",
+                        "UA1239MTQ",
+                        "UA008K4G4",
+                        "UA0083JS0",
+                        "UA074SQ4S",
+                        "U9ZFYJDTJ"
+                    ],
+                    "count": 11
+                }
+            ]
+        },
+        "user": "U9WSNSQLQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "ttsuzaki",
+        "bot_id": null,
+        "ts": "1524903015.000112"
+    }
+]

@@ -1,0 +1,139 @@
+[
+    {
+        "type": "message",
+        "user": "U9XE1JRA9",
+        "text": "5\/28の基礎勉強会のミーティング日程を\u0008担当者の人確認取って入れてほしいです",
+        "ts": "1526634868.000582"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9VEE21MZ> <@U9XE1JRA9> \n明日来れない？",
+        "ts": "1526652627.000840"
+    },
+    {
+        "type": "message",
+        "user": "U9XE1JRA9",
+        "text": "朝の学年ミーティング？",
+        "ts": "1526652660.000856"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9XE1JRA9> うん、リアクションないから",
+        "ts": "1526652674.000075"
+    },
+    {
+        "type": "message",
+        "user": "U9XE1JRA9",
+        "text": "ああ、すいませんいけます",
+        "ts": "1526652685.000912"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9XE1JRA9> \nすいません→すみません",
+        "ts": "1526652705.000303",
+        "reactions": [
+            {
+                "name": "akasan",
+                "count": 2,
+                "users": [
+                    "U9XE1JRA9",
+                    "U9V4VKKPA"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9VEE21MZ> さんは？",
+        "ts": "1526652713.000401"
+    },
+    {
+        "type": "message",
+        "user": "U9VEE21MZ",
+        "text": "リアクションするの忘れてたわ。いけるよ！",
+        "ts": "1526654180.000709",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 1,
+                "users": [
+                    "U9UV34517"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "ちなみに議題は何ですか？\n先輩ら後に控えてるから、みんなある程度自分の意見まとめて来た方がよいかな？",
+        "ts": "1526654617.000635"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "と思う所存",
+        "ts": "1526654632.000384"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "デス",
+        "ts": "1526654642.000284"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "大丈夫、もう先輩ら動いたので被ってる",
+        "ts": "1526654666.000218",
+        "reactions": [
+            {
+                "name": "commit",
+                "count": 1,
+                "users": [
+                    "U9X7JGL75"
+                ]
+            },
+            {
+                "name": "ありがとう",
+                "count": 1,
+                "users": [
+                    "U9X7JGL75"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "議題\n・ISDLハッカソンについて\n・後輩指導について",
+        "ts": "1526654693.000367",
+        "reactions": [
+            {
+                "name": "ありがとう",
+                "count": 1,
+                "users": [
+                    "U9X7JGL75"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "・月例での質疑について\n・U4でグループ別れるのどうにかしてほしいらしいby M2さん",
+        "ts": "1526654831.000179",
+        "reactions": [
+            {
+                "name": "gabi-nn",
+                "count": 1,
+                "users": [
+                    "U9X7JGL75"
+                ]
+            }
+        ]
+    }
+]

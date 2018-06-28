@@ -1,0 +1,225 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<!here> \n今日話たことを髙谷と今日これんかったM2に伝えました。（実名とかは出してないよ）\n\n加えて、院生MTGの後にM2だけでも話して、M1の意見ももっと聞く、M2、運営、三木先生とかが決めたことに対する意図をしっかり伝えるとか、俺たちでいろいろ反省およびこうしていこうってのを決めました。\n\n後ちょっとのISDL、みんなで頑張っていきましょう！",
+        "ts": "1527524738.000115",
+        "thread_ts": "1527524738.000115",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U9UV34517",
+                "ts": "1527548524.000055"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "本田さん、M2の皆様昨日はお忙しい中、ミーティングをひらいていただきありがとうございました。\n\n今後の研究室における方針や現状の問題点についてなど話せ、有意義な時間でした。\n\n今後ともよろしくお願いします。",
+        "ts": "1527548524.000055",
+        "thread_ts": "1527524738.000115",
+        "parent_user_id": "U9VD2BKNG"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "ジースタイラス焼肉の件、全員エントリーした？",
+        "ts": "1527591939.000189",
+        "reactions": [
+            {
+                "name": "済",
+                "count": 8,
+                "users": [
+                    "U9UV34517",
+                    "U9WL9BCKH",
+                    "U9VEE21MZ",
+                    "U9Z9J6R6K",
+                    "U9VQSJC4C",
+                    "U9XE1JRA9",
+                    "U9XCZ7FPY",
+                    "U9WB96RQW"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "パッとみた感じ村野がして無さそう",
+        "ts": "1527591954.000375"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9Z9J6R6K> \nすみません。今登録しました。",
+        "ts": "1527592230.000012"
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "1~3月のSNS投稿のTYCを三木先生から受け取りました．\n該当者は僕がいる時に受け取りにきてください．\nまた，受け取ったことを証明するため，受け取り表にサインしていただくことになっています．\n該当者全員のサインがそろった表を三木先生にお渡しすることになっていますので，お手数ですがご協力よろしくお願いします．\n\nまた，この件に関しては，TYCの電子化手続きのために本田さんのところへ伺う必要はありません．",
+        "ts": "1527596273.000069",
+        "reactions": [
+            {
+                "name": "了解です",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            },
+            {
+                "name": "ありがとう",
+                "count": 3,
+                "users": [
+                    "U9W9J4MP0",
+                    "U9VQSJC4C",
+                    "U9WSNSQLQ"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9X7JGL75",
+        "text": "<@U9X7JGL75>さんがこのファイルをアップロードしました : <https:\/\/isdl2018.slack.com\/files\/U9X7JGL75\/FAX7F2R2M\/sns_tyc.jpg|SNS_TYC.JPG>",
+        "ts": "1527596284.000509",
+        "subtype": "file_share",
+        "username": "mito",
+        "file": {
+            "id": "FAX7F2R2M",
+            "created": 1527596281,
+            "timestamp": 1527596281,
+            "name": "SNS_TYC.JPG",
+            "title": "SNS_TYC.JPG",
+            "mimetype": "image\/jpeg",
+            "image_exif_rotation": 1,
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U9X7JGL75",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 59029,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAX7F2R2M\/sns_tyc.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAX7F2R2M\/download\/sns_tyc.jpg",
+            "original_h": 551,
+            "original_w": 516,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_64.jpg",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_80.jpg",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_160.jpg",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_360.jpg",
+            "thumb_360_gif": "",
+            "thumb_360_w": 337,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_480.jpg",
+            "thumb_480_w": 450,
+            "thumb_480_h": 480,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9X7JGL75\/FAX7F2R2M\/sns_tyc.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAX7F2R2M-1674a6bda2",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GA0129Q5A"
+            ],
+            "ims": [],
+            "initial_comment": {},
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "text": "<@U9X7JGL75>さんが、<@U9X7JGL75>のファイル (<https:\/\/isdl2018.slack.com\/files\/U9X7JGL75\/FAX7F2R2M\/sns_tyc.jpg|SNS_TYC.JPG>) にコメントしました: 該当者と獲得TYCの表です．",
+        "ts": "1527596369.000228",
+        "subtype": "file_comment",
+        "file": {
+            "id": "FAX7F2R2M",
+            "created": 1527596281,
+            "timestamp": 1527596281,
+            "name": "SNS_TYC.JPG",
+            "title": "SNS_TYC.JPG",
+            "mimetype": "image\/jpeg",
+            "image_exif_rotation": 1,
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U9X7JGL75",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 59029,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAX7F2R2M\/sns_tyc.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAX7F2R2M\/download\/sns_tyc.jpg",
+            "original_h": 551,
+            "original_w": 516,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_64.jpg",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_80.jpg",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_160.jpg",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_360.jpg",
+            "thumb_360_gif": "",
+            "thumb_360_w": 337,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAX7F2R2M-206879faf4\/sns_tyc_480.jpg",
+            "thumb_480_w": 450,
+            "thumb_480_h": 480,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9X7JGL75\/FAX7F2R2M\/sns_tyc.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAX7F2R2M-1674a6bda2",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GA0129Q5A"
+            ],
+            "ims": [],
+            "initial_comment": {},
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "comment": {
+            "id": "FcAXGUQX52",
+            "created": 1527596369,
+            "timestamp": 1527596369,
+            "user": "U9X7JGL75",
+            "comment": "該当者と獲得TYCの表です．"
+        }
+    }
+]

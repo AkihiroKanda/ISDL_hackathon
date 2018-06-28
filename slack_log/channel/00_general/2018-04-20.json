@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "三木です。入りました。よろしく。",
+        "client_msg_id": "7E3EA93B-6485-4C4A-8CCC-082104F54A44",
+        "ts": "1524284919.000021",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U9W9J4MP0",
+                    "U9V4VKKPA",
+                    "U9UV34517",
+                    "U9VD2BKNG",
+                    "U9XHTK59Q"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U9V4VKKPA>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9V4VKKPA\/FABM3A8FQ\/ios________________________________________.jpg|iOS 版 Slack のアップロード>) をアップロードしてコメントしました : 5月6日(日)まで残留申請をしましたので、slack上でご報告させていただきます。",
+        "file": {
+            "id": "FABM3A8FQ",
+            "created": 1524289151,
+            "timestamp": 1524289151,
+            "name": "iOS からアップロードされた画像.jpg",
+            "title": "iOS 版 Slack のアップロード",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U9V4VKKPA",
+            "editable": false,
+            "size": 6015509,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FABM3A8FQ\/ios________________________________________.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FABM3A8FQ\/download\/ios________________________________________.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________64.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________80.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________360.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________480.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________160.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________720.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________800.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_800_w": 800,
+            "thumb_800_h": 600,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________960.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FABM3A8FQ-ab30375864\/ios_________________________________________1024.jpg?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 3024,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9V4VKKPA\/FABM3A8FQ\/ios________________________________________.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FABM3A8FQ-f66cc434fc",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "FcAAHG3LPN",
+                "created": 1524289151,
+                "timestamp": 1524289151,
+                "user": "U9V4VKKPA",
+                "is_intro": true,
+                "comment": "5月6日(日)まで残留申請をしましたので、slack上でご報告させていただきます。"
+            },
+            "reactions": [
+                {
+                    "name": "ありがとう",
+                    "users": [
+                        "U9VD2BKNG",
+                        "U9XHTK59Q",
+                        "U9WSNSQLQ"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U9V4VKKPA",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "rmorimoto",
+        "bot_id": null,
+        "upload_reply_to": "3EFF956E-1BDE-410A-BBE2-1E80B151BEB4",
+        "ts": "1524289151.000011"
+    }
+]

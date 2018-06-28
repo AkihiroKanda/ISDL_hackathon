@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "<!channel> ゼミ旅行のアンケートは今日までとなっております．\nまだ回答していない方は，回答をよろしくお願いいたします．\n<https:\/\/isdl2018.slack.com\/archives\/C9VJ93TN1\/p1527148049000114>\n<https:\/\/isdl2018.slack.com\/archives\/C9VJ93TN1\/p1527148133000059>",
+        "ts": "1527831023.000025",
+        "attachments": [
+            {
+                "fallback": "[May 24th, 2018 12:47 AM] Polly: <@UA0B1QWCV> used `\/polly`!",
+                "id": 1,
+                "author_subname": "Polly",
+                "author_link": "https:\/\/isdl2018.slack.com\/services\/BA08Q2929",
+                "author_icon": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/bot_icons\/2018-04-04\/341739385622_48.png",
+                "text": "<@UA0B1QWCV> used `\/polly`!",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#00_general に投稿",
+                "ts": 1527148049.000114
+            },
+            {
+                "fallback": "[May 24th, 2018 12:48 AM] Polly: <@UA0083JS0> used `\/polly`! Votes in this poll are anonymous :lock:.",
+                "id": 2,
+                "author_subname": "Polly",
+                "author_link": "https:\/\/isdl2018.slack.com\/services\/BA08Q2929",
+                "author_icon": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/bot_icons\/2018-04-04\/341739385622_48.png",
+                "text": "<@UA0083JS0> used `\/polly`! Votes in this poll are anonymous :lock:.",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#00_general に投稿",
+                "ts": 1527148133.000059
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9YDVG89L",
+        "text": "先ほどISDLApp配布メールを皆様に送信いたしました。\n昨日のアンケートに基づき、各OS用ISDLAppを配布いたしました。\nメールが届いていない、間違ったOSのアプリが送られている、\nなどの問題がありましたらご連絡ください。\nまた、アプリの動作に不具合があった場合、本田・嶋川にお知らせください。\nよろしくお願いいたします。",
+        "ts": "1527854046.000035"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<!here> \n後ほど、tyc取引の通知がくるチャンネルを教えるので、全員入るようにしてください",
+        "ts": "1527862848.000613",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 1,
+                "users": [
+                    "U9W9J4MP0"
+                ]
+            }
+        ]
+    }
+]

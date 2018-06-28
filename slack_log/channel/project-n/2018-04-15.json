@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U9XHTK59Q>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9XHTK59Q\/FA71DAK8U\/vlclog.txt|vlclog.txt>) をアップロードしてコメントしました : 今日（2018\/04\/16）の奈良医大への出張時に排出されたlog",
+        "file": {
+            "id": "FA71DAK8U",
+            "created": 1523859079,
+            "timestamp": 1523859079,
+            "name": "vlclog.txt",
+            "title": "vlclog.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U9XHTK59Q",
+            "editable": true,
+            "size": 89861,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA71DAK8U\/vlclog.txt?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FA71DAK8U\/download\/vlclog.txt?t=xoxe-336526966839-374918050962-374692816836-bc81924cd9c5a978d7e7275c86b73d2a",
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9XHTK59Q\/FA71DAK8U\/vlclog.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FA71DAK8U-342d727003",
+            "edit_link": "https:\/\/isdl2018.slack.com\/files\/U9XHTK59Q\/FA71DAK8U\/vlclog.txt\/edit",
+            "preview": "-- logger module started --\r\ncore: vlcはデフォルトのインターフェースで実行しています。インターフェースのない vlc を使用するには'cvlc'を使用してください。\r\ncore error: cannot resolve update.videolan.org port 80 : No such host is known. \r\nhttp error: cannot connect to update.videolan.org:80\r\ncore error: cannot resolve update.videolan.org port 80 : No such host is known. \r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>-- logger module started --<\/pre><\/div>\n<div><pre>core: vlcはデフォルトのインターフェースで実行しています。インターフェースのない vlc を使用するには'cvlc'を使用してください。<\/pre><\/div>\n<div><pre>core error: cannot resolve update.videolan.org port 80 : No such host is known. <\/pre><\/div>\n<div><pre>http error: cannot connect to update.videolan.org:80<\/pre><\/div>\n<div><pre>core error: cannot resolve update.videolan.org port 80 : No such host is known. <\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1303,
+            "lines_more": 1298,
+            "preview_is_truncated": true,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "FcA850G9HC",
+                "created": 1523859079,
+                "timestamp": 1523859079,
+                "user": "U9XHTK59Q",
+                "is_intro": true,
+                "comment": "今日（2018\/04\/16）の奈良医大への出張時に排出されたlog"
+            }
+        },
+        "user": "U9XHTK59Q",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "rtomioka",
+        "bot_id": null,
+        "ts": "1523859080.000117"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "認証がうまくいかんのはDigest認証の\"MD5\"アルゴリズムのせいかも。",
+        "ts": "1523859105.000061"
+    }
+]

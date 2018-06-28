@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "申し訳ありません。月曜日のMTGの予定が合わなくなったため、6月8日（金）の17:00から行いたいと思います。",
+        "ts": "1527563021.000025",
+        "edited": {
+            "user": "U9ZGENNKA",
+            "ts": "1527583439.000000"
+        },
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 1,
+                "users": [
+                    "U9ZPY616D"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "次回の研究MTGを6月8日（金）の17:00～18:00に設定しました。よろしくお願いします。",
+        "ts": "1527583327.000464",
+        "edited": {
+            "user": "U9ZGENNKA",
+            "ts": "1527583425.000000"
+        },
+        "reactions": [
+            {
+                "name": "了解です",
+                "count": 4,
+                "users": [
+                    "U9W9J4MP0",
+                    "U9YDVG89L",
+                    "U9ZPY616D",
+                    "UA075ACH0"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "ちなみに，前回の議事録ってもう流してたっけ？",
+        "ts": "1527583481.000042"
+    },
+    {
+        "type": "message",
+        "user": "U9ZGENNKA",
+        "text": "ミーティングの日程が決まっていなかったため、まだ流しておりません。すぐに流します。",
+        "ts": "1527583536.000448"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "OK",
+        "ts": "1527583546.000394"
+    }
+]

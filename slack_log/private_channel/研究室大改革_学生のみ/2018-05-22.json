@@ -1,0 +1,298 @@
+[
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "タスクフォースメンバーからお知らせです．\n①議事録の内容に関する問題点や改善策，新しい提案，現在の研究室制度に対する不満があればタスクフォースメンバーへ教えてください．",
+        "ts": "1526981018.000469"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "②購入物品を議題に取り上げますので，必要なものがあればタスクフォースメンバーまでお伝えください．",
+        "ts": "1526981022.000443"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "③三木ゼミの参加形態についてアンケートを取ります．\n　院生の方のみリアクションをお願いします．\n　自由参加の場合は:o:，参加不可の場合は:musical_note:のリアクションをお願いします．\n　期限は5月24日（木）23:59までです．\nよろしくお願い致します．",
+        "ts": "1526981157.000457",
+        "thread_ts": "1526981157.000457",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UA125R19U",
+                "ts": "1527153237.000220"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "o",
+                "count": 12,
+                "users": [
+                    "U9XN8QQ77",
+                    "U9XQR125B",
+                    "U9XHTK59Q",
+                    "U9W9J4MP0",
+                    "U9YDVG89L",
+                    "U9VLY8PKL",
+                    "U9WMSU938",
+                    "U9WB96RQW",
+                    "U9Z9J6R6K",
+                    "U9X7JGL75",
+                    "U9WSNSQLQ",
+                    "U9WGY7V50"
+                ]
+            },
+            {
+                "name": "musical_note",
+                "count": 3,
+                "users": [
+                    "U9UV34517",
+                    "U9XCZ7FPY",
+                    "U9V4VKKPA"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "院生自由参加にするか、もう院生は参加不可にするかって認識でいいの？",
+        "ts": "1526981220.000066",
+        "thread_ts": "1526981220.000066",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UA125R19U",
+                "ts": "1526981298.000059"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "あと、購入物品に関しては今までは各代チーフが運営委員会で報告してたけど、今後は全部タスクフォースに統一？",
+        "ts": "1526981257.000414",
+        "thread_ts": "1526981257.000414",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UA125R19U",
+                "ts": "1526981469.000258"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "その認識で合っています．",
+        "ts": "1526981298.000059",
+        "thread_ts": "1526981220.000066",
+        "parent_user_id": "U9W9J4MP0"
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "議事録の書き方やけど，以前からの変更点であれば，以前はこうで，これからはこうっていうのがわかるように書いてほしい\n②に関してはチーフとかにも言ってるんやけど，DVDドライブが欲しいです．学会の事後処理とかもDVDに焼く必要があるのですが，MACの人はドライブついてないです．現状はMacの人は公共PCとか各個人のDVDドライブで焼いてましたが，あったほうが便利だと思います．",
+        "ts": "1526981384.000387",
+        "edited": {
+            "user": "U9XN8QQ77",
+            "ts": "1526981577.000000"
+        },
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 1,
+                "users": [
+                    "UA125R19U"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "報告に関して議題に上がっていなかったため，未定です．次回の研究室大改革ミーティングで話し合います．",
+        "ts": "1526981469.000258",
+        "thread_ts": "1526981257.000414",
+        "parent_user_id": "U9W9J4MP0"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "カジュアルミーティングの\n一回16〜20人程度（あくまで目安）\nって何？",
+        "ts": "1526981474.000246",
+        "thread_ts": "1526981474.000246",
+        "unread_count": 4,
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "UA125R19U",
+                "ts": "1526981592.000050"
+            },
+            {
+                "user": "U9Z9J6R6K",
+                "ts": "1526981632.000101"
+            },
+            {
+                "user": "UA125R19U",
+                "ts": "1526981692.000268"
+            },
+            {
+                "user": "U9Z9J6R6K",
+                "ts": "1526981720.000551"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "一度のカジュアルミーティングの参加人数の目安です．\nコモンスペースで実施する予定のため，最適な人数が16〜20人程度となりました．",
+        "ts": "1526981592.000050",
+        "thread_ts": "1526981474.000246",
+        "parent_user_id": "U9Z9J6R6K"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "それは参加人数の上限って考えておｋ？",
+        "ts": "1526981632.000101",
+        "thread_ts": "1526981474.000246",
+        "parent_user_id": "U9Z9J6R6K"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "あくまで目安なので，20人以上でも16人未満でも構わないとのことです．",
+        "ts": "1526981692.000268",
+        "thread_ts": "1526981474.000246",
+        "parent_user_id": "U9Z9J6R6K"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "はいー",
+        "ts": "1526981720.000551",
+        "thread_ts": "1526981474.000246",
+        "parent_user_id": "U9Z9J6R6K"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "運営とタスクフォースの違いを明確にしてほしいです",
+        "ts": "1526981749.000559"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "今までは研究室全体が関わるようなことは運営で議論してもらってたんやけど\nタスクフォースも似たようなことやってるからどっちに話し挙げたら良いのかわからないです",
+        "ts": "1526981813.000114"
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "特に物品購入とか研究室ルールとかは運営でやってたと思うので",
+        "ts": "1526981850.000141",
+        "thread_ts": "1526981850.000141",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UA18JT79D",
+                "ts": "1526982923.000257"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9Z9J6R6K",
+        "text": "<@U9Z9J6R6K>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9Z9J6R6K\/FATBFG35F\/img_1487.jpg|IMG_1487.JPG>) をアップロードしてコメントしました : 欲しいもの",
+        "ts": "1526982350.000238",
+        "subtype": "file_share",
+        "username": "rtomita",
+        "file": {
+            "id": "FATBFG35F",
+            "created": 1526982345,
+            "timestamp": 1526982345,
+            "name": "IMG_1487.JPG",
+            "title": "IMG_1487.JPG",
+            "mimetype": "image\/jpeg",
+            "image_exif_rotation": 1,
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U9Z9J6R6K",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 1913894,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FATBFG35F\/img_1487.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FATBFG35F\/download\/img_1487.jpg",
+            "original_h": 3024,
+            "original_w": 4032,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FATBFG35F-1eb6a3bafb\/img_1487_64.jpg",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FATBFG35F-1eb6a3bafb\/img_1487_80.jpg",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FATBFG35F-1eb6a3bafb\/img_1487_160.jpg",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FATBFG35F-1eb6a3bafb\/img_1487_360.jpg",
+            "thumb_360_gif": "",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FATBFG35F-1eb6a3bafb\/img_1487_480.jpg",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FATBFG35F-1eb6a3bafb\/img_1487_720.jpg",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FATBFG35F-1eb6a3bafb\/img_1487_960.jpg",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FATBFG35F-1eb6a3bafb\/img_1487_1024.jpg",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9Z9J6R6K\/FATBFG35F\/img_1487.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FATBFG35F-38aa2c0a5b",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GATVA1KLN"
+            ],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcATQHFYDR",
+                "created": 1526982345,
+                "timestamp": 1526982345,
+                "user": "U9Z9J6R6K",
+                "comment": "欲しいもの"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "UA18JT79D",
+        "text": "運営とタスクフォースの活動内容がかぶっているとのことですが，\nタスクフォースは，これまでの運営による活動だけでは問題点が見えず，改革が起きにくいということで結成されました．\nそのため，活動内容が同じことも多々あると思われます．\nSlackや話し合いなどで，活発に議論を行い，問題点を共有し可視化することが目的であると考えております．",
+        "ts": "1526982923.000257",
+        "thread_ts": "1526981850.000141",
+        "parent_user_id": "U9Z9J6R6K"
+    },
+    {
+        "type": "message",
+        "user": "U9W9J4MP0",
+        "text": "なぜホワイトボードではなく，クリアボードに書いた・・・",
+        "ts": "1526984304.000323"
+    }
+]

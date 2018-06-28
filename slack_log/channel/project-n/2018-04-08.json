@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1523245704.000165"
+    },
+    {
+        "user": "U9XHTK59Q",
+        "purpose": "奈良県立医科大学 集中治療室 の擬似窓プロジェクトに関するチャンネル",
+        "text": "<@U9XHTK59Q>さんがチャンネルの目的を設定しました : 奈良県立医科大学 集中治療室 の擬似窓プロジェクトに関するチャンネル",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1523245705.000135"
+    },
+    {
+        "user": "U9VQSJC4C",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9VQSJC4C>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1523245706.000002"
+    },
+    {
+        "type": "message",
+        "user": "U9VQSJC4C",
+        "text": "<@U9XHTK59Q> チャンネルを作成していただきありがとうございます．",
+        "ts": "1523245789.000134",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U9XHTK59Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "*プロジェクト用リポジトリの共有*\n- UWPベース擬似窓ソフト\n<https:\/\/github.com\/ryoto1993\/VirtualWindowUWP>\n- Android Tablet用 擬似窓コントローラ\n<https:\/\/github.com\/ryoto1993\/VirtualWindowController>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "ryoto1993\/VirtualWindowUWP",
+                "title_link": "https:\/\/github.com\/ryoto1993\/VirtualWindowUWP",
+                "text": "VirtualWindowUWP - Virtual Window platform runs on Windows 10. This app is under development based on Universal Windows Platform.",
+                "fallback": "GitHub: ryoto1993\/VirtualWindowUWP",
+                "from_url": "https:\/\/github.com\/ryoto1993\/VirtualWindowUWP",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/10233121?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            },
+            {
+                "service_name": "GitHub",
+                "title": "ryoto1993\/VirtualWindowController",
+                "title_link": "https:\/\/github.com\/ryoto1993\/VirtualWindowController",
+                "text": "VirtualWindowController - Virtual Window controler runs on Android tablet.",
+                "fallback": "GitHub: ryoto1993\/VirtualWindowController",
+                "from_url": "https:\/\/github.com\/ryoto1993\/VirtualWindowController",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/10233121?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 2
+            }
+        ],
+        "ts": "1523245879.000151"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "<@U9V4VKKPA>さんがチャンネルに参加しました",
+        "ts": "1526960355.000124",
+        "subtype": "channel_join",
+        "inviter": "UA0B1QWCV"
+    },
+    {
+        "type": "message",
+        "user": "U9WL9BCKH",
+        "text": "<@U9WL9BCKH>さんがチャンネルに参加しました",
+        "ts": "1526960355.000135",
+        "subtype": "channel_join",
+        "inviter": "UA0B1QWCV"
+    },
+    {
+        "type": "message",
+        "user": "U9WJKLKME",
+        "text": "<@U9WJKLKME>さんがチャンネルに参加しました",
+        "ts": "1526960355.000147",
+        "subtype": "channel_join",
+        "inviter": "UA0B1QWCV"
+    },
+    {
+        "type": "message",
+        "user": "UA0B1QWCV",
+        "text": "今年のデモ担当のU4チーフになりました八十田です. デモ担当の全体ミーティングを5月25日（金）18:00〜18:30に入れたいと思っているのですが，ご都合の悪い方はいらっしゃいますか？",
+        "ts": "1526976260.000317",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "count": 13,
+                "users": [
+                    "U9XN8QQ77",
+                    "U9UV34517",
+                    "U9WL9BCKH",
+                    "U9V4VKKPA",
+                    "U9XQR125B",
+                    "U9ZFZ43DW",
+                    "UA18JT79D",
+                    "U9W9J4MP0",
+                    "U9XHTK59Q",
+                    "UA1239MTQ",
+                    "UA073MJTU",
+                    "U9XE1JRA9",
+                    "U9VLBFM7U"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "<!channel> ",
+        "ts": "1526977057.000204"
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "<!channel> イベント担当，U4の川合です．\nゼミ旅行に関するアンケートを行います．\n日程と旅行内容について，各選択肢より1つ投票をお願い致します．\nなお，期限は6\/1(金)までとします．\n\n-----日程-----\n① 9\/17-18\n② 9\/18-19\n-----旅行内容-----\n&lt;和歌山&gt;\nA案\n①トルコランプ製作体験\n<https:\/\/resortohshima.com\/activity\/lamp>\n②アドベンチャーワールド観光\n<http:\/\/www.aws-s.com\/>\n③紀州梅干館（梅酒or梅ジュース作り）\n<http:\/\/www.umekan.com\/>\n宿：グランパスSea  \n<http:\/\/grampus-sea.com\/>\n費用：26000円程度\n\n&lt;和歌山&gt;\nB案\n①トルコランプ製作体験\n<https:\/\/resortohshima.com\/activity\/lamp>\n②三段壁観光\n<http:\/\/sandanbeki.com\/>\n③とれとれ市場南紀白浜観光（観光＆BBQ）\n<http:\/\/www.toretore.info\/>\n④紀州梅干館（梅酒or梅ジュース作り）\n<http:\/\/www.umekan.com\/>\n宿：グランパスSea  \n<http:\/\/grampus-sea.com\/>\n費用：25000円程度\n\nA案，B案共に宿は同じです．\n宿は2017年4月にリニューアルしたばかりで綺麗です．\n男女各3つの露天風呂があります．\n\n&lt;福井・石川&gt;\nC案\n①アドベンチャーいけだ（ラフティングorジップラインorアスレチック）\n<https:\/\/www.picnic.ikeda-kibou.com\/>\n②兼六園\n<http:\/\/www.pref.ishikawa.jp\/siro-niwa\/kenrokuen\/>\n③21世紀美術館\n<https:\/\/www.kanazawa21.jp\/>\n宿：花の宿福寿\n<http:\/\/awara-fukuju.com\/>\n有名なあわら温泉街にあり，露天風呂もあります．\n費用：24000円程度\n-------------------------------------\n宿のパンフレットを擬似窓の前に置いておきます．\nご自由に御覧ください．\n\nなお，旅行内容については確定ではないため，今後変更することも可能です．\nまた，ご意見や質問がある方はコメントを書いていただけると幸いです．\nよろしくお願い致します．",
+        "ts": "1527148036.000074",
+        "pinned_to": [
+            "C9VJ93TN1"
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@UA0B1QWCV> used `\/polly`!",
+        "ts": "1527148049.000114",
+        "attachments": [
+            {
+                "color": "35A8E0",
+                "fallback": "ゼミ旅行の日程アンケート",
+                "callback_id": "BHqznM2cHKQ6sdGrk",
+                "id": 1,
+                "title": "ゼミ旅行の日程アンケート",
+                "text": "",
+                "actions": [
+                    {
+                        "name": "one",
+                        "text": "①9\/17（祝日・月）- 18（火）",
+                        "type": "button",
+                        "value": "0"
+                    },
+                    {
+                        "name": "two",
+                        "text": "②9\/18（火）- 19（水）",
+                        "type": "button",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "fallback": "ゼミ旅行の日程アンケート",
+                "callback_id": "BHqznM2cHKQ6sdGrk",
+                "id": 2,
+                "text": "",
+                "fields": [
+                    {
+                        "title": "①9\/17（祝日・月）- 18（火）",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 52% (16)\n<@U9VEE21MZ>, <@UA13NUR9C>, <@U9VD2BKNG>, <@U9VQSJC4C>, <@UA1APD147>, +11 more",
+                        "short": false
+                    },
+                    {
+                        "title": "②9\/18（火）- 19（水）",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 48% (15)\n<@U9XHTK59Q>, <@UA075ACH0>, <@UA1239MTQ>, <@UA008K4G4>, <@U9WSNSQLQ>, +10 more",
+                        "short": false
+                    },
+                    {
+                        "title": "Total votes",
+                        "value": "31",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "name": "add_comments",
+                        "text": "Add a Comment",
+                        "type": "button",
+                        "value": "qZrqDw94qeaThSPL3"
+                    },
+                    {
+                        "name": "view_all_responses_in_channel",
+                        "text": "View All Responses",
+                        "type": "button",
+                        "value": "qZrqDw94qeaThSPL3"
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            }
+        ],
+        "subtype": "bot_message",
+        "bot_id": "BA08Q2929",
+        "username": "Polly",
+        "icons": {}
+    },
+    {
+        "type": "message",
+        "text": "<@UA0083JS0> used `\/polly`! Votes in this poll are anonymous :lock:.",
+        "ts": "1527148133.000059",
+        "attachments": [
+            {
+                "color": "35A8E0",
+                "fallback": "ゼミ旅行の旅行内容アンケート",
+                "callback_id": "2pwjAY3y9GJo9dYzc",
+                "id": 1,
+                "title": "ゼミ旅行の旅行内容アンケート",
+                "text": "",
+                "actions": [
+                    {
+                        "name": "one",
+                        "text": "A案&lt;和歌山&gt;",
+                        "type": "button",
+                        "value": "0"
+                    },
+                    {
+                        "name": "two",
+                        "text": "B案&lt;和歌山&gt;",
+                        "type": "button",
+                        "value": "1"
+                    },
+                    {
+                        "name": "three",
+                        "text": "C案&lt;福井・石川&gt;",
+                        "type": "button",
+                        "value": "2"
+                    }
+                ]
+            },
+            {
+                "fallback": "ゼミ旅行の旅行内容アンケート",
+                "callback_id": "2pwjAY3y9GJo9dYzc",
+                "id": 2,
+                "text": "",
+                "fields": [
+                    {
+                        "title": "A案&lt;和歌山&gt;",
+                        "value": "`▇▇▇▇▇▇▇` 15% (5)",
+                        "short": false
+                    },
+                    {
+                        "title": "B案&lt;和歌山&gt;",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 58% (19)",
+                        "short": false
+                    },
+                    {
+                        "title": "C案&lt;福井・石川&gt;",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇▇▇` 27% (9)",
+                        "short": false
+                    },
+                    {
+                        "title": "Total votes",
+                        "value": "33",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "name": "add_comments",
+                        "text": "Add a Comment",
+                        "type": "button",
+                        "value": "YJvZpS6rDMZfzLFTf"
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            }
+        ],
+        "subtype": "bot_message",
+        "bot_id": "BA08Q2929",
+        "username": "Polly",
+        "icons": {}
+    },
+    {
+        "type": "message",
+        "user": "UA0083JS0",
+        "text": "<@UA0083JS0>さんがメッセージをこのチャンネルにピン留めしました。",
+        "ts": "1527148332.000042",
+        "attachments": [
+            {
+                "fallback": "[May 24th, 2018 4:47 PM] ykawai: <!channel> イベント担当，U4の川合です．\nゼミ旅行に関するアンケートを行います．\n日程と旅行内容について，各選択肢より1つ投票をお願い致します．\nなお，期限は6\/1(金)までとします．\n\n-----日程-----\n① 9\/17-18\n② 9\/18-19\n-----旅行内容-----\n&lt;和歌山&gt;\nA案\n①トルコランプ製作体験\n<https:\/\/resortohshima.com\/activity\/lamp>\n②アドベンチャーワールド観光\n<http:\/\/www.aws-s.com\/>\n③紀州梅干館（梅酒or梅ジュース作り）\n<http:\/\/www.umekan.com\/>\n宿：グランパスSea  \n<http:\/\/grampus-sea.com\/>\n費用：26000円程度\n\n&lt;和歌山&gt;\nB案\n①トルコランプ製作体験\n<https:\/\/resortohshima.com\/activity\/lamp>\n②三段壁観光\n<http:\/\/sandanbeki.com\/>\n③とれとれ市場南紀白浜観光（観光＆BBQ）\n<http:\/\/www.toretore.info\/>\n④紀州梅干館（梅酒or梅ジュース作り）\n<http:\/\/www.umekan.com\/>\n宿：グランパスSea  \n<http:\/\/grampus-sea.com\/>\n費用：25000円程度\n\nA案，B案共に宿は同じです．\n宿は2017年4月にリニューアルしたばかりで綺麗です．\n男女各3つの露天風呂があります．\n\n&lt;福井・石川&gt;\nC案\n①アドベンチャーいけだ（ラフティングorジップラインorアスレチック）\n<https:\/\/www.picnic.ikeda-kibou.com\/>\n②兼六園\n<http:\/\/www.pref.ishikawa.jp\/siro-niwa\/kenrokuen\/>\n③21世紀美術館\n<https:\/\/www.kanazawa21.jp\/>\n宿：花の宿福寿\n<http:\/\/awara-fukuju.com\/>\n有名なあわら温泉街にあり，露天風呂もあります．\n費用：24000円程度\n-------------------------------------\n宿のパンフレットを擬似窓の前に置いておきます．\nご自由に御覧ください．\n\nなお，旅行内容については確定ではないため，今後変更することも可能です．\nまた，ご意見や質問がある方はコメントを書いていただけると幸いです．\nよろしくお願い致します．",
+                "author_id": "UA0083JS0",
+                "author_name": "yuka kawai",
+                "author_subname": "yuka kawai",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/UA0083JS0",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-04-04\/340673058995_ae7e1c09ceb20aa44c9b_48.jpg",
+                "text": "<!channel> イベント担当，U4の川合です．\nゼミ旅行に関するアンケートを行います．\n日程と旅行内容について，各選択肢より1つ投票をお願い致します．\nなお，期限は6\/1(金)までとします．\n\n-----日程-----\n① 9\/17-18\n② 9\/18-19\n-----旅行内容-----\n&lt;和歌山&gt;\nA案\n①トルコランプ製作体験\n<https:\/\/resortohshima.com\/activity\/lamp>\n②アドベンチャーワールド観光\n<http:\/\/www.aws-s.com\/>\n③紀州梅干館（梅酒or梅ジュース作り）\n<http:\/\/www.umekan.com\/>\n宿：グランパスSea  \n<http:\/\/grampus-sea.com\/>\n費用：26000円程度\n\n&lt;和歌山&gt;\nB案\n①トルコランプ製作体験\n<https:\/\/resortohshima.com\/activity\/lamp>\n②三段壁観光\n<http:\/\/sandanbeki.com\/>\n③とれとれ市場南紀白浜観光（観光＆BBQ）\n<http:\/\/www.toretore.info\/>\n④紀州梅干館（梅酒or梅ジュース作り）\n<http:\/\/www.umekan.com\/>\n宿：グランパスSea  \n<http:\/\/grampus-sea.com\/>\n費用：25000円程度\n\nA案，B案共に宿は同じです．\n宿は2017年4月にリニューアルしたばかりで綺麗です．\n男女各3つの露天風呂があります．\n\n&lt;福井・石川&gt;\nC案\n①アドベンチャーいけだ（ラフティングorジップラインorアスレチック）\n<https:\/\/www.picnic.ikeda-kibou.com\/>\n②兼六園\n<http:\/\/www.pref.ishikawa.jp\/siro-niwa\/kenrokuen\/>\n③21世紀美術館\n<https:\/\/www.kanazawa21.jp\/>\n宿：花の宿福寿\n<http:\/\/awara-fukuju.com\/>\n有名なあわら温泉街にあり，露天風呂もあります．\n費用：24000円程度\n-------------------------------------\n宿のパンフレットを擬似窓の前に置いておきます．\nご自由に御覧ください．\n\nなお，旅行内容については確定ではないため，今後変更することも可能です．\nまた，ご意見や質問がある方はコメントを書いていただけると幸いです．\nよろしくお願い致します．",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "ts": 1527148036.000074
+            }
+        ],
+        "subtype": "pinned_item",
+        "item_type": "C"
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "本日、三菱地所株式会社の副社長と会い、大手町パークビルの新オフィスの役員応接室に擬似窓を導入することを決めました。本物の窓の外に見えるのが、隣のビルなので、そこに擬似窓を入れて、皇居が見える窓と同じく風景が見えるようにします。窓の大きさは50インチ液晶ディスプレイ８台分の大きさです。また、窓の無い応接室もあるので、そこにも導入したいと思っています。そこは50インチ２台でいいかなと思います。なお、外部カメラ無し方式で進めたいと思います。これはプロジェクトＰ（パークビル）と名付けます。参加希望者を募ります。",
+        "ts": "1527172324.000687",
+        "reactions": [
+            {
+                "name": "wakarimasita",
+                "count": 2,
+                "users": [
+                    "U9W9J4MP0",
+                    "U9XHTK59Q"
+                ]
+            }
+        ]
+    }
+]

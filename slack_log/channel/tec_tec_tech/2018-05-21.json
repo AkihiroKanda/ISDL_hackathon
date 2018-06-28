@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<@U9VD2BKNG>さんががファイル (<https:\/\/isdl2018.slack.com\/files\/U9VD2BKNG\/FAT9EAT8D\/image_uploaded_from_ios.png|Slack for iOS Upload>) をアップロードしてコメントしました : パスワードを平文で保存なんてだめですよ。\nじゃあ、どうするの？ってとこを調べるとおもしろみがある",
+        "ts": "1526884059.000008",
+        "subtype": "file_share",
+        "username": "yhonda",
+        "file": {
+            "id": "FAT9EAT8D",
+            "created": 1526884059,
+            "timestamp": 1526884059,
+            "name": "Image uploaded from iOS.png",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/png",
+            "image_exif_rotation": 1,
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U9VD2BKNG",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 280678,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAT9EAT8D\/image_uploaded_from_ios.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAT9EAT8D\/download\/image_uploaded_from_ios.png",
+            "original_h": 1334,
+            "original_w": 750,
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT9EAT8D-0f5d80d82d\/image_uploaded_from_ios_64.png",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT9EAT8D-0f5d80d82d\/image_uploaded_from_ios_80.png",
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT9EAT8D-0f5d80d82d\/image_uploaded_from_ios_160.png",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT9EAT8D-0f5d80d82d\/image_uploaded_from_ios_360.png",
+            "thumb_360_gif": "",
+            "thumb_360_w": 202,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT9EAT8D-0f5d80d82d\/image_uploaded_from_ios_480.png",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT9EAT8D-0f5d80d82d\/image_uploaded_from_ios_720.png",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT9EAT8D-0f5d80d82d\/image_uploaded_from_ios_960.png",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T9WFGUEQP-FAT9EAT8D-0f5d80d82d\/image_uploaded_from_ios_1024.png",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/U9VD2BKNG\/FAT9EAT8D\/image_uploaded_from_ios.png",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAT9EAT8D-a64ff8acae",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": true,
+            "public_url_shared": false,
+            "channels": [
+                "CA0059VQE"
+            ],
+            "groups": [],
+            "ims": [],
+            "initial_comment": {
+                "id": "FcASU3M7L4",
+                "created": 1526884059,
+                "timestamp": 1526884059,
+                "user": "U9VD2BKNG",
+                "comment": "パスワードを平文で保存なんてだめですよ。\nじゃあ、どうするの？ってとこを調べるとおもしろみがある"
+            },
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9XN8QQ77",
+        "text": "それ俺も来たわ",
+        "ts": "1526884080.000004"
+    },
+    {
+        "type": "message",
+        "user": "U9VD2BKNG",
+        "text": "<https:\/\/qiita.com\/rana_kualu\/items\/3ef57485be1103362f56>",
+        "ts": "1526884213.000298",
+        "attachments": [
+            {
+                "fallback": "Qiita: 2018年のパスワードハッシュ - Qiita",
+                "id": 1,
+                "title": "2018年のパスワードハッシュ - Qiita",
+                "title_link": "https:\/\/qiita.com\/rana_kualu\/items\/3ef57485be1103362f56",
+                "text": "数年前であれば仕方なかったところですが、2018年の今となっては、パスワードハッシュの[手動計算](<https:\/\/www.websec-room.com\/2013\/02\/27\/246>)はもはや\"悪\"です。 まずログイン認証と称して...",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png"
+            }
+        ]
+    }
+]

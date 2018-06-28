@@ -1,0 +1,193 @@
+[
+    {
+        "user": "U9XHTK59Q",
+        "text": "<@U9XHTK59Q>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858187.000131"
+    },
+    {
+        "user": "U9XHTK59Q",
+        "purpose": "けいはんなリサーチコンプレックスプロジェクトの参画者間の連絡等",
+        "text": "<@U9XHTK59Q>さんがチャンネルの目的を設定しました : けいはんなリサーチコンプレックスプロジェクトの参画者間の連絡等",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1525858188.000059"
+    },
+    {
+        "user": "U9XN8QQ77",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9XN8QQ77>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000074"
+    },
+    {
+        "user": "U9WJKLKME",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9WJKLKME>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000099"
+    },
+    {
+        "user": "U9XCZ7FPY",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9XCZ7FPY>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000134"
+    },
+    {
+        "user": "U9XQR125B",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9XQR125B>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000164"
+    },
+    {
+        "user": "U9Z9J6R6K",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9Z9J6R6K>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000185"
+    },
+    {
+        "user": "U9XE1JRA9",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9XE1JRA9>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000211"
+    },
+    {
+        "user": "U9WL9BCKH",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9WL9BCKH>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000235"
+    },
+    {
+        "user": "U9X7JGL75",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9X7JGL75>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000258"
+    },
+    {
+        "user": "U9WMSU938",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9WMSU938>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858188.000466"
+    },
+    {
+        "user": "U9WB96RQW",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9WB96RQW>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858189.000086"
+    },
+    {
+        "user": "U9V4VKKPA",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9V4VKKPA>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858189.000107"
+    },
+    {
+        "user": "U9VEE21MZ",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9VEE21MZ>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858189.000133"
+    },
+    {
+        "user": "U9VQSJC4C",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9VQSJC4C>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858189.000351"
+    },
+    {
+        "user": "U9UV34517",
+        "inviter": "U9XHTK59Q",
+        "text": "<@U9UV34517>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858189.000376"
+    },
+    {
+        "user": "UAA37NWHW",
+        "inviter": "U9XHTK59Q",
+        "text": "<@UAA37NWHW>さんがチャンネルに参加しました",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1525858189.000393"
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<!channel> \nメーリスでも流しましたが、以下の名簿への学籍番号の記入をお願いします。\n*ASAP*で！\n<https:\/\/goo.gl\/NAS1s3>",
+        "attachments": [
+            {
+                "title": "Google Sheets - create and edit spreadsheets online, for free.",
+                "title_link": "https:\/\/goo.gl\/NAS1s3",
+                "text": "Create a new spreadsheet and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Sheets to edit Excel files. Free from Google.",
+                "fallback": "Google Sheets - create and edit spreadsheets online, for free.",
+                "from_url": "https:\/\/goo.gl\/NAS1s3",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 1,
+                "original_url": "https:\/\/goo.gl\/NAS1s3"
+            }
+        ],
+        "edited": {
+            "user": "U9XHTK59Q",
+            "ts": "1525858653.000000"
+        },
+        "ts": "1525858302.000052"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@U9XHTK59Q> \n上記の件，名簿を持っていたので\n現在書いてない方の分，埋めておきました．",
+        "thread_ts": "1525861396.000045",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U9XHTK59Q",
+                "ts": "1525861520.000230"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1525861396.000045",
+        "reactions": [
+            {
+                "name": "ありがとう",
+                "users": [
+                    "U9X7JGL75",
+                    "U9Z9J6R6K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "Thank you!",
+        "thread_ts": "1525861396.000045",
+        "parent_user_id": "U9UV34517",
+        "ts": "1525861520.000230"
+    }
+]

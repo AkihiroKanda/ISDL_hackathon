@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U9XHTK59Q",
+        "text": "<!channel> 今日のMTG統括するM1は誰ですか？",
+        "ts": "1526362048.000102",
+        "edited": {
+            "user": "U9XHTK59Q",
+            "ts": "1526362078.000000"
+        }
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "<@UAA37NWHW>さんがチャンネルに参加しました",
+        "ts": "1526368066.000266",
+        "subtype": "channel_join",
+        "inviter": "U9XHTK59Q"
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "<@U9V4VKKPA>さんがチャンネルに参加しました",
+        "ts": "1526368077.000219",
+        "subtype": "channel_join"
+    },
+    {
+        "type": "message",
+        "user": "U9V4VKKPA",
+        "text": "<@U9V4VKKPA>さんがチャンネルに参加しました",
+        "ts": "1526368077.000220",
+        "subtype": "channel_join"
+    }
+]

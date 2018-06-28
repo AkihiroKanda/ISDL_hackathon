@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "user": "UA074SQ4S",
+        "text": "森本陸さんにはお伝えしましたが，知的照明班ではなく快適性班で研究をすることに決めました．\nそのため，次回の研究MTGからは出席いたしません．\nご迷惑をおかけしますが，よろしくお願いいたします．",
+        "ts": "1526894466.000499",
+        "thread_ts": "1526894466.000499",
+        "unread_count": 1,
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "UAA37NWHW",
+                "ts": "1526898230.000457"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "count": 4,
+                "users": [
+                    "U9WJKLKME",
+                    "UAA37NWHW",
+                    "U9XQR125B",
+                    "U9WMSU938"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "了解",
+        "ts": "1526898230.000457",
+        "thread_ts": "1526894466.000499",
+        "parent_user_id": "UA074SQ4S"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "user": "UAA37NWHW",
+        "text": "了解",
+        "ts": "1527689008.000994",
+        "attachments": [
+            {
+                "color": "D0D0D0",
+                "fallback": "[May 29th, 2018 4:51 PM] kkobayashi: 縦でお願いします．",
+                "author_id": "UA125R19U",
+                "author_name": "kobayashi",
+                "author_subname": "kobayashi",
+                "author_link": "https:\/\/isdl2018.slack.com\/team\/UA125R19U",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-04-04\/341666470902_1914066720251c8607ba_48.png",
+                "text": "縦でお願いします．",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#professor-to-do のスレッドから",
+                "ts": 1527580286.000085
+            }
+        ]
+    }
+]

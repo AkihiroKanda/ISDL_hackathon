@@ -1,0 +1,212 @@
+[
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "冊子です．\nまだ文字チェック等はしておりません．",
+        "ts": "1526620825.000179"
+    },
+    {
+        "type": "message",
+        "user": "UA125R19U",
+        "text": "<@UA125R19U>さんがこのファイルをアップロードしました : <https:\/\/isdl2018.slack.com\/files\/UA125R19U\/FAS6W8CDB\/______.pdf|冊子.pdf>",
+        "ts": "1526620862.000020",
+        "subtype": "file_share",
+        "username": "kkobayashi",
+        "file": {
+            "id": "FAS6W8CDB",
+            "created": 1526620860,
+            "timestamp": 1526620860,
+            "name": "冊子.pdf",
+            "title": "冊子.pdf",
+            "mimetype": "application\/pdf",
+            "image_exif_rotation": 0,
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "UA125R19U",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 1440450,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAS6W8CDB\/______.pdf",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAS6W8CDB\/download\/______.pdf",
+            "original_h": 0,
+            "original_w": 0,
+            "thumb_64": "",
+            "thumb_80": "",
+            "thumb_160": "",
+            "thumb_360": "",
+            "thumb_360_gif": "",
+            "thumb_360_w": 0,
+            "thumb_360_h": 0,
+            "thumb_480": "",
+            "thumb_480_w": 0,
+            "thumb_480_h": 0,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/UA125R19U\/FAS6W8CDB\/______.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAS6W8CDB-9f478dca1e",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GADQR1XCM"
+            ],
+            "ims": [],
+            "initial_comment": {},
+            "comments_count": 0,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "チェックしたけど\n・第1号じゃなくて2号\n・小林さんのレジュメの参考文献2が参照されてない\n・藤井君だけ苗字のローマ字が大文字で書かれてない\nを直しといて",
+        "ts": "1526622064.000209"
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "あと名前と苗字の間が全角スペースの人と半角スペースの人がいるから半角スペースで統一しといて",
+        "ts": "1526622134.000197"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "修正します",
+        "ts": "1526624130.000297"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "<@UA1239MTQ>さんがこのファイルをアップロードしました : <https:\/\/isdl2018.slack.com\/files\/UA1239MTQ\/FAS7N76GM\/2018___5______________________________.pdf|2018年5月月例スケジュール.pdf>",
+        "ts": "1526626256.000358",
+        "subtype": "file_share",
+        "username": "hyoneda",
+        "file": {
+            "id": "FAS7N76GM",
+            "created": 1526626255,
+            "timestamp": 1526626255,
+            "name": "2018年5月月例スケジュール.pdf",
+            "title": "2018年5月月例スケジュール.pdf",
+            "mimetype": "application\/pdf",
+            "image_exif_rotation": 0,
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "UA1239MTQ",
+            "mode": "hosted",
+            "editable": false,
+            "is_external": false,
+            "external_type": "",
+            "size": 20309,
+            "url": "",
+            "url_download": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAS7N76GM\/2018___5______________________________.pdf",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T9WFGUEQP-FAS7N76GM\/download\/2018___5______________________________.pdf",
+            "original_h": 0,
+            "original_w": 0,
+            "thumb_64": "",
+            "thumb_80": "",
+            "thumb_160": "",
+            "thumb_360": "",
+            "thumb_360_gif": "",
+            "thumb_360_w": 0,
+            "thumb_360_h": 0,
+            "thumb_480": "",
+            "thumb_480_w": 0,
+            "thumb_480_h": 0,
+            "thumb_720": "",
+            "thumb_720_w": 0,
+            "thumb_720_h": 0,
+            "thumb_960": "",
+            "thumb_960_w": 0,
+            "thumb_960_h": 0,
+            "thumb_1024": "",
+            "thumb_1024_w": 0,
+            "thumb_1024_h": 0,
+            "permalink": "https:\/\/isdl2018.slack.com\/files\/UA1239MTQ\/FAS7N76GM\/2018___5______________________________.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T9WFGUEQP-FAS7N76GM-c4d74e7621",
+            "edit_link": "",
+            "preview": "",
+            "preview_highlight": "",
+            "lines": 0,
+            "lines_more": 0,
+            "is_public": false,
+            "public_url_shared": false,
+            "channels": [],
+            "groups": [
+                "GADQR1XCM"
+            ],
+            "ims": [],
+            "initial_comment": {},
+            "comments_count": 1,
+            "num_stars": 0,
+            "is_starred": false
+        },
+        "upload": true
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "<@UA1239MTQ> Low powerのフォント違うと思う",
+        "ts": "1526633448.000151"
+    },
+    {
+        "type": "message",
+        "user": "UA1239MTQ",
+        "text": "上げた後に変更済みです",
+        "ts": "1526634271.000252",
+        "reactions": [
+            {
+                "name": "man-bowing::skin-tone-5",
+                "count": 1,
+                "users": [
+                    "UA1239MTQ"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U9WMSU938",
+        "text": "じゃあ4月月例と同様にGoogleドライブにあげて，generalで流しといて！",
+        "ts": "1526634332.000357"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "スケジュールも",
+        "ts": "1526634495.000484"
+    },
+    {
+        "type": "message",
+        "user": "U9UV34517",
+        "text": "日程変わってるので予約の変更を投げといてー",
+        "ts": "1526649275.000378",
+        "reactions": [
+            {
+                "name": "済",
+                "count": 1,
+                "users": [
+                    "UA125R19U"
+                ]
+            }
+        ]
+    }
+]
